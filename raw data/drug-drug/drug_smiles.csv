@@ -1,0 +1,105 @@
+﻿cid,cmpdname,NCI,isosmiles,SIDER
+2123,Altretamine,Altretamine,CN(C)C1=NC(=NC(=N1)N(C)C)N(C)C,CID100002123
+2141,Amifostine,Amifostine,C(CN)CNCCSP(=O)(O)O,CID100002141
+2187,Anastrozole,Anastrozole,CC(C)(C#N)C1=CC(=CC(=C1)CN2C=NC=N2)C(C)(C)C#N,CID100002187
+2478,Busulfan,Busulfan,CS(=O)(=O)OCCCCOS(=O)(=O)C,CID100002478
+2578,Carmustine,Carmustine,C(CCl)NC(=O)N(CCCl)N=O,CID100002578
+2662,Celecoxib,Celecoxib,CC1=CC=C(C=C1)C2=CC(=NN2C3=CC=C(C=C3)S(=O)(=O)N)C(F)(F)F,CID100002662
+2708,Chlorambucil,Chlorambucil,C1=CC(=CC=C1CCCC(=O)O)N(CCCl)CCCl,CID100002708
+2907,Cyclophosphamide,Cyclophosphamide,C1CNP(=O)(OC1)N(CCCl)CCCl,CID100002907
+3385,Fluorouracil,Fluorouracil,C1=C(C(=O)NC(=O)N1)F,CID100003385
+3657,Hydroxyurea,Hydroxyurea,C(=O)(N)NO,CID100003657
+3690,Ifosfamide,Ifosfamide,C1CN(P(=O)(OC1)NCCCl)CCCl,CID100003690
+3902,Letrozole,Letrozole,C1=CC(=CC=C1C#N)C(C2=CC=C(C=C2)C#N)N3C=NC=N3,CID100003902
+3950,Lomustine,Lomustine,C1CCC(CC1)NC(=O)N(CCCl)N=O,CID100003950
+4114,Methoxsalen,Methoxsalen,COC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2,CID100004114
+4211,Mitotane,Mitotane,C1=CC=C(C(=C1)C(C2=CC=C(C=C2)Cl)C(Cl)Cl)Cl,CID100004211
+4212,Mitoxantrone,Mitoxantrone,C1=CC(=C2C(=C1NCCNCCO)C(=O)C3=C(C=CC(=C3C2=O)O)O)NCCNCCO,CID100004212
+4842,Pipobroman,Pipobroman,C1CN(CCN1C(=O)CCBr)C(=O)CCBr,#N/A
+5299,Streptozoticin,Streptozocin,CN(C(=O)NC(C=O)C(C(C(CO)O)O)O)N=O,CID100005300
+5311,Vorinostat,Vorinostat,C1=CC=C(C=C1)NC(=O)CCCCCCC(=O)NO,CID100005311
+5394,Temozolomide,Temozolomide,CN1C(=O)N2C=NC(=C2N=N1)C(=O)N,CID100005394
+5426,Thalidomide,Thalidomide,C1CC(=O)NC(=O)C1N2C(=O)C3=CC=CC=C3C2=O,CID100005426
+5453,Thiotepa,Thiotepa,C1CN1P(=S)(N2CC2)N3CC3,CID100005453
+5746,mitomycin C,Mitomycin,CC1=C(C(=O)C2=C(C1=O)N3C[C@H]4[C@@H]([C@@]3([C@@H]2COC(=O)N)OC)N4)N,CID100005746
+5790,Floxuridine,Floxuridine,C1[C@@H]([C@H](O[C@H]1N2C=C(C(=O)NC2=O)F)CO)O,CID100003363
+5799,Triethylenemelamine,Triethylenemelamine,C1CN1C2=NC(=NC(=N2)N3CC3)N4CC4,#N/A
+5935,Mechlorethamine hydrochloride,Mechlorethamine hydrochloride,CN(CCCl)CCCl.Cl,#N/A
+6194,Uracil mustard,Uracil mustard,C1=C(C(=O)NC(=O)N1)N(CCCl)CCCl,#N/A
+6252,Cytarabine hydrochloride,Cytarabine hydrochloride,C1=CN(C(=O)N=C1N)[C@H]2[C@H]([C@@H]([C@H](O2)CO)O)O.Cl,CID100000596
+9444,Azacitidine,Azacitidine,C1=NC(=NC(=O)N1[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O)N,CID100001805
+9703,Procarbazine hydrochloride,Procarbazine hydrochloride,CC(C)NC(=O)C1=CC=C(C=C1)CNNC.Cl,CID100004915
+11683,Megestrol acetate,Megestrol acetate,CC1=C[C@@H]2[C@H](CC[C@]3([C@H]2CC[C@@]3(C(=O)C)OC(=O)C)C)[C@@]4(C1=CC(=O)CC4)C,#N/A
+20279,Cladribine,Cladribine,C1[C@@H]([C@H](O[C@H]1N2C=NC3=C(N=C(N=C32)Cl)N)CO)O,CID100001546
+36314,Paclitaxel,Paclitaxel,CC1=C2[C@H](C(=O)[C@@]3([C@H](C[C@@H]4[C@]([C@H]3[C@@H]([C@@](C2(C)C)(C[C@@H]1OC(=O)[C@@H]([C@H](C5=CC=CC=C5)NC(=O)C6=CC=CC=C6)O)O)OC(=O)C7=CC=CC=C7)(CO4)OC(=O)C)O)C)OC(=O)C,CID100004666
+36462,Etoposide,Etoposide,C[C@@H]1OC[C@@H]2[C@@H](O1)[C@@H]([C@H]([C@@H](O2)O[C@H]3[C@H]4COC(=O)[C@@H]4[C@@H](C5=CC6=C(C=C35)OCO6)C7=CC(=C(C(=C7)OC)O)OC)O)O,CID100003310
+41867,Epirubicin,4'-Epiadriamycin,C[C@H]1[C@@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)CO)O)N)O,#N/A
+54900,Raloxifene hydrochloride,Raloxifene hydrochloride,C1CCN(CC1)CCOC2=CC=C(C=C2)C(=O)C3=C(SC4=C3C=CC(=C4)O)C5=CC=C(C=C5)O.Cl,CID100005035
+57469,Imiquimod,Imiquimod,CC(C)CN1C=NC2=C1C3=CC=CC=C3N=C2N,CID100057469
+60198,Exemestane,Exemestane,C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)CC(=C)C4=CC(=O)C=C[C@]34C,CID100060198
+60699,Topotecan hydrochloride,Topotecan hydrochloride,CC[C@@]1(C2=C(COC1=O)C(=O)N3CC4=CC5=C(C=CC(=C5CN(C)C)O)N=C4C3=C2)O.Cl,CID100005515
+60749,Gemcitabine hydrochloride,Gemcitabine hydrochloride,C1=CN(C(=O)N=C1N)[C@H]2C([C@@H]([C@H](O2)CO)O)(F)F.Cl,CID100003461
+60953,Capecitabine,Capecitabine,CCCCCOC(=O)NC1=NC(=O)N(C=C1F)[C@H]2[C@@H]([C@@H]([C@H](O2)C)O)O,CID100060953
+62770,Daunorubicin hydrochloride,Daunorubicin hydrochloride,C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)C)O)N)O.Cl,#N/A
+68740,Zoledronic acid,Zoledronic acid,C1=CN(C=N1)CC(O)(P(=O)(O)O)P(=O)(O)O,#N/A
+71384,Dexrazoxane,Dexrazoxane,C[C@@H](CN1CC(=O)NC(=O)C1)N2CC(=O)NC(=O)C2,CID100030623
+77082,Bendamustine hydrochloride,bendamustine hydrochloride,CN1C2=C(C=C(C=C2)N(CCCl)CCCl)N=C1CCCC(=O)O.Cl,CID100065628
+104741,Fulvestrant,Fulvestrant,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)[C@@H](CC4=C3C=CC(=C4)O)CCCCCCCCCS(=O)CCCC(C(F)(F)F)(F)F,#N/A
+104842,7-Ethyl-10-hydroxycamptothecin,7-Ethyl-10-hydroxycamptothecin,CCC1=C2CN3C(=CC4=C(C3=O)COC(=O)[C@@]4(CC)O)C2=NC5=C1C=C(C=C5)O,#N/A
+119182,Clofarabine,Clofarabine,C1=NC2=C(N=C(N=C2N1[C@H]3[C@H]([C@@H]([C@H](O3)CO)O)F)Cl)N,CID100119182
+123596,Imatinib Mesylate,Imatinib mesylate,CC1=C(C=C(C=C1)NC(=O)C2=CC=C(C=C2)CN3CCN(CC3)C)NC4=NC=CC(=N4)C5=CN=CC=C5.CS(=O)(=O)O,CID100005291
+123608,5-Aminolevulinic acid hydrochloride,Aminolevulinic acid hydrochloride,C(CC(=O)O)C(=O)CN.Cl,#N/A
+123631,Gefitinib,Gefitinib,COC1=C(C=C2C(=C1)N=CN=C2NC3=CC(=C(C=C3)F)Cl)OCCCN4CCOCC4,CID100123631
+126941,Methotrexate,Methotrexate,CN(CC1=CN=C2C(=N1)C(=NC(=N2)N)N)C3=CC=C(C=C3)C(=O)N[C@@H](CCC(=O)O)C(=O)O,CID100004112
+132971,Abiraterone,Abiraterone,C[C@]12CC[C@@H](CC1=CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC=C4C5=CN=CC=C5)C)O,CID100132971
+148121,Pralatrexate,pralatrexate,C#CCC(CC1=CN=C2C(=N1)C(=NC(=N2)N)N)C3=CC=C(C=C3)C(=O)N[C@@H](CCC(=O)O)C(=O)O,CID100148121
+148124,Docetaxel,Docetaxel,CC1=C2[C@H](C(=O)[C@@]3([C@H](C[C@@H]4[C@]([C@H]3[C@@H]([C@@](C2(C)C)(C[C@@H]1OC(=O)[C@@H]([C@H](C5=CC=CC=C5)NC(=O)OC(C)(C)C)O)O)OC(=O)C6=CC=CC=C6)(CO4)OC(=O)C)O)C)O,CID100003143
+176871,Erlotinib hydrochloride,Erlotinib hydrochloride,COCCOC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC=CC(=C3)C#C)OCCOC.Cl,CID100176870
+208908,Lapatinib,Lapatinib ditosylate,CS(=O)(=O)CCNCC1=CC=C(O1)C2=CC3=C(C=C2)N=CN=C3NC4=CC(=C(C=C4)OCC5=CC(=CC=C5)F)Cl,CID100208908
+216326,Lenalidomide,Lenalidomide,C1CC(=O)NC(=O)C1N2CC3=C(C2=O)C=CC=C3N,CID100216326
+230076,Aureolic acid,Plicamycin,CC1C(C(CC(O1)OC2CC(OC(C2O)C)OC3=CC4=CC5=C(C(=O)C(C(C5)C(C(=O)C(C(C)O)O)OC)OC6CC(C(C(O6)C)O)OC7CC(C(C(O7)C)O)OC8CC(C(C(O8)C)O)(C)O)C(=C4C(=C3C)O)O)O)O,#N/A
+241902,Vinblastine sulfate,Vinblastine sulfate,CC[C@@]1(C[C@@H]2C[C@@](C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9[C@H]7[C@@](C=CC9)([C@H]([C@@]([C@@H]8N6C)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O.OS(=O)(=O)O,CID100013342
+249332,Vincristine sulfate,Vincristine sulfate,CC[C@@]1(C[C@@H]2C[C@@](C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9[C@H]7[C@@](C=CC9)([C@H]([C@@]([C@@H]8N6C=O)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O.OS(=O)(=O)O,CID100005978
+261004,"Arsenic(III)oxide,arsenic trioxide,arsenous acid anhydride,arsenous acid,arsenic sesquioxide,white arsenic",Arsenic trioxide,O=[As]O[As]=O,#N/A
+387447,Bortezomib,Bortezomib,B([C@H](CC(C)C)NC(=O)[C@H](CC1=CC=CC=C1)NC(=O)C2=NC=CN=C2)(O)O,CID100093860
+406563,Sorafenib tosylate,Sorafenib tosylate,CC1=CC=C(C=C1)S(=O)(=O)O.CNC(=O)C1=NC=CC(=C1)OC2=CC=C(C=C2)NC(=O)NC3=CC(=C(C=C3)Cl)C(F)(F)F,CID100216239
+426756,Carboplatin,Carboplatin,C1CC(C1)(C(=O)O)C(=O)O.[NH2-].[NH2-].[Pt+2],CID100038904
+439693,Pentostatin,Pentostatin,C1[C@@H]([C@H](O[C@H]1N2C=NC3=C2NC=NC[C@H]3O)CO)O,CID100004739
+443939,Doxorubicin Hydrochloride,Doxorubicin hydrochloride,C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)CO)O)N)O.Cl,CID100001690
+444000,Estramustine phosphate sodium,Estramustine phosphate sodium,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OP(=O)([O-])[O-])CCC4=C3C=CC(=C4)OC(=O)N(CCCl)CCCl.[Na+].[Na+],CID100003268
+444795,Tretinoin,Tretinoin,CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/C(=O)O)/C)/C,#N/A
+451668,Decitabine,Decitabine,C1[C@@H]([C@H](O[C@H]1N2C=NC(=NC2=O)N)CO)O,CID100016886
+452548,Teniposide,Teniposide,COC1=CC(=CC(=C1O)OC)[C@H]2[C@@H]3[C@H](COC3=O)[C@@H](C4=CC5=C(C=C24)OCO5)O[C@H]6[C@@H]([C@H]([C@H]7[C@H](O6)CO[C@H](O7)C8=CC=CS8)O)O,CID100005396
+454216,Valrubicin,Valrubicin,CCCCC(=O)OCC(=O)[C@]1(C[C@@H](C2=C(C1)C(=C3C(=C2O)C(=O)C4=C(C3=O)C=CC=C4OC)O)O[C@H]5C[C@@H]([C@@H]([C@@H](O5)C)O)NC(=O)C(F)(F)F)O,CID100041744
+457193,Dactinomycin,Dactinomycin,C[C@@H]1[C@@H](C(=O)N[C@@H](C(=O)N2CCC[C@H]2C(=O)N(CC(=O)N([C@H](C(=O)O1)C(C)C)C)C)C(C)C)NC(=O)C3=C4C(=C(C=C3)C)OC5=C(C(=O)C(=C(C5=N4)C(=O)N[C@H]6[C@H](OC(=O)[C@@H](N(C(=O)CN(C(=O)[C@@H]7CCCN7C(=O)[C@H](NC6=O)C(C)C)C)C)C(C)C)C)N)C,#N/A
+460612,Melphalan,Melphalan,C1=CC(=CC=C1C[C@@H](C(=O)O)N)N(CCCl)CCCl,CID100004053
+636362,Idarubicin hydrochloride,Idarubicin hydrochloride,C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=CC=CC=C5C4=O)O)(C(=O)C)O)N)O.Cl,CID100003685
+644241,Nilotinib,Nilotinib,CC1=C(C=C(C=C1)C(=O)NC2=CC(=CC(=C2)C(F)(F)F)N3C=C(N=C3)C)NC4=NC=CC(=N4)C5=CN=CC=C5,CID100644241
+657237,Fludarabine,Fludarabine,C1=NC2=C(N=C(N=C2N1[C@H]3[C@H]([C@@H]([C@H](O3)CO)O)O)F)N,CID100003367
+667490,Mercaptopurine,Mercaptopurine,C1=NC2=C(N1)C(=S)N=CN2,CID100667490
+2723601,Thioguanine,Thioguanine,C1=NC2=C(N1)C(=S)N=C(N2)N,CID102723601
+2733525,Tamoxifen citrate,Tamoxifen citrate,CC/C(=C(\C1=CC=CC=C1)/C2=CC=C(C=C2)OCCN(C)C)/C3=CC=CC=C3.C(C(=O)O)C(CC(=O)O)(C(=O)O)O,CID100005376
+3011155,Nelarabine,Nelarabine,COC1=NC(=NC2=C1N=CN2[C@H]3[C@H]([C@@H]([C@H](O3)CO)O)O)N,CID100096312
+3062316,Dasatinib,Dasatinib,CC1=C(C(=CC=C1)Cl)NC(=O)C2=CN=C(S2)NC3=CC(=NC(=N3)C)N4CCN(CC4)CCO,CID103062316
+3081361,Vandetanib,Vandetanib,CN1CCC(CC1)COC2=C(C=C3C(=C2)N=CN=C3NC4=C(C=C(C=C4)Br)F)OC,CID103081361
+5284616,Sirolimus,Sirolimus,C[C@@H]1CC[C@H]2C[C@@H](/C(=C/C=C/C=C/[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)O)C)/C)O)OC)C)C)/C)OC,CID100005040
+5329102,Sunitinib,Sunitinib,CCN(CC)CCNC(=O)C1=C(NC(=C1C)/C=C\2/C3=C(C=CC(=C3)F)NC2=O)C,CID103086686
+5351141,Quinacrine hydrochloride,Quinacrine hydrochloride,CCN(CC)CCCC(C)NC1=C2C=C(C=CC2=NC3=C1C=CC(=C3)Cl)OC.Cl,#N/A
+5352062,Istodax,Romidepsin,C/C=C\1/C(=O)N[C@H](C(=O)O[C@H]\2CC(=O)N[C@@H](C(=O)N[C@H](CSSCC/C=C2)C(=O)N1)C(C)C)C(C)C,CID100003425
+5702198,azane;dichloroplatinum,Cisplatin,N.N.Cl[Pt]Cl,CID100002767
+6442177,Everolimus,Everolimus,C[C@@H]1CC[C@H]2C[C@@H](/C(=C/C=C/C=C/[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)OCCO)C)/C)O)OC)C)C)/C)OC,CID106442177
+6445540,Ixabepilone,Ixabepilone,C[C@H]1CCC[C@@]2([C@@H](O2)C[C@H](NC(=O)C[C@@H](C(C(=O)[C@@H]([C@H]1O)C)(C)C)O)/C(=C/C3=CSC(=N3)C)/C)C,CID106445540
+6450551,Axitinib,Axitinib,CNC(=O)C1=CC=CC=C1SC2=CC3=C(C=C2)C(=NN3)/C=C/C4=CC=CC=N4,CID103086685
+9854073,Cabazitaxel,Cabazitaxel,CC1=C2[C@H](C(=O)[C@@]3([C@H](C[C@@H]4[C@]([C@H]3[C@@H]([C@@](C2(C)C)(C[C@@H]1OC(=O)[C@@H]([C@H](C5=CC=CC=C5)NC(=O)OC(C)(C)C)O)O)OC(=O)C6=CC=CC=C6)(CO4)OC(=O)C)OC)C)OC,CID109811221
+9887053,Oxaliplatin,Oxaliplatin,C1CC[C@H]([C@@H](C1)[NH-])[NH-].C(=O)(C(=O)O)O.[Pt+2],CID100004609
+11525740,Pazopanib hydrochloride,Pazopanib hydrochloride,CC1=C(C=C(C=C1)NC2=NC=CC(=N2)N(C)C3=CC4=NN(C(=C4C=C3)C)C)S(=O)(=O)N.Cl,CID110113978
+11626560,Crizotinib,Crizotinib,C[C@H](C1=C(C=CC(=C1Cl)F)Cl)OC2=C(N=CC(=C2)C3=CN(N=C3)C4CCNCC4)N,CID111597571
+16051941,Vinorelbine tartrate,Vinorelbine tartrate,CCC1=C[C@H]2C[C@@](C3=C(CN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9[C@H]7[C@@](C=CC9)([C@H]([C@@]([C@@H]8N6C)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC.C(C(C(=O)O)O)(C(=O)O)O.C(C(C(=O)O)O)(C(=O)O)O,CID100005672
+17755248,Eribulin mesylate,Eribulin mesylate,C[C@@H]1C[C@@H]2CC[C@H]3C(=C)C[C@@H](O3)CC[C@]45C[C@@H]6[C@H](O4)[C@H]7[C@@H](O6)[C@@H](O5)[C@@H]8[C@@H](O7)CC[C@@H](O8)CC(=O)C[C@H]9[C@H](C[C@H](C1=C)O2)O[C@@H]([C@@H]9OC)C[C@@H](CN)O.CS(=O)(=O)O,CID106331630
+24776445,Vismodegib,Vismodegib,CS(=O)(=O)C1=CC(=C(C=C1)C(=O)NC2=CC(=C(C=C2)Cl)C3=CC=CC=N3)Cl,CID124776445
+25126798,Ruxolitinib,Ruxolitinib,C1CCC(C1)[C@@H](CC#N)N2C=C(C=N2)C3=C4C=CNC4=NC=N3,CID117754772
+42611257,Vemurafenib,vemurafenib,CCCS(=O)(=O)NC1=C(C(=C(C=C1)F)C(=O)C2=CNC3=C2C=C(C=N3)C4=CC=C(C=C4)Cl)F,CID142611257
+54608728,Blenoxane (TN) (Bristol Meyers),Bleomycin sulfate,CC1=C(N=C(N=C1N)[C@H](CC(=O)N)NC[C@@H](C(=O)N)N)C(=O)N[C@@H](C(C2=CN=CN2)OC3C(C(C(C(O3)CO)O)O)OC4C(C(C(C(O4)CO)O)OC(=O)N)O)C(=O)N[C@H](C)[C@H]([C@H](C)C(=O)N[C@@H]([C@@H](C)O)C(=O)NCCC5=NC(=CS5)C6=NC(=CS6)C(=O)NCCC[S+](C)C)O.OS(=O)(=O)[O-],CID100072466
+135398738,DTIC-Dome,Dacarbazine,CN(C)/N=N/C1=C(NC=N1)C(=O)N,CID105281007
+135401907,Allopurinol,Allopurinol,C1=NNC2=C1C(=O)NC=N2,CID100002094
+135410875,Pemetrexed,Pemetrexed Disodium ,C1=CC(=CC=C1CCC2=CNC3=C2C(=O)NC(=N3)N)C(=O)N[C@@H](CCC(=O)O)C(=O)O,CID100060843

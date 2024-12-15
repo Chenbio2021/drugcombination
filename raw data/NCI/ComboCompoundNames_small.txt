@@ -1,0 +1,109 @@
+ID	NAME	ID
+740	Methotrexate	740
+750	Busulfan	750
+752	Thioguanine	752
+752	6-Thioguanine	752
+755	Mercaptopurine	755
+762	Mechlorethamine hydrochloride	762
+1390	Allopurinol	1390
+3053	Dactinomycin	3053
+3088	Chlorambucil	3088
+6396	Thiotepa	6396
+8806	Melphalan	8806
+9706	Triethylenemelamine	9706
+13875	Altretamine	13875
+14229	Quinacrine hydrochloride	14229
+18509	Aminolevulinic acid hydrochloride	18509
+19893	Fluorouracil	19893
+24559	Plicamycin	24559
+24559	Mithramycin	24559
+25154	Pipobroman	25154
+26271	Cyclophosphamide	26271
+26980	Mitomycin	26980
+27640	Floxuridine	27640
+32065	Hydroxyurea	32065
+34462	Uracil mustard	34462
+38721	Mitotane	38721
+45388	Dacarbazine	45388
+45923	Methoxsalen	45923
+49842	Vinblastine sulfate	49842
+49842	Vinblastine Sulfate Hydrate	49842
+63878	Cytarabine hydrochloride	63878
+66847	Thalidomide	66847
+67574	Vincristine sulfate	67574
+71423	Megestrol acetate	71423
+77213	Procarbazine hydrochloride	77213
+79037	Lomustine	79037
+82151	Daunorubicin hydrochloride	82151
+85998	Streptozocin	85998
+92859	Arsenic trioxide	92859
+102816	Azacitidine	102816
+105014	Cladribine	105014
+109724	Ifosfamide	109724
+119875	Cisplatin	119875
+122758	Tretinoin	122758
+122819	Teniposide	122819
+123127	Doxorubicin hydrochloride	123127
+125066	Bleomycin sulfate	125066
+125973	Paclitaxel	125973
+127716	Decitabine	127716
+138783	bendamustine hydrochloride	138783
+141540	Etoposide	141540
+169780	Dexrazoxane	169780
+180973	Tamoxifen citrate	180973
+218321	Pentostatin	218321
+226080	Sirolimus	226080
+241240	Carboplatin	241240
+246131	Valrubicin	246131
+266046	Oxaliplatin	266046
+279836	Mitoxantrone	279836
+296961	Amifostine	296961
+362856	Temozolomide	362856
+369100	Imiquimod	369100
+409962	Carmustine	409962
+606869	Clofarabine	606869
+608210	Vinorelbine tartrate	608210
+609699	Topotecan hydrochloride	609699
+613327	Gemcitabine hydrochloride	613327
+628503	Docetaxel	628503
+681239	Bortezomib	681239
+686673	Nelarabine	686673
+698037	Pemetrexed Disodium 	698037
+701852	Vorinostat	701852
+702294	Estramustine phosphate sodium	702294
+712807	Capecitabine	712807
+713563	Exemestane	713563
+715055	Gefitinib	715055
+718781	Erlotinib hydrochloride	718781
+719276	Fulvestrant	719276
+719345	Letrozole	719345
+719627	Celecoxib	719627
+721517	Zoledronic acid	721517
+732517	Dasatinib	732517
+733504	Everolimus	733504
+743414	Imatinib mesylate	743414
+745750	Lapatinib ditosylate	745750
+747599	Nilotinib	747599
+747971	Sorafenib tosylate	747971
+747972	Lenalidomide	747972
+747973	Ixabepilone	747973
+747974	Raloxifene hydrochloride	747974
+755986	Vismodegib	755986
+761432	Cabazitaxel	761432
+118218	Fludarabine	118218
+256439	Idarubicin hydrochloride	256439
+256942	4'-Epiadriamycin	256942
+673596	7-Ethyl-10-hydroxycamptothecin	673596
+719344	Anastrozole	719344
+749226	Abiraterone	749226
+750690	Sunitinib	750690
+754143	Romidepsin	754143
+754230	pralatrexate	754230
+756645	Crizotinib	756645
+757441	Axitinib	757441
+760766	Vandetanib	760766
+761431	vemurafenib	761431
+707389	Eribulin mesylate	707389
+737754	Pazopanib hydrochloride	737754
+753082	vemurafenib	753082
+763371	Ruxolitinib	763371

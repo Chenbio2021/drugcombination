@@ -1,0 +1,5081 @@
+﻿Drug,GENE
+Celecoxib,PTGS2
+Celecoxib,ALOX5
+Celecoxib,CA2
+Celecoxib,MAPK14
+Celecoxib,PTGES
+Celecoxib,CA9
+Celecoxib,CA1
+Hydroxyurea,RRM1
+Methoxsalen,CYP2A13
+Methoxsalen,CYP2A6
+Raloxifene hydrochloride,PLD1
+Raloxifene hydrochloride,UBE2N
+Raloxifene hydrochloride,AOX1
+Imatinib mesylate,ALK
+Imatinib mesylate,ABL1
+Imatinib mesylate,AURKC
+Imatinib mesylate,DDR1
+Imatinib mesylate,DDR2
+Imatinib mesylate,PRKCA
+Imatinib mesylate,CDK2
+Imatinib mesylate,INSR
+Imatinib mesylate,MYO3B
+Imatinib mesylate,ABL2
+Imatinib mesylate,FRK
+Imatinib mesylate,PDGFRB
+Imatinib mesylate,MAPK8
+Imatinib mesylate,EPHA8
+Imatinib mesylate,PDGFRA
+Imatinib mesylate,KDR
+Imatinib mesylate,MAPK14
+Imatinib mesylate,SYK
+Imatinib mesylate,PRKCD
+Imatinib mesylate,ABCG2
+Imatinib mesylate,NQO2
+Imatinib mesylate,CDK19
+Imatinib mesylate,CLK4
+Imatinib mesylate,BLK
+Imatinib mesylate,BRAF
+Imatinib mesylate,EGFR
+Imatinib mesylate,LYN
+Imatinib mesylate,RAF1
+Imatinib mesylate,TNNI3K
+Imatinib mesylate,MAP3K20
+Imatinib mesylate,GAK
+Imatinib mesylate,MAPK10
+Imatinib mesylate,PLK4
+Imatinib mesylate,STK17A
+Imatinib mesylate,CHEK1
+Imatinib mesylate,AURKB
+Imatinib mesylate,PRKG1
+Imatinib mesylate,CHUK
+Imatinib mesylate,FLT3
+Imatinib mesylate,PIK3CA
+Imatinib mesylate,BRSK1
+Imatinib mesylate,CDK4
+Imatinib mesylate,JAK1
+Imatinib mesylate,EIF2AK4
+Imatinib mesylate,FLT4
+Imatinib mesylate,MET
+Imatinib mesylate,RET
+Imatinib mesylate,SRPK2
+Imatinib mesylate,CAMK2A
+Imatinib mesylate,ROCK2
+Imatinib mesylate,MINK1
+Imatinib mesylate,EPHA6
+Imatinib mesylate,PRKCH
+Imatinib mesylate,MAPK9
+Imatinib mesylate,BMX
+Imatinib mesylate,EPHB1
+Imatinib mesylate,EPHB2
+Imatinib mesylate,EPHB4
+Imatinib mesylate,FGFR1
+Imatinib mesylate,FGFR2
+Imatinib mesylate,JAK2
+Imatinib mesylate,TYK2
+Imatinib mesylate,TEK
+Imatinib mesylate,ZAP70
+Imatinib mesylate,RPS6KA5
+Imatinib mesylate,CLK1
+Imatinib mesylate,CA1
+Imatinib mesylate,CA2
+Imatinib mesylate,CA3
+Imatinib mesylate,CA5B
+Imatinib mesylate,CA7
+Imatinib mesylate,CA9
+Imatinib mesylate,CA12
+Imatinib mesylate,CA14
+Vorinostat,HDAC6
+Vorinostat,HDAC8
+Vorinostat,HDAC1
+Vorinostat,HDAC2
+Vorinostat,HDAC3
+Vorinostat,HDAC4
+Vorinostat,HDAC5
+Vorinostat,HDAC7
+Vorinostat,HDAC9
+Vorinostat,HDAC10
+Vorinostat,HDAC11
+Vorinostat,JAK2
+Vorinostat,FLT3
+Vorinostat,CYP3A4
+Vorinostat,KDR
+Vorinostat,PIK3R1
+Temozolomide,ABL1
+Teniposide,NCOA3
+Teniposide,NCOA1
+Thalidomide,TNF
+Daunorubicin hydrochloride,HSP90AA1
+Daunorubicin hydrochloride,FPR1
+Daunorubicin hydrochloride,NR5A1
+Doxorubicin hydrochloride,NR5A1
+Doxorubicin hydrochloride,RAD51
+Doxorubicin hydrochloride,CISD1
+Paclitaxel,MERTK
+Etoposide,TOP2A
+Exemestane,CYP19A1
+Zoledronic acid,FDPS
+Zoledronic acid,GGPS1
+Gefitinib,EGFR
+Gefitinib,PTK6
+Gefitinib,ABCG2
+Gefitinib,SLK
+Gefitinib,STK10
+Gefitinib,MKNK2
+Gefitinib,EPHB1
+Gefitinib,BACE1
+Gefitinib,ERBB4
+Gefitinib,JAK3
+Gefitinib,FRK
+Gefitinib,MKNK1
+Gefitinib,BLK
+Gefitinib,CIT
+Gefitinib,LYN
+Gefitinib,DAPK3
+Gefitinib,EPHA8
+Gefitinib,GAK
+Gefitinib,HCK
+Gefitinib,MAPK10
+Gefitinib,MYLK2
+Gefitinib,STK17A
+Gefitinib,MAPK6
+Gefitinib,MAPK4
+Gefitinib,PHKG1
+Gefitinib,DMPK
+Gefitinib,PIK3CA
+Gefitinib,INSR
+Gefitinib,MINK1
+Gefitinib,MAP3K4
+Gefitinib,BRAF
+Gefitinib,ABL1
+Gefitinib,FLT4
+Gefitinib,FLT3
+Gefitinib,MYLK
+Gefitinib,CAMK2A
+Gefitinib,PRKD2
+Gefitinib,CAMK2B
+Gefitinib,TNNI3K
+Gefitinib,PRKCH
+Gefitinib,CAMKK2
+Gefitinib,JAK1
+Gefitinib,IRAK3
+Gefitinib,LRRK2
+Gefitinib,PRKG1
+Gefitinib,AAK1
+Gefitinib,EIF2AK4
+Gefitinib,MET
+Gefitinib,PHKG2
+Gefitinib,RPS6KA1
+Gefitinib,RPS6KA5
+Methotrexate,DHFR
+Methotrexate,TYMS
+Methotrexate,ATIC
+Methotrexate,FOLR1
+Abiraterone,CYP3A4
+Abiraterone,CYP17A1
+Abiraterone,CYP21A2
+Abiraterone,CYP19A1
+Abiraterone,CYP11B1
+Docetaxel,KIF11
+Lapatinib ditosylate,ERBB4
+Lapatinib ditosylate,EGFR
+Lapatinib ditosylate,INSR
+Lapatinib ditosylate,JAK1
+Lapatinib ditosylate,RET
+Lapatinib ditosylate,EPHA6
+Lapatinib ditosylate,STK17A
+Lapatinib ditosylate,CHEK1
+Lapatinib ditosylate,MYLK
+Lapatinib ditosylate,CAMK2A
+Lapatinib ditosylate,IGF1R
+Lapatinib ditosylate,FLT3
+Lapatinib ditosylate,TYK2
+Lapatinib ditosylate,ABL1
+Lapatinib ditosylate,BRSK1
+Lapatinib ditosylate,CHUK
+Lapatinib ditosylate,PRKG1
+Lapatinib ditosylate,RPS6KA6
+Lapatinib ditosylate,DMPK
+Lapatinib ditosylate,CAMKK2
+Lapatinib ditosylate,CAMK2B
+Lapatinib ditosylate,PIK3CA
+Lapatinib ditosylate,PRKCH
+Sorafenib tosylate,MAP3K4
+Sorafenib tosylate,BRAF
+Sorafenib tosylate,KDR
+Sorafenib tosylate,CYP19A1
+Sorafenib tosylate,FGFR1
+Sorafenib tosylate,RAF1
+Sorafenib tosylate,PDGFRB
+Sorafenib tosylate,RET
+Sorafenib tosylate,MAPK14
+Sorafenib tosylate,FLT3
+Sorafenib tosylate,CDK4
+Sorafenib tosylate,DDR2
+Sorafenib tosylate,CDK11A
+Sorafenib tosylate,PLK4
+Sorafenib tosylate,CDK5
+Sorafenib tosylate,LIMK1
+Sorafenib tosylate,EPHA2
+Sorafenib tosylate,EPHA5
+Sorafenib tosylate,SLK
+Sorafenib tosylate,EPHB4
+Sorafenib tosylate,DDR1
+Sorafenib tosylate,MAPK3
+Sorafenib tosylate,MAPK1
+Sorafenib tosylate,AURKA
+Sorafenib tosylate,EGFR
+Sorafenib tosylate,AURKB
+Sorafenib tosylate,AURKC
+Sorafenib tosylate,CDK19
+Sorafenib tosylate,CDK7
+Sorafenib tosylate,CDK8
+Sorafenib tosylate,MAPK15
+Sorafenib tosylate,FLT1
+Sorafenib tosylate,FLT4
+Sorafenib tosylate,FRK
+Sorafenib tosylate,MERTK
+Sorafenib tosylate,MKNK1
+Sorafenib tosylate,MKNK2
+Sorafenib tosylate,MUSK
+Sorafenib tosylate,PDGFRA
+Sorafenib tosylate,STK33
+Sorafenib tosylate,TIE1
+Sorafenib tosylate,TEK
+Sorafenib tosylate,ABL1
+Sorafenib tosylate,CIT
+Sorafenib tosylate,LYN
+Sorafenib tosylate,TNNI3K
+Sorafenib tosylate,MAP3K20
+Sorafenib tosylate,ABL2
+Sorafenib tosylate,EPHA4
+Sorafenib tosylate,EPHA8
+Sorafenib tosylate,EPHB1
+Sorafenib tosylate,EPHB2
+Sorafenib tosylate,FGFR2
+Sorafenib tosylate,MAP4K4
+Sorafenib tosylate,NLK
+Sorafenib tosylate,CDK17
+Sorafenib tosylate,CDK14
+Sorafenib tosylate,SRMS
+Sorafenib tosylate,STK36
+Sorafenib tosylate,TNK1
+Sorafenib tosylate,TTK
+Sorafenib tosylate,MAPK11
+Sorafenib tosylate,MAPK12
+Sorafenib tosylate,FGFR3
+Sorafenib tosylate,EPHA6
+Sorafenib tosylate,DMPK
+Sorafenib tosylate,STK35
+Sorafenib tosylate,RPS6KA2
+Sorafenib tosylate,HUNK
+Sorafenib tosylate,STK17A
+Sorafenib tosylate,RPS6KA1
+Sorafenib tosylate,ULK1
+Sorafenib tosylate,ULK2
+Sorafenib tosylate,CDC42BPG
+Sorafenib tosylate,CAMK2A
+Sorafenib tosylate,JAK1
+Sorafenib tosylate,CAMK2B
+Sorafenib tosylate,MINK1
+Sorafenib tosylate,INSR
+Sorafenib tosylate,DCLK2
+Sorafenib tosylate,SRPK2
+Sorafenib tosylate,PRKCH
+Sorafenib tosylate,IRAK3
+Sorafenib tosylate,PRKG1
+Sorafenib tosylate,PIK3CA
+Sorafenib tosylate,ROCK2
+Sorafenib tosylate,CHUK
+Sorafenib tosylate,RPS6KA5
+Sorafenib tosylate,CHEK1
+Sorafenib tosylate,RPS6KA6
+Sorafenib tosylate,DAPK1
+Sorafenib tosylate,MYLK
+Sorafenib tosylate,MYO3B
+Sorafenib tosylate,MYLK2
+Sorafenib tosylate,MAPK9
+Sorafenib tosylate,EPHA3
+Lenalidomide,TNF
+Bortezomib,PSMB8
+Bortezomib,PSMB5
+Bortezomib,CTSG
+Bortezomib,ELANE
+Carboplatin,IDO1
+Tretinoin,S1PR1
+Tretinoin,RXRA
+Tretinoin,RARB
+Tretinoin,RARA
+Tretinoin,RARG
+Tretinoin,RXRG
+Tretinoin,RXRB
+Tretinoin,DUSP1
+Tretinoin,RORB
+Dactinomycin,RAD51
+Dactinomycin,DDR2
+Nilotinib,DDR1
+Nilotinib,DDR2
+Nilotinib,CHUK
+Nilotinib,INSR
+Nilotinib,KCNE1
+Nilotinib,ABL1
+Nilotinib,NQO2
+Nilotinib,MET
+Nilotinib,SRPK2
+Nilotinib,ROCK2
+Nilotinib,EGFR
+Nilotinib,MAP3K4
+Nilotinib,RET
+Nilotinib,PIK3CA
+Nilotinib,CDK11A
+Nilotinib,RPS6KA1
+Nilotinib,JAK1
+Nilotinib,EIF2AK4
+Nilotinib,TYK2
+Nilotinib,LRRK2
+Nilotinib,AAK1
+Nilotinib,MYLK
+Nilotinib,FGFR3
+Nilotinib,CHEK1
+Nilotinib,AURKB
+Nilotinib,MAPK14
+Nilotinib,PDGFRA
+Nilotinib,PDGFRB
+Nilotinib,LYN
+Nilotinib,FLT3
+Nilotinib,CA1
+Nilotinib,CA2
+Nilotinib,CA3
+Nilotinib,CA4
+Nilotinib,CA5B
+Nilotinib,CA7
+Nilotinib,CA9
+Nilotinib,CA12
+Nilotinib,CA14
+Tamoxifen citrate,PLD1
+Dasatinib,MAP2K1
+Dasatinib,ABL1
+Dasatinib,DDR1
+Dasatinib,DDR2
+Dasatinib,BLK
+Dasatinib,PTK6
+Dasatinib,RET
+Dasatinib,YES1
+Dasatinib,PRKCA
+Dasatinib,AURKB
+Dasatinib,EGFR
+Dasatinib,FLT3
+Dasatinib,PIK3CA
+Dasatinib,FGFR3
+Dasatinib,MAPKAPK2
+Dasatinib,PRKCD
+Dasatinib,KCNH2
+Dasatinib,KCND3
+Dasatinib,CACNA1C
+Dasatinib,EPHA2
+Dasatinib,KDR
+Dasatinib,PDGFRA
+Dasatinib,EPHB3
+Dasatinib,BRAF
+Dasatinib,FGFR1
+Dasatinib,RAF1
+Dasatinib,EPHA4
+Dasatinib,EPHA5
+Dasatinib,EPHB1
+Dasatinib,EPHB2
+Dasatinib,FGFR2
+Dasatinib,NLK
+Dasatinib,SIK1
+Dasatinib,SRMS
+Dasatinib,TESK1
+Dasatinib,TGFBR2
+Dasatinib,MAPK11
+Dasatinib,CDC42BPA
+Dasatinib,CDC42BPB
+Dasatinib,STK26
+Dasatinib,ACVR1
+Dasatinib,TEC
+Dasatinib,MAPK14
+Dasatinib,ACVR1B
+Dasatinib,ACVR2A
+Dasatinib,ACVR2B
+Dasatinib,LIMK1
+Dasatinib,MAP3K4
+Dasatinib,PRKCH
+Dasatinib,CAMK2A
+Dasatinib,CDK4
+Dasatinib,MYO3B
+Dasatinib,DMPK
+Dasatinib,BRSK1
+Dasatinib,PRKG1
+Dasatinib,DAPK1
+Dasatinib,STK17A
+Dasatinib,GAK
+Dasatinib,CDK2
+Dasatinib,PDGFRB
+Dasatinib,PRKCZ
+Vandetanib,AURKC
+Vandetanib,ABL1
+Vandetanib,PRKCH
+Vandetanib,KDR
+Vandetanib,FLT1
+Vandetanib,EGFR
+Vandetanib,FLT3
+Vandetanib,RET
+Vandetanib,STK17A
+Vandetanib,TEK
+Vandetanib,PDGFRB
+Vandetanib,FGFR1
+Vandetanib,EPHA4
+Vandetanib,PHKG1
+Vandetanib,EPHA6
+Vandetanib,EPHA2
+Vandetanib,EPHA5
+Vandetanib,EPHB4
+Vandetanib,GAK
+Vandetanib,HDAC1
+Vandetanib,ALK
+Vandetanib,DDR1
+Vandetanib,FLT4
+Vandetanib,FRK
+Vandetanib,MAP4K3
+Vandetanib,MERTK
+Vandetanib,MET
+Vandetanib,MKNK1
+Vandetanib,MKNK2
+Vandetanib,PDGFRA
+Vandetanib,SLK
+Vandetanib,STK33
+Vandetanib,BLK
+Vandetanib,CIT
+Vandetanib,LYN
+Vandetanib,PTK6
+Vandetanib,TNNI3K
+Vandetanib,MAP3K20
+Vandetanib,ABL2
+Vandetanib,CSK
+Vandetanib,EPHA8
+Vandetanib,EPHB1
+Vandetanib,EPHB2
+Vandetanib,FGFR2
+Vandetanib,HCK
+Vandetanib,MAP4K4
+Vandetanib,RPS6KA6
+Vandetanib,SIK1
+Vandetanib,SRMS
+Vandetanib,TESK1
+Vandetanib,YES1
+Vandetanib,ERBB4
+Vandetanib,MAP2K2
+Vandetanib,PLK4
+Vandetanib,CDC42BPG
+Vandetanib,CDC42BPA
+Vandetanib,CDC42BPB
+Vandetanib,MAPK6
+Vandetanib,FGFR3
+Vandetanib,MAP2K1
+Vandetanib,TYRO3
+Vandetanib,ACVR1
+Vandetanib,COQ8A
+Vandetanib,COQ8B
+Vandetanib,RPS6KA1
+Vandetanib,AAK1
+Vandetanib,RPS6KA5
+Vandetanib,CDK4
+Vandetanib,CHEK1
+Vandetanib,EIF2AK4
+Vandetanib,PIK3CA
+Vandetanib,MYO3B
+Vandetanib,INSR
+Vandetanib,DMPK
+Vandetanib,LRRK2
+Vandetanib,ROCK2
+Vandetanib,PRKD2
+Vandetanib,CDK11A
+Vandetanib,TYK2
+Vandetanib,PHKG2
+Vandetanib,EPHA3
+Vandetanib,STK10
+Vandetanib,MINK1
+Vandetanib,IRAK3
+Sirolimus,FKBP1A
+Sunitinib,PDGFRB
+Sunitinib,RPS6KA2
+Sunitinib,KDR
+Sunitinib,FGFR1
+Sunitinib,CLK4
+Sunitinib,FLT3
+Sunitinib,KCNH2
+Sunitinib,ABL1
+Sunitinib,DAPK1
+Sunitinib,TYK2
+Sunitinib,PRKCH
+Sunitinib,CAMKK2
+Sunitinib,PIK3CA
+Sunitinib,EGFR
+Sunitinib,TNK2
+Sunitinib,RPS6KA3
+Sunitinib,LYN
+Sunitinib,PHKG1
+Sunitinib,FGFR2
+Sunitinib,YES1
+Sunitinib,EPHA6
+Sunitinib,PIM2
+Sunitinib,SLK
+Sunitinib,PTK2
+Sunitinib,MET
+Sunitinib,ACHE
+Sunitinib,ALK
+Sunitinib,AURKA
+Sunitinib,AURKB
+Sunitinib,AURKC
+Sunitinib,BMPR2
+Sunitinib,CDK7
+Sunitinib,DDR1
+Sunitinib,FLT1
+Sunitinib,FLT4
+Sunitinib,FRK
+Sunitinib,P2RY14
+Sunitinib,MAP4K1
+Sunitinib,MAP4K3
+Sunitinib,MERTK
+Sunitinib,STK3
+Sunitinib,MUSK
+Sunitinib,PDGFRA
+Sunitinib,RPS6KA4
+Sunitinib,RPS6KA5
+Sunitinib,STK33
+Sunitinib,BLK
+Sunitinib,CIT
+Sunitinib,ABL2
+Sunitinib,ANKK1
+Sunitinib,CAMK1
+Sunitinib,CAMK4
+Sunitinib,CAMKK1
+Sunitinib,CLK2
+Sunitinib,CSNK1G2
+Sunitinib,CSNK1G3
+Sunitinib,DAPK3
+Sunitinib,MAP3K12
+Sunitinib,EPHB1
+Sunitinib,GAK
+Sunitinib,HCK
+Sunitinib,ITK
+Sunitinib,LATS1
+Sunitinib,MAP4K4
+Sunitinib,MYLK2
+Sunitinib,MYO3B
+Sunitinib,CDK17
+Sunitinib,CDK14
+Sunitinib,PRKCQ
+Sunitinib,PRKD1
+Sunitinib,PRKD2
+Sunitinib,PRKD3
+Sunitinib,EIF2AK2
+Sunitinib,SIK1
+Sunitinib,TNK1
+Sunitinib,STK25
+Sunitinib,MAP2K2
+Sunitinib,PLK4
+Sunitinib,DCLK1
+Sunitinib,DCLK2
+Sunitinib,DCLK3
+Sunitinib,STK17A
+Sunitinib,MYLK3
+Sunitinib,NUAK2
+Sunitinib,AAK1
+Sunitinib,NUAK1
+Sunitinib,BMP2K
+Sunitinib,CHEK1
+Sunitinib,CSNK2A1
+Sunitinib,CSNK2A2
+Sunitinib,FGFR3
+Sunitinib,IKBKE
+Sunitinib,JAK1
+Sunitinib,STK11
+Sunitinib,MARK2
+Sunitinib,MARK3
+Sunitinib,MARK4
+Sunitinib,MAP2K1
+Sunitinib,MAP3K11
+Sunitinib,STK24
+Sunitinib,STK26
+Sunitinib,MYLK
+Sunitinib,NEK7
+Sunitinib,PHKG2
+Sunitinib,PIP5K1A
+Sunitinib,PIP4K2B
+Sunitinib,PKN1
+Sunitinib,PKN2
+Sunitinib,RIOK1
+Sunitinib,RIOK3
+Sunitinib,RPS6KA6
+Sunitinib,SRPK1
+Sunitinib,SRPK2
+Sunitinib,MYLK4
+Sunitinib,TLK2
+Sunitinib,TYRO3
+Sunitinib,WEE1
+Sunitinib,CAMK1D
+Sunitinib,CAMK2A
+Sunitinib,PIM3
+Sunitinib,CAMK1G
+Sunitinib,BRSK1
+Sunitinib,BRSK2
+Sunitinib,PAK4
+Sunitinib,PAK6
+Sunitinib,PAK5
+Sunitinib,TLK1
+Sunitinib,DAPK2
+Sunitinib,CAMK2B
+Sunitinib,INSR
+Sunitinib,PRKCA
+Sunitinib,MAP3K4
+Sunitinib,MAP3K20
+Sunitinib,RPS6KA1
+Sunitinib,CDK11A
+Sunitinib,ULK1
+Sunitinib,DMPK
+Sunitinib,PRKG1
+Sunitinib,ULK2
+Sunitinib,STK35
+Sunitinib,TNNI3K
+Sunitinib,CHUK
+Sunitinib,BRAF
+Sunitinib,MINK1
+Sunitinib,CDC42BPG
+Sunitinib,LRRK2
+Sunitinib,IRAK3
+Sunitinib,STK10
+Sunitinib,STK38L
+Sunitinib,CLK1
+Sunitinib,EPHB4
+Sunitinib,EPHA5
+Sunitinib,JAK2
+Sunitinib,PLK2
+Sunitinib,TTK
+Sunitinib,RET
+Romidepsin,HDAC1
+Vincristine sulfate,NR5A1
+Everolimus,KCNH2
+Axitinib,PRKD2
+Axitinib,CAMK2A
+Axitinib,PLK4
+Axitinib,ABL1
+Axitinib,FLT3
+Axitinib,PIK3CA
+Axitinib,JAK1
+Axitinib,BRAF
+Axitinib,DMPK
+Axitinib,MET
+Axitinib,EGFR
+Axitinib,MYLK
+Axitinib,RET
+Axitinib,CDK4
+Axitinib,MAP3K4
+Axitinib,RPS6KA4
+Axitinib,STK17A
+Axitinib,TNNI3K
+Axitinib,AURKB
+Axitinib,FLT4
+Axitinib,PLK2
+Axitinib,KDR
+Axitinib,CHEK1
+Crizotinib,BRAF
+Crizotinib,ALK
+Crizotinib,MET
+Crizotinib,INSR
+Crizotinib,AAK1
+Crizotinib,PIK3CA
+Crizotinib,EGFR
+Crizotinib,RET
+Crizotinib,IGF1R
+Crizotinib,ABL1
+Crizotinib,MINK1
+Crizotinib,MYLK
+Crizotinib,CAMK2B
+Crizotinib,EPHA6
+Crizotinib,FLT3
+Crizotinib,RPS6KA6
+Crizotinib,TNNI3K
+Crizotinib,CAMKK2
+Crizotinib,PRKG1
+Crizotinib,FLT4
+Crizotinib,BRSK1
+Crizotinib,RPS6KA1
+Crizotinib,CDK11A
+Crizotinib,DAPK1
+Crizotinib,CDK4
+Vemurafenib,CHRM3
+Vemurafenib,BRAF
+Vemurafenib,DDR2
+Vemurafenib,RAF1
+Vemurafenib,EGFR
+Vemurafenib,KDR
+Megestrol acetate,CA9
+Celecoxib,HDAC1
+Celecoxib,HDAC6
+Celecoxib,MT-CO2
+Celecoxib,CA7
+Celecoxib,CA12
+Raloxifene hydrochloride,HLA-A
+Imatinib mesylate,ABCC4
+Imatinib mesylate,KARS1
+Vorinostat,KCNH2
+Vorinostat,HSP90AA1
+Vorinostat,MDM2
+Doxorubicin hydrochloride,TOP2B
+Doxorubicin hydrochloride,TERT
+Etoposide,TOP2B
+Gefitinib,KDR
+Gefitinib,MAPK9
+Methotrexate,FPGS
+Lapatinib ditosylate,STK10
+Lapatinib ditosylate,SLK
+Sorafenib tosylate,RIPK3
+Sorafenib tosylate,MET
+Sorafenib tosylate,CDK6
+Sorafenib tosylate,STK10
+Sorafenib tosylate,CA2
+Sorafenib tosylate,CA9
+Sorafenib tosylate,CA1
+Sorafenib tosylate,CA7
+Bortezomib,PSMB1
+Bortezomib,PSMB2
+Tretinoin,PIN1
+Dasatinib,PKMYT1
+Dasatinib,BTK
+Dasatinib,LYN
+Dasatinib,CSK
+Dasatinib,WEE1
+Dasatinib,WEE2
+Sunitinib,DLK1
+Sunitinib,BRD7
+Romidepsin,HDAC6
+Romidepsin,HDAC4
+Crizotinib,JAK3
+Crizotinib,JAK2
+Crizotinib,TYK2
+Crizotinib,JAK1
+Hydroxyurea,DNTT
+Doxorubicin hydrochloride,GADD45A
+Lenalidomide,KRAS
+Chlorambucil,MGMT
+Everolimus,VHL
+Ruxolitinib,JAK2
+Doxorubicin hydrochloride,BRCA1
+Doxorubicin hydrochloride,PAX8
+Paclitaxel,TUBB1
+Cyclophosphamide,IFNG
+Paclitaxel,EDNRB
+Quinacrine hydrochloride,MTOR
+Exemestane,PGR
+Methoxsalen,CYP1A2
+Carboplatin,ATP7A
+Everolimus,STK11
+Tretinoin,NRIP1
+Gefitinib,CAMK2D
+Methotrexate,BAX
+Crizotinib,NPM1
+Raloxifene hydrochloride,AR
+Gemcitabine hydrochloride,ATRX
+Raloxifene hydrochloride,MAPT
+Sirolimus,TGM2
+Doxorubicin hydrochloride,CYP2D6
+Letrozole,CYP19A1
+Azacitidine,AR
+Mitoxantrone,MBNL1
+Capecitabine,DPYD
+Cytarabine hydrochloride,MAGEA1
+Carmustine,CYP2C19
+Imatinib mesylate,HGF
+Gefitinib,KRAS
+Vincristine sulfate,BDNF
+Exemestane,ESR1
+Docetaxel,FBXW7
+Capecitabine,TYMS
+Doxorubicin hydrochloride,MAPT
+Mitoxantrone,SMAD3
+Sorafenib tosylate,VEGFA
+Cytarabine hydrochloride,CBFB
+Erlotinib hydrochloride,KDR
+Etoposide,MAPK3
+Methoxsalen,ESR1
+Oxaliplatin,PTEN
+Megestrol acetate,NFE2L2
+Allopurinol,CYP2C9
+Raloxifene hydrochloride,KDM4A
+Methoxsalen,CYP2D6
+Axitinib,FLT1
+Sirolimus,HRAS
+Dasatinib,AXL
+Gemcitabine hydrochloride,TP53
+Tamoxifen citrate,PLD2
+Doxorubicin hydrochloride,BAX
+Crizotinib,FGFR1
+Dactinomycin,AR
+Crizotinib,ROS1
+Tamoxifen citrate,IDH1
+Bleomycin sulfate,NFE2L2
+Gemcitabine hydrochloride,ERBB2
+Dactinomycin,AFP
+Celecoxib,STAT3
+4'-Epiadriamycin,TP53
+Paclitaxel,GMNN
+Floxuridine,DNMT1
+Azacitidine,HBB
+Vorinostat,TUBA3D
+Daunorubicin hydrochloride,MAPK1
+Mitoxantrone,KDM4A
+Mitoxantrone,EHMT2
+Daunorubicin hydrochloride,AR
+Doxorubicin hydrochloride,TOP2A
+Vinblastine sulfate,TUBB2A
+Paclitaxel,CASP3
+Imatinib mesylate,IDH1
+Ifosfamide,DNMT1
+Vinblastine sulfate,ABCB1
+Fulvestrant,ESR1
+Topotecan hydrochloride,TOP1
+Tamoxifen citrate,CYP2B6
+Gefitinib,CEACAM5
+Paclitaxel,TUBB3
+Mitoxantrone,NFKB1
+Dasatinib,FYN
+Daunorubicin hydrochloride,HDAC11
+Thalidomide,HGF
+Sirolimus,NFE2L2
+Busulfan,ITGAL
+Doxorubicin hydrochloride,AFP
+Anastrozole,CYP19A1
+Daunorubicin hydrochloride,PAX8
+Vemurafenib,MAP2K1
+Doxorubicin hydrochloride,RXRA
+Vinblastine sulfate,CGA
+Everolimus,RET
+Dasatinib,CSF1R
+Tamoxifen citrate,ESR1
+Chlorambucil,TP53
+Lapatinib ditosylate,PGR
+Cisplatin,HSPA8
+Streptozocin,SFTPB
+Melphalan,TP53
+Daunorubicin hydrochloride,POLB
+Dactinomycin,ESR1
+Paclitaxel,BIRC5
+Busulfan,CYP3A4
+Paclitaxel,TUBA1B
+Arsenic trioxide,TXNRD1
+Gefitinib,MAPK14
+Everolimus,GNAQ
+Vincristine sulfate,TUBB1
+Nilotinib,BCR
+Thalidomide,NFKB1
+Sorafenib tosylate,DYRK3
+Doxorubicin hydrochloride,RUNX1
+Paclitaxel,DDIT3
+Raloxifene hydrochloride,ATXN2
+Azacitidine,GATA2
+Tamoxifen citrate,NCOA3
+Sorafenib tosylate,GMNN
+Vinblastine sulfate,IDH1
+Tamoxifen citrate,MPHOSPH8
+Thalidomide,PTGS2
+Anastrozole,CYP1B1
+Erlotinib hydrochloride,CLK4
+Cisplatin,TP53
+Erlotinib hydrochloride,FLT4
+Azacitidine,SMAD3
+Romidepsin,ERBB2
+Carboplatin,APEX1
+Mercaptopurine,CYP1A2
+Everolimus,MTOR
+Erlotinib hydrochloride,EGFR
+Sunitinib,PDGFB
+Sirolimus,FBXW7
+Cisplatin,ALK
+Bortezomib,PSMD4P1
+Temozolomide,MSH6
+Topotecan hydrochloride,TOP1MT
+Azacitidine,THPO
+Cisplatin,ALOX15
+Daunorubicin hydrochloride,HDAC7
+Bortezomib,PSMB3
+Daunorubicin hydrochloride,BLM
+Vinblastine sulfate,JUN
+Fluorouracil,TYMS
+Fulvestrant,PTEN
+Vincristine sulfate,TUBA3C
+Carboplatin,ATP7B
+Sorafenib tosylate,KIT
+Cabazitaxel,TUBB1
+Cyclophosphamide,BRCA1
+Doxorubicin hydrochloride,TP53
+Sorafenib tosylate,YES1
+Erlotinib hydrochloride,ERBB4
+Chlorambucil,GFER
+Paclitaxel,TP53
+Sunitinib,NOS3
+Daunorubicin hydrochloride,GATA1
+Cladribine,XIAP
+Vismodegib,PTCH1
+Mitomycin,BRCA1
+Teniposide,FAS
+Gefitinib,IRAK1
+Bortezomib,PSMA7
+Imatinib mesylate,NTRK1
+Cisplatin,STK11
+Etoposide,MYCN
+Sirolimus,IL10
+Vemurafenib,KRAS
+Raloxifene hydrochloride,KCNH2
+Arsenic trioxide,DNMT1
+Teniposide,TOP2A
+Raloxifene hydrochloride,GHRL
+Arsenic trioxide,IL6
+Quinacrine hydrochloride,TP53
+Cytarabine hydrochloride,BIRC5
+Celecoxib,AR
+Fludarabine,ATM
+Dasatinib,KIT
+Gefitinib,PRKD3
+Daunorubicin hydrochloride,POLK
+Carboplatin,GSTP1
+Decitabine,EGFR
+Everolimus,HRAS
+Doxorubicin hydrochloride,ATXN2
+Doxorubicin hydrochloride,CYP2C19
+Oxaliplatin,ATP7A
+Dasatinib,STAT5B
+Azacitidine,GSTP1
+Carmustine,PLAU
+Sunitinib,PDGFC
+Cyclophosphamide,MYCN
+Imatinib mesylate,KIT
+Paclitaxel,GSTT1
+Bortezomib,PSMD3
+Temozolomide,TP53
+Bortezomib,PSMD2
+Etoposide,BRCA2
+Mitoxantrone,HTT
+Mitomycin,CYP1A2
+Sorafenib tosylate,MAP4K5
+Gemcitabine hydrochloride,RRM2
+Tretinoin,MYCN
+Paclitaxel,NAT2
+Cyclophosphamide,NTRK1
+Streptozocin,MYO9B
+Bortezomib,PSMA8
+Imatinib mesylate,CSF1R
+Doxorubicin hydrochloride,THRB
+Methotrexate,POLH
+Vorinostat,TUBB3
+Vinblastine sulfate,PAX8
+Tretinoin,MAPK8
+Raloxifene hydrochloride,P4HB
+Bortezomib,PSMC3IP
+Bortezomib,PSMB10
+Streptozocin,HRAS
+Vandetanib,PTEN
+Dasatinib,MAP2K2
+Erlotinib hydrochloride,PKN2
+Doxorubicin hydrochloride,IDH1
+Everolimus,NRAS
+Mitoxantrone,RAD52
+Clofarabine,RRM1
+Gefitinib,HIPK4
+Azacitidine,DNMT1
+Cyclophosphamide,FAS
+Carmustine,E2F1
+Tamoxifen citrate,PPARD
+Everolimus,ERBB2
+Docetaxel,DDIT3
+Bortezomib,NFKB2
+Dactinomycin,NTF3
+Allopurinol,CYP2D6
+Vorinostat,RB1
+Fludarabine,MPO
+Idarubicin hydrochloride,POLK
+Vincristine sulfate,NR0B1
+Topotecan hydrochloride,ALK
+Vismodegib,SMO
+Cisplatin,PRL
+Tretinoin,ITGB2
+Vorinostat,TUBB
+Raloxifene hydrochloride,CYP3A4
+Dactinomycin,CYP3A4
+Methotrexate,VDR
+Cisplatin,EHMT2
+Sorafenib tosylate,AKT1
+Vinorelbine tartrate,TUBB2A
+Ifosfamide,TP53
+Tamoxifen citrate,PIK3CA
+Sirolimus,PIK3CA
+Methotrexate,CYP3A4
+Dactinomycin,RXRA
+Raloxifene hydrochloride,CYP2D6
+Ifosfamide,IL6
+Dactinomycin,COIL
+Hydroxyurea,HRAS
+Tretinoin,LIF
+Imatinib mesylate,BCR
+Tretinoin,NOS1
+Bortezomib,PSMC2
+Daunorubicin hydrochloride,TOP2A
+Tamoxifen citrate,TGFB1
+Erlotinib hydrochloride,MET
+Bortezomib,PSMD14
+Vinorelbine tartrate,BRCA1
+Vinblastine sulfate,TUBB4B
+Bortezomib,BDNF
+Vinblastine sulfate,GMNN
+Gefitinib,CYP3A5
+Sirolimus,AKT1
+Etoposide,EIF4E
+Vinblastine sulfate,TUBA1C
+Gefitinib,CSNK1D
+Etoposide,NCOA1
+Raloxifene hydrochloride,RACGAP1
+Mitomycin,VWF
+Cisplatin,HPGD
+Azacitidine,TET2
+Streptozocin,PTGER4
+Tretinoin,ALPL
+Erlotinib hydrochloride,MINK1
+Dasatinib,HRAS
+Bortezomib,PSMD8
+Bortezomib,HSPB2
+Gefitinib,CYP2D6
+Bortezomib,PSMA5
+Etoposide,GLP1R
+Gemcitabine hydrochloride,CBL
+Tretinoin,PTCH1
+Bortezomib,PSMC1
+Tamoxifen citrate,HEXB
+Vinblastine sulfate,TUBA1A
+Crizotinib,ETV6
+Capecitabine,MET
+Quinacrine hydrochloride,APEX1
+Paclitaxel,MET
+4'-Epiadriamycin,ERBB2
+Dasatinib,SRC
+Raloxifene hydrochloride,TERT
+Daunorubicin hydrochloride,HDAC6
+Vorinostat,TUBA1B
+Docetaxel,TP53
+Methotrexate,ABCC4
+Fluorouracil,ITGAL
+Capecitabine,ERBB2
+Streptozocin,ADCYAP1
+Tretinoin,P2RY2
+Cisplatin,MGMT
+Romidepsin,HDAC9
+Cisplatin,DDIT3
+Methotrexate,TPM3
+Doxorubicin hydrochloride,ABCC1
+Erlotinib hydrochloride,MKNK2
+Raloxifene hydrochloride,TSHB
+Axitinib,KIT
+Temozolomide,H2AX
+Everolimus,BRAF
+Carboplatin,MAPT
+Cisplatin,BIRC5
+Lapatinib ditosylate,CYP3A5
+Vincristine sulfate,GMNN
+Paclitaxel,TUBA3C
+Cisplatin,RRM1
+Azacitidine,ALDH1A1
+Streptozocin,SLC5A1
+Bortezomib,PSMC1P1
+Vinblastine sulfate,MMP2
+Mitoxantrone,TOP2A
+Fluorouracil,TYMP
+Daunorubicin hydrochloride,MAPT
+Methotrexate,AFP
+Doxorubicin hydrochloride,TGM2
+Doxorubicin hydrochloride,BDNF
+Vinblastine sulfate,TUBB6
+Etoposide,BAX
+Gemcitabine hydrochloride,PTEN
+Vandetanib,FYN
+Vinblastine sulfate,TUBA3D
+Thiotepa,HPGD
+Thioguanine,EHMT2
+Arsenic trioxide,MAPK10
+Romidepsin,KRAS
+Streptozocin,CTSD
+Gemcitabine hydrochloride,SMAD4
+Daunorubicin hydrochloride,THRB
+Vincristine sulfate,NRG1
+Gefitinib,PIM3
+Etoposide,CYP2C19
+Mitoxantrone,ATXN2
+Raloxifene hydrochloride,TP53
+Bortezomib,PLG
+Floxuridine,BCL2
+Idarubicin hydrochloride,RAPGEF4
+Cytarabine hydrochloride,VDR
+Vincristine sulfate,TUBB4B
+Quinacrine hydrochloride,POLI
+Ixabepilone,TUBB3
+Mitoxantrone,NSD2
+Tamoxifen citrate,TYMS
+Bortezomib,PSMD10P2
+Raloxifene hydrochloride,ESR2
+Daunorubicin hydrochloride,IDH1
+Doxorubicin hydrochloride,DNMT1
+Raloxifene hydrochloride,BAZ2B
+Docetaxel,HRAS
+Bortezomib,PSMD9
+Methotrexate,BIRC5
+Gemcitabine hydrochloride,AR
+Cisplatin,PIK3CA
+Dactinomycin,CEL
+Tamoxifen citrate,EDN1
+Mitoxantrone,MPHOSPH8
+Tretinoin,MST1
+Vincristine sulfate,HIF1A
+Cyclophosphamide,ERBB2
+Daunorubicin hydrochloride,HDAC8
+Bortezomib,PMAIP1
+Lapatinib ditosylate,ERBB2
+Bortezomib,PSME3
+Lapatinib ditosylate,FGFR2
+Sirolimus,MTOR
+Methotrexate,HSPB2
+Tamoxifen citrate,CETP
+Bortezomib,PSMD10P3
+Tretinoin,EGR2
+Decitabine,IDH1
+Cisplatin,ABCC4
+Doxorubicin hydrochloride,SNCA
+Tretinoin,HOXD1
+Fluorouracil,IL11
+Anastrozole,IGF2
+Floxuridine,ERBB2
+Paclitaxel,TUBB2B
+Paclitaxel,NFE2
+Fludarabine,BAX
+Raloxifene hydrochloride,IGF1R
+Paclitaxel,SRC
+Bleomycin sulfate,GJA1
+Carboplatin,TP73
+Imatinib mesylate,EYA2
+Gefitinib,IGF2
+Daunorubicin hydrochloride,APEX1
+Tretinoin,TG
+Erlotinib hydrochloride,CDH1
+Vinblastine sulfate,ABCB4
+Daunorubicin hydrochloride,CYP1A1
+Doxorubicin hydrochloride,BIRC5
+Melphalan,NFE2L2
+Raloxifene hydrochloride,CYP1A2
+Floxuridine,CYP3A4
+Bortezomib,ADRM1
+Crizotinib,TP53
+Cisplatin,CDC25C
+Raloxifene hydrochloride,NR1H4
+Bortezomib,PSMC3
+Bortezomib,RB1
+Sirolimus,EML4
+Doxorubicin hydrochloride,PPARD
+Cisplatin,IDH1
+Mercaptopurine,HBB
+Fludarabine,POLA1
+Daunorubicin hydrochloride,KMT2A
+Cisplatin,XRCC5
+Daunorubicin hydrochloride,TYMS
+Bortezomib,PSMD11
+Bortezomib,PSMA3
+Vinblastine sulfate,TUBB
+Paclitaxel,AKT1
+Methotrexate,S100A12
+Bortezomib,PSMD12
+Tretinoin,NFE2L2
+Daunorubicin hydrochloride,YWHAG
+Raloxifene hydrochloride,PIK3CG
+Sirolimus,TP53
+Raloxifene hydrochloride,CYP2C19
+Pemetrexed Disodium,DHFR
+Bortezomib,PSMC6
+Dactinomycin,TOP2A
+Bortezomib,PSME2P2
+Methotrexate,CDKN1B
+Vincristine sulfate,TUBB2B
+Sorafenib tosylate,AR
+Melphalan,PLAT
+Sorafenib tosylate,NTRK2
+Axitinib,PDGFB
+Fluorouracil,HBB
+Temozolomide,IDH1
+Doxorubicin hydrochloride,CYP7B1
+Cisplatin,RGS4
+Thiotepa,TP53
+Azacitidine,TAGLN
+Cytarabine hydrochloride,IL1B
+Cisplatin,TYMS
+Vemurafenib,PTEN
+Gefitinib,CAMK2G
+Thalidomide,VWF
+Vemurafenib,AKT1
+Dasatinib,CBL
+Sunitinib,CSF1R
+Paclitaxel,BCL2
+Quinacrine hydrochloride,POLB
+Fluorouracil,CYP3A4
+Paclitaxel,TUBB4A
+Bortezomib,NOTCH1
+Streptozocin,ACP5
+Bleomycin sulfate,AFP
+Vinorelbine tartrate,ERBB2
+Idarubicin hydrochloride,RAPGEF3
+Hydroxyurea,PTH
+Sirolimus,AR
+Carmustine,CYP2C9
+Bortezomib,KRAS
+Fludarabine,PIK3CG
+Raloxifene hydrochloride,CBX1
+Vandetanib,GMNN
+Busulfan,ABL1
+Vorinostat,TUBB1
+Streptozocin,SST
+Cisplatin,SMAD4
+Thalidomide,FCGR3A
+Methotrexate,S100A8
+Gefitinib,MAPT
+Cisplatin,NFE2L2
+Thalidomide,IL6R
+Methoxsalen,CYP3A4
+Tamoxifen citrate,EHMT2
+Etoposide,ABCC1
+Bleomycin sulfate,IFNG
+Tretinoin,SHH
+Erlotinib hydrochloride,TP53
+Capecitabine,KRAS
+Docetaxel,MCL1
+Cisplatin,ABCC1
+Streptozocin,PREP
+Bortezomib,PSMD7
+Everolimus,EGFR
+Raloxifene hydrochloride,EHMT2
+Mitoxantrone,BCL2
+Dactinomycin,BDNF
+Carboplatin,ABCB1
+Streptozocin,S100B
+Sirolimus,IL7
+Cyclophosphamide,TNFRSF1A
+Etoposide,CYP1A2
+Sirolimus,STK11
+Cisplatin,HSPA4
+Bleomycin sulfate,CTLA4
+Tretinoin,SPP1
+Cisplatin,NTRK2
+Floxuridine,TYMS
+Daunorubicin hydrochloride,HSP90AB1
+Dactinomycin,TNFRSF1B
+4'-Epiadriamycin,ABCB1
+Paclitaxel,TUBB6
+Gemcitabine hydrochloride,BRCA1
+Mercaptopurine,TP53
+Doxorubicin hydrochloride,ABCB1
+Oxaliplatin,GSTP1
+Tamoxifen citrate,KCNH2
+Erlotinib hydrochloride,ALK
+Thalidomide,FCGR3B
+Methotrexate,HSD17B10
+Streptozocin,HGF
+Hydroxyurea,BLM
+Melphalan,OPLAH
+Idarubicin hydrochloride,AR
+Streptozocin,IGFBP1
+Gefitinib,FGFR2
+Vemurafenib,TP53
+Sunitinib,KRAS
+Tretinoin,CEACAM1
+Fluorouracil,DPYD
+Paclitaxel,ABCB1
+Doxorubicin hydrochloride,EHMT2
+Carboplatin,PDGFRA
+Tamoxifen citrate,TP53
+Doxorubicin hydrochloride,ABCC3
+Topotecan hydrochloride,AKT1
+Mercaptopurine,NUDT15
+Tamoxifen citrate,GMNN
+Methotrexate,FOLH1
+Streptozocin,KCNJ11
+Tretinoin,TP73
+Bortezomib,PSMA2
+Tretinoin,CALR
+Cyclophosphamide,ALK
+Imatinib mesylate,PIK3CG
+Daunorubicin hydrochloride,HDAC9
+Vinorelbine tartrate,BAX
+Cyclophosphamide,BRCA2
+Tamoxifen citrate,ESR2
+Cyclophosphamide,MAPK3
+Vandetanib,IDH1
+Floxuridine,CYP2C19
+Thioguanine,ACHE
+Allopurinol,XDH
+Doxorubicin hydrochloride,UGCG
+Doxorubicin hydrochloride,NT5E
+Sorafenib tosylate,HIPK4
+Clofarabine,AR
+Cisplatin,BCL2
+Cisplatin,DRAM1
+Tamoxifen citrate,COL18A1
+Daunorubicin hydrochloride,HDAC3
+Cisplatin,ERCC1
+Oxaliplatin,MTHFR
+Tretinoin,PRL
+Thalidomide,FGFR2
+Tamoxifen citrate,CYP2D6
+Streptozocin,PRKAA1
+Oxaliplatin,ABL1
+Vandetanib,MAPK14
+Gemcitabine hydrochloride,AKT1
+Mercaptopurine,IDH1
+Paclitaxel,FASN
+Tamoxifen citrate,CYP2C9
+Cisplatin,EGFR
+Vincristine sulfate,TUBB8
+Etoposide,ATM
+Bortezomib,PSMC4
+Crizotinib,SMAD4
+Azacitidine,TG
+Topotecan hydrochloride,IDH1
+Methotrexate,CCND1
+Cisplatin,BRCA1
+Cisplatin,IFNG
+Raloxifene hydrochloride,PIK3CA
+Vorinostat,TUBA1C
+Tamoxifen citrate,KLK3
+Dactinomycin,RECQL
+Vorinostat,FBXW7
+Pemetrexed Disodium,SLC19A1
+Romidepsin,HDAC8
+Cisplatin,ATP7B
+Fluorouracil,BRAF
+Vorinostat,TUBA3E
+Gefitinib,PIM1
+Vandetanib,MTOR
+Arsenic trioxide,HSPA4
+Erlotinib hydrochloride,RET
+Pemetrexed Disodium,KRAS
+Azacitidine,GGT1
+Cytarabine hydrochloride,CSF2
+Tretinoin,APOA1
+Fluorouracil,MUC2
+Fluorouracil,ABCB1
+Sirolimus,FGF2
+Bortezomib,PRSS1
+Doxorubicin hydrochloride,CHEK1
+Crizotinib,EML4
+Bortezomib,F12
+Paclitaxel,TUBB4B
+Cisplatin,KDM4E
+Thioguanine,HPGD
+Streptozocin,MMP2
+Mitoxantrone,WRN
+Bortezomib,PLAT
+Arsenic trioxide,TERT
+Vinblastine sulfate,TUBA3C
+Mercaptopurine,BAZ2B
+Gefitinib,GMNN
+Carboplatin,KAT2A
+Methotrexate,KCNA1
+Fludarabine,SMAD3
+Celecoxib,CYP3A4
+Dasatinib,DYRK3
+Doxorubicin hydrochloride,MYOD1
+Docetaxel,FOLH1
+Etoposide,AFP
+Fluorouracil,DTYMK
+Fulvestrant,PIK3CG
+Paclitaxel,PTEN
+Doxorubicin hydrochloride,WRN
+Sirolimus,NOS1
+Temozolomide,MGMT
+Bortezomib,PSME1
+Mercaptopurine,CYP3A4
+Pemetrexed Disodium,GART
+Imatinib mesylate,SFN
+Mercaptopurine,IL2RA
+Melphalan,AR
+Etoposide,ITGAL
+Tretinoin,EHMT2
+Sunitinib,KIT
+Azacitidine,MGMT
+Doxorubicin hydrochloride,PIK3CB
+Tretinoin,SLC2A1
+Fulvestrant,ESR2
+Etoposide,KLK3
+Doxorubicin hydrochloride,ERBB2
+Cisplatin,MYCN
+Erlotinib hydrochloride,ERBB2
+Oxaliplatin,BAX
+Cyclophosphamide,CYP3A4
+Cisplatin,GCLC
+Azacitidine,ASXL1
+Doxorubicin hydrochloride,HSP90AB1
+Doxorubicin hydrochloride,POLH
+Erlotinib hydrochloride,JAK2
+Erlotinib hydrochloride,PRKD2
+Temozolomide,BRCA1
+Paclitaxel,LIF
+Ifosfamide,MGMT
+Doxorubicin hydrochloride,SMAD3
+Fulvestrant,EPHX2
+Gefitinib,MAP4K5
+Celecoxib,RORC
+Quinacrine hydrochloride,EHMT2
+Doxorubicin hydrochloride,AKT1
+Melphalan,CDKN1A
+4'-Epiadriamycin,CHD1
+Mitomycin,BGLAP
+Crizotinib,ERBB2
+Doxorubicin hydrochloride,PIK3CA
+Daunorubicin hydrochloride,TOP1
+Cyclophosphamide,EHMT2
+Daunorubicin hydrochloride,FLT3
+Oxaliplatin,KRAS
+Dactinomycin,CYP1A2
+Doxorubicin hydrochloride,POLK
+Cytarabine hydrochloride,SLC29A1
+Everolimus,AKT3
+Thalidomide,CYP1A2
+Megestrol acetate,IL15
+Etoposide,EGFR
+Vemurafenib,CSF1R
+Mitoxantrone,ABCG2
+Dasatinib,TNK2
+Cyclophosphamide,CYP2C9
+Doxorubicin hydrochloride,LPL
+Vinblastine sulfate,TUBB2B
+Sorafenib tosylate,ATXN2
+Cisplatin,PLAU
+Dacarbazine,PLAU
+Mercaptopurine,VCAM1
+Dasatinib,ABL2
+Cisplatin,GCLM
+Cisplatin,ATM
+Thiotepa,EHMT2
+Thiotepa,VDR
+Sorafenib tosylate,PAX8
+Bortezomib,PSMD10
+Dasatinib,PKN2
+Doxorubicin hydrochloride,CDKN1B
+Floxuridine,ABCC5
+Exemestane,NFE2L2
+Pemetrexed Disodium,PTEN
+Busulfan,GALC
+Tamoxifen citrate,PGR
+Mercaptopurine,KDM4E
+Tamoxifen citrate,CYP2C19
+Daunorubicin hydrochloride,ATAD5
+Oxaliplatin,MET
+Sunitinib,PDGFD
+Cisplatin,HTR4
+Dactinomycin,RORC
+Tretinoin,TGFB1
+Everolimus,FKBP1A
+Cyclophosphamide,ITGB2
+Celecoxib,DDIT3
+Tretinoin,RPE65
+Fluorouracil,PIK3CA
+Arsenic trioxide,SERPINE1
+Docetaxel,SLCO1B1
+Topotecan hydrochloride,BDNF
+Cisplatin,BRCA2
+Gefitinib,ERBB3
+Hydroxyurea,DUSP1
+Doxorubicin hydrochloride,SRI
+Vinblastine sulfate,AR
+Lapatinib ditosylate,SRC
+Doxorubicin hydrochloride,TAF1
+Clofarabine,POLA1
+Tretinoin,CXCL8
+Bortezomib,PSMD5
+Sirolimus,ABCG2
+Dactinomycin,PPARD
+Sorafenib tosylate,IRAK1
+Carboplatin,POLK
+Fulvestrant,NOS1
+Doxorubicin hydrochloride,E2F1
+Quinacrine hydrochloride,USP1
+Docetaxel,MUC16
+Lapatinib ditosylate,AURKB
+Everolimus,NOTCH1
+Decitabine,DNMT1
+Tretinoin,USP1
+Doxorubicin hydrochloride,SDHB
+Dasatinib,SIK2
+Melphalan,MGMT
+Thioguanine,KDM4A
+Tamoxifen citrate,RUNX1
+Mitomycin,CGB5
+Floxuridine,IDH1
+Methotrexate,GSTM1
+Vorinostat,EZH2
+Cabazitaxel,TUBA4A
+Vinblastine sulfate,TUBB4A
+Sorafenib tosylate,CSF1R
+Raloxifene hydrochloride,RXRA
+Etoposide,IGF2
+Doxorubicin hydrochloride,STAT6
+Mitoxantrone,PIM1
+Carboplatin,MCL1
+Dactinomycin,APEX1
+Mitoxantrone,RPSA
+Vandetanib,LTK
+Tamoxifen citrate,AR
+Bleomycin sulfate,CCL17
+Nilotinib,KIT
+Topotecan hydrochloride,TSG101
+Sirolimus,MCL1
+Imatinib mesylate,FIP1L1
+Melphalan,GSTP1
+Dactinomycin,VDR
+Tamoxifen citrate,TGM2
+Streptozocin,ENO2
+Dacarbazine,CYP2C9
+Zoledronic acid,IBSP
+Dactinomycin,BGLAP
+Erlotinib hydrochloride,BRAF
+Bortezomib,CAPN1
+Sirolimus,PLAU
+Cyclophosphamide,NAT2
+Imatinib mesylate,CYP3A4
+Cisplatin,MT1H
+Fluorouracil,TPT1
+Cytarabine hydrochloride,CCND1
+Fluorouracil,BAX
+Cyclophosphamide,CYP2B6
+Temozolomide,CSF2
+Bortezomib,BAX
+Letrozole,PGR
+Erlotinib hydrochloride,AR
+Romidepsin,KMT2A
+Everolimus,AKT1
+Docetaxel,GSTM1
+Paclitaxel,PIK3CA
+Paclitaxel,ERBB2
+Paclitaxel,TUBA3D
+Doxorubicin hydrochloride,ESR1
+Tretinoin,NR4A1
+Tamoxifen citrate,CBFB
+Gemcitabine hydrochloride,KRAS
+Tamoxifen citrate,BRCA1
+Topotecan hydrochloride,HIF1A
+Erlotinib hydrochloride,LTK
+Romidepsin,HDAC5
+Daunorubicin hydrochloride,EHMT2
+Idarubicin hydrochloride,ERG
+Thalidomide,F2R
+Sirolimus,RBL2
+Topotecan hydrochloride,ATRX
+Daunorubicin hydrochloride,RECQL
+Paclitaxel,AR
+Erlotinib hydrochloride,BLK
+Tretinoin,BCOR
+Paclitaxel,CDKN1A
+Dasatinib,MINK1
+Paclitaxel,SMAD4
+Raloxifene hydrochloride,ESR1
+Everolimus,PTEN
+Lapatinib ditosylate,ERBB3
+Tretinoin,SMAD2
+Raloxifene hydrochloride,PPARD
+Daunorubicin hydrochloride,HDAC4
+Imatinib mesylate,SMAD3
+Busulfan,G6PD
+Topotecan hydrochloride,TYMS
+Azacitidine,ATAD5
+Cisplatin,LIF
+Cisplatin,DFFB
+Pemetrexed Disodium,TYMS
+Fluorouracil,MYB
+Doxorubicin hydrochloride,CYP1A2
+Cyclophosphamide,GCG
+Gemcitabine hydrochloride,RRM1
+Carboplatin,CDKN1A
+Busulfan,THPO
+Vorinostat,SMARCB1
+Tamoxifen citrate,KDM4E
+Cyclophosphamide,CYP2C19
+Pemetrexed Disodium,SLC46A1
+Ifosfamide,GSTP1
+Carboplatin,CDKN2A
+Lapatinib ditosylate,HLA-DQA1
+Vorinostat,ACE
+Ixabepilone,KRAS
+Docetaxel,PGR
+Streptozocin,PIK3CA
+Gefitinib,ABCB1
+Methotrexate,RB1
+Streptozocin,TRPV1
+Crizotinib,CDKN2A
+Quinacrine hydrochloride,KCNH2
+Tamoxifen citrate,ERBB2
+Streptozocin,UCP1
+Sirolimus,DDIT3
+Streptozocin,KCNA2
+Methotrexate,NOTCH1
+Hydroxyurea,DNMT1
+Mercaptopurine,HPRT1
+Vorinostat,TP53
+Thioguanine,HBB
+Bortezomib,PSMA4
+Azacitidine,CD247
+Bortezomib,BCL2L2
+Daunorubicin hydrochloride,TP53
+Etoposide,UGT1A10
+Cisplatin,TPMT
+Mitoxantrone,RACGAP1
+Tretinoin,HES1
+Sirolimus,BAX
+Dasatinib,PPARD
+Dasatinib,SMAD3
+Doxorubicin hydrochloride,HSP90AA1
+Cisplatin,ALDH1A1
+Vincristine sulfate,AFP
+Idarubicin hydrochloride,USP1
+Daunorubicin hydrochloride,RUNX1
+Fluorouracil,FPGS
+Vincristine sulfate,NTF3
+Cyclophosphamide,TP53
+4'-Epiadriamycin,BIRC5
+Streptozocin,DDIT3
+Doxorubicin hydrochloride,POLB
+Doxorubicin hydrochloride,APAF1
+Methotrexate,HGF
+Bleomycin sulfate,F2R
+Vinblastine sulfate,TUBA4A
+Carboplatin,SMAD4
+Bortezomib,PSME2
+Azacitidine,TP53
+Daunorubicin hydrochloride,ESR1
+Abiraterone,PTEN
+Floxuridine,CYP1A2
+Quinacrine hydrochloride,ATAD5
+Doxorubicin hydrochloride,ATRX
+Tretinoin,IL10
+Melphalan,EHMT2
+Azacitidine,NFE2L2
+Bortezomib,PSMC5
+Dacarbazine,CYP3A4
+Anastrozole,ESR1
+Topotecan hydrochloride,MUC16
+Tretinoin,HIF1A
+Carboplatin,KRAS
+Cisplatin,GADD45A
+Etoposide,CYP2D6
+Etoposide,CYP2C9
+Mitoxantrone,MAPK1
+Doxorubicin hydrochloride,SP3
+Sirolimus,ABCB1
+Doxorubicin hydrochloride,YWHAG
+Bleomycin sulfate,WRN
+Vincristine sulfate,SMAD3
+Tretinoin,BIRC5
+Erlotinib hydrochloride,HIPK4
+Gefitinib,MAPK8
+Fulvestrant,PIK3CA
+Bleomycin sulfate,SMAD2
+Celecoxib,EDN1
+Vinblastine sulfate,ATXN2
+Tamoxifen citrate,DHFR
+Paclitaxel,KRAS
+Gemcitabine hydrochloride,RRM2B
+Mitomycin,AR
+Bleomycin sulfate,PLAU
+Vorinostat,NFE2L2
+Doxorubicin hydrochloride,TOP1
+Daunorubicin hydrochloride,HDAC10
+Everolimus,BRCA2
+Idarubicin hydrochloride,WRN
+Dactinomycin,TNFRSF8
+Gemcitabine hydrochloride,KDR
+Sorafenib tosylate,VEGFB
+Cisplatin,ATR
+Vincristine sulfate,VWF
+Tretinoin,TPO
+Methotrexate,SULT2A1
+Etoposide,GDF15
+Tamoxifen citrate,KDM4A
+Bortezomib,PSMB7
+Floxuridine,ENO2
+Ixabepilone,CYP3A4
+Thioguanine,NUDT15
+Cisplatin,TGM2
+Etoposide,XIAP
+Doxorubicin hydrochloride,BLM
+Vincristine sulfate,CP
+Daunorubicin hydrochloride,ERG
+Sirolimus,CTLA4
+Dasatinib,SLK
+Celecoxib,CYP2C9
+Temozolomide,PTEN
+Bortezomib,PSMA1
+Dasatinib,TP53
+Vincristine sulfate,ABCB4
+Imatinib mesylate,ABCB1
+Celecoxib,APC
+Dasatinib,APC
+Carboplatin,TP53
+Streptozocin,SLC2A5
+Dacarbazine,MGMT
+Dasatinib,LCK
+Gemcitabine hydrochloride,CHEK1
+Dasatinib,BCR
+Dasatinib,MET
+Bleomycin sulfate,LIG1
+Paclitaxel,BRCA1
+Romidepsin,MCL1
+Vorinostat,MYD88
+Doxorubicin hydrochloride,FCGR3A
+Tretinoin,THBS1
+Tretinoin,OCLN
+Gemcitabine hydrochloride,HRAS
+Ixabepilone,TUBB2A
+Chlorambucil,ERBB2
+Bortezomib,PSMD6
+Temozolomide,STAG2
+Romidepsin,HDAC7
+Romidepsin,HDAC3
+Topotecan hydrochloride,NFE2L2
+Vorinostat,GMNN
+Cytarabine hydrochloride,FCGR3B
+Tamoxifen citrate,BAZ2B
+Vinblastine sulfate,CSF2
+Sorafenib tosylate,AXL
+Imatinib mesylate,YES1
+Etoposide,PLA2G1B
+Carmustine,GSR
+Daunorubicin hydrochloride,USP1
+Cisplatin,SRC
+Daunorubicin hydrochloride,KDM4E
+Melphalan,IFNG
+Streptozocin,THRSP
+Melphalan,CYP3A4
+Fulvestrant,CYP1A2
+Nilotinib,UGT1A1
+Bortezomib,PSME4
+Decitabine,DNMT3A
+Azacitidine,FLT3
+Cisplatin,XIAP
+Lapatinib ditosylate,BRAF
+Romidepsin,HDAC10
+Sirolimus,WT1
+Fludarabine,RRM1
+Sirolimus,PGR
+Mercaptopurine,RB1
+Azacitidine,MYC
+Topotecan hydrochloride,HBB
+Mitotane,RORC
+Paclitaxel,EGFR
+Arsenic trioxide,EPO
+Vincristine sulfate,TUBA4A
+Paclitaxel,TUBB
+Lenalidomide,IKZF1
+Sorafenib tosylate,NTRK1
+Sirolimus,PIM1
+Raloxifene hydrochloride,ALDH1A1
+Mitotane,KCNH2
+Bortezomib,FLT3
+Gefitinib,PDGFRA
+Fluorouracil,CDC25C
+Imatinib mesylate,MYC
+Quinacrine hydrochloride,CYP3A4
+Tretinoin,MDK
+Doxorubicin hydrochloride,UGT1A5
+Docetaxel,ESR1
+Tretinoin,PTPRZ1
+Cytarabine hydrochloride,XIAP
+Sirolimus,IGFBP1
+Topotecan hydrochloride,PTEN
+Imatinib mesylate,CTNNB1
+Fluorouracil,TP53
+Doxorubicin hydrochloride,NFE2L2
+Vorinostat,BRAF
+Daunorubicin hydrochloride,RXRA
+Hydroxyurea,CP
+Methotrexate,TP53
+Letrozole,PIK3CA
+Arsenic trioxide,FAS
+Daunorubicin hydrochloride,FEN1
+Streptozocin,TGFB1
+Vorinostat,MYC
+Cisplatin,GABPA
+Letrozole,ESR1
+Mercaptopurine,KDM4A
+Oxaliplatin,BRAF
+Bortezomib,PSMB9
+4'-Epiadriamycin,TOP2A
+Tretinoin,BCL2
+Daunorubicin hydrochloride,RORC
+Arsenic trioxide,GSTO1
+Doxorubicin hydrochloride,PLA2G1B
+Axitinib,PDGFRB
+Streptozocin,MT1H
+Mercaptopurine,TPMT
+Fluorouracil,APC
+Sirolimus,RB1
+Cisplatin,HMGB1
+Cisplatin,AKT1
+Tamoxifen citrate,ATXN2
+Mitoxantrone,YES1
+Dactinomycin,GRB2
+Tretinoin,IL1R1
+Megestrol acetate,AR
+Azacitidine,GMNN
+Imatinib mesylate,HCK
+Fluorouracil,IL2RA
+Mercaptopurine,CYP2C19
+Pemetrexed Disodium,ATIC
+Streptozocin,CSF2
+Sorafenib tosylate,PTPN6
+Imatinib mesylate,RAD52
+Erlotinib hydrochloride,YES1
+Lapatinib ditosylate,KRAS
+Romidepsin,HDAC11
+Doxorubicin hydrochloride,RPSA
+Methoxsalen,MAPK14
+Paclitaxel,IL2RA
+Sorafenib tosylate,ARAF
+Temozolomide,EGFR
+Mitoxantrone,BLM
+Daunorubicin hydrochloride,TOP2B
+Dacarbazine,ADK
+Bortezomib,XIAP
+Imatinib mesylate,LCK
+Daunorubicin hydrochloride,TSG101
+Doxorubicin hydrochloride,MYB
+Sunitinib,PDGFA
+Tretinoin,AMH
+Chlorambucil,GSTM1
+Doxorubicin hydrochloride,S100A4
+Raloxifene hydrochloride,IL6R
+Vorinostat,ERBB2
+Tretinoin,APOE
+Streptozocin,SLC16A3
+Topotecan hydrochloride,PLK1
+Dactinomycin,CSF1
+Paclitaxel,CDKN2A
+Mitoxantrone,POLI
+Cisplatin,FAS
+Imatinib mesylate,CD40LG
+Erlotinib hydrochloride,ABL1
+Doxorubicin hydrochloride,EDN1
+Fluorouracil,CYP2E1
+Paclitaxel,PDGFRA
+Ruxolitinib,MPL
+Cisplatin,TERC
+Methotrexate,TAT
+Sirolimus,FKBP4
+Cisplatin,KRAS
+Bleomycin sulfate,ADK
+Cisplatin,MPHOSPH8
+Thiotepa,GMNN
+Lapatinib ditosylate,YES1
+Daunorubicin hydrochloride,HDAC1
+Methotrexate,GLS
+Fulvestrant,ESRRA
+Tretinoin,DUSP6
+Lenalidomide,VEGFA
+Vorinostat,TUBB8
+Doxorubicin hydrochloride,MAPK14
+Sorafenib tosylate,MC4R
+Quinacrine hydrochloride,POLK
+Vandetanib,HTT
+Raloxifene hydrochloride,NR3C1
+Cisplatin,G6PD
+Bortezomib,BCL2
+Cisplatin,KRT20
+Dasatinib,PLK4
+Tretinoin,CDKN1B
+Megestrol acetate,NPSR1
+Docetaxel,KLK3
+Cisplatin,HSD17B10
+Tamoxifen citrate,MYOD1
+Carmustine,CYP1A2
+Etoposide,FGFR1
+Methotrexate,NCOA3
+Sorafenib tosylate,HIPK2
+Erlotinib hydrochloride,AURKB
+Bortezomib,PSMD13
+Tretinoin,RB1
+Azacitidine,TRIT1
+Docetaxel,GSTP1
+Tamoxifen citrate,GGT1
+Vorinostat,TUBA4A
+Tretinoin,HSPA8
+Paclitaxel,FOS
+Raloxifene hydrochloride,IL6ST
+Cyclophosphamide,ITGAL
+Fulvestrant,TFPI
+Doxorubicin hydrochloride,ALK
+Arsenic trioxide,BDNF
+Bortezomib,HSPA4
+Megestrol acetate,IL2RA
+Methotrexate,CYP2C19
+Decitabine,TET2
+Mitotane,NFE2L2
+Etoposide,GMNN
+Idarubicin hydrochloride,PLK1
+Romidepsin,HDAC2
+Oxaliplatin,TP53
+Paclitaxel,PIK3CG
+Dactinomycin,NRG1
+Mercaptopurine,NOTCH1
+Tamoxifen citrate,RORC
+Doxorubicin hydrochloride,TGFB1
+Cladribine,TP53
+Bortezomib,PSMB4
+Doxorubicin hydrochloride,GSTP1
+Streptozocin,HP
+Daunorubicin hydrochloride,WRN
+Dacarbazine,POLA2
+Bortezomib,TP53
+Doxorubicin hydrochloride,FANCD2
+Gefitinib,ERBB2
+Fluorouracil,FAS
+Sorafenib tosylate,RPS6KB1
+Methotrexate,PPARG
+Bleomycin sulfate,BRCA1
+Cyclophosphamide,IL5
+Streptozocin,LCAT
+Vincristine sulfate,TUBA3E
+Busulfan,CYP1A2
+Tretinoin,PML
+Streptozocin,SSTR1
+Azacitidine,HTT
+Bortezomib,PSMD1
+Thioguanine,PAX8
+Paclitaxel,TUBA4A
+Carboplatin,BIRC5
+Dasatinib,IDH2
+Docetaxel,BAX
+Letrozole,SFTPA1
+Sirolimus,EIF4E
+Ruxolitinib,JAK3
+Celecoxib,GHRL
+Arsenic trioxide,MAPK1
+Vincristine sulfate,TUBB2A
+Streptozocin,CYP2D6
+Dactinomycin,DDIT3
+Bleomycin sulfate,MAPK8
+Tretinoin,MYOD1
+Vandetanib,APC
+Gemcitabine hydrochloride,IDH1
+Raloxifene hydrochloride,PPARG
+Docetaxel,BCL2
+Mercaptopurine,CYP2D6
+Thalidomide,HLA-B
+Raloxifene hydrochloride,IL1B
+Tamoxifen citrate,CBX1
+Raloxifene hydrochloride,GMNN
+Streptozocin,TH
+Busulfan,CYP2C19
+Methotrexate,IDH1
+Chlorambucil,BRCA2
+Doxorubicin hydrochloride,BCL2
+Vincristine sulfate,CDKN1B
+Streptozocin,CD40
+Sorafenib tosylate,NTRK3
+Tretinoin,FUS
+Cisplatin,MDH2
+Cyclophosphamide,NTF3
+Methoxsalen,TAC1
+Streptozocin,BCL2
+Everolimus,ATM
+Dactinomycin,PIK3CB
+Dactinomycin,TFPI
+Doxorubicin hydrochloride,KMT2A
+Paclitaxel,ATM
+Lapatinib ditosylate,HLA-DRB1
+Vincristine sulfate,ODC1
+Oxaliplatin,CXCL10
+Bortezomib,SEM1
+Gemcitabine hydrochloride,CDA
+Paclitaxel,BRCA2
+Doxorubicin hydrochloride,KRT20
+Daunorubicin hydrochloride,POLH
+Paclitaxel,TUBA1A
+Vincristine sulfate,TUBB
+Letrozole,MMP2
+Mitomycin,CYP2D6
+Vincristine sulfate,TUBA1C
+Vincristine sulfate,BCR
+Bortezomib,CTSL
+Paclitaxel,EIF4EBP1
+Daunorubicin hydrochloride,ABCB1
+Streptozocin,ATF2
+Vinblastine sulfate,CDKN1A
+Etoposide,BTF3P11
+Quinacrine hydrochloride,HBB
+Vinblastine sulfate,KLK3
+Etoposide,CHEK1
+Quinacrine hydrochloride,FEN1
+Mercaptopurine,CYP2C9
+Tamoxifen citrate,THPO
+Everolimus,ESR1
+Erlotinib hydrochloride,FRK
+Methotrexate,FCGR3B
+Vorinostat,TUBB2B
+Doxorubicin hydrochloride,FASN
+Sorafenib tosylate,VEGFC
+Tamoxifen citrate,HSPB2
+Etoposide,E2F1
+Thioguanine,TPMT
+Sirolimus,KRAS
+Sirolimus,DDC
+Doxorubicin hydrochloride,CYP3A4
+Sirolimus,EGFR
+Everolimus,MPL
+Thioguanine,MGMT
+Vinorelbine tartrate,APC
+Methotrexate,NTRK1
+Paclitaxel,MYB
+Erlotinib hydrochloride,KRAS
+Carboplatin,GCLC
+Vincristine sulfate,MYCN
+Fluorouracil,MET
+Doxorubicin hydrochloride,SRC
+Busulfan,ADK
+Vinblastine sulfate,TUBA1B
+Sorafenib tosylate,SRPK1
+Allopurinol,CYP2C19
+Imatinib mesylate,SLC2A4
+Fludarabine,DCK
+Paclitaxel,MMP2
+4'-Epiadriamycin,BCL2
+Idarubicin hydrochloride,ATXN2
+Bortezomib,PSMA6
+Imatinib mesylate,ETV6
+Bortezomib,PSMB6
+Doxorubicin hydrochloride,BRAF
+Tretinoin,CD55
+Paclitaxel,TOP2A
+Fluorouracil,E2F1
+Tamoxifen citrate,NTRK1
+Arsenic trioxide,MAPK3
+Ixabepilone,TUBB1
+Sirolimus,MAPK10
+Raloxifene hydrochloride,GNRH1
+Erlotinib hydrochloride,BIRC5
+Topotecan hydrochloride,RB1
+Mitomycin,CYP2C9
+Gefitinib,IRAK4
+Vandetanib,BTK
+Sorafenib tosylate,ERBB2
+Dasatinib,MAP3K10
+Tamoxifen citrate,CYP1A2
+Doxorubicin hydrochloride,H2AX
+Daunorubicin hydrochloride,FAS
+Vincristine sulfate,FGF2
+Cytarabine hydrochloride,ITGAV
+Daunorubicin hydrochloride,RPSA
+Megestrol acetate,KLK3
+Floxuridine,CYP2D6
+Mitoxantrone,TP53
+Melphalan,ABCC1
+Imatinib mesylate,CDKN2A
+Cladribine,YES1
+Gefitinib,LCK
+Lenalidomide,TNFSF11
+Erlotinib hydrochloride,CBL
+Sunitinib,VHL
+Vinorelbine tartrate,CSF2
+Cisplatin,ERCC2
+Methotrexate,MPHOSPH8
+Arsenic trioxide,CDKN1A
+Mitomycin,TYMS
+Ruxolitinib,CSF3R
+Temozolomide,PRL
+Raloxifene hydrochloride,PRL
+Gefitinib,MAP4K4
+Tretinoin,HOXB1
+Fludarabine,XIAP
+Cisplatin,AQP9
+Vemurafenib,NRAS
+Cyclophosphamide,ACTB
+Gemcitabine hydrochloride,PIK3CA
+Gefitinib,FGFR1
+Mitoxantrone,POLH
+Streptozocin,NTRK1
+Ifosfamide,TERC
+Raloxifene hydrochloride,GBA
+Ixabepilone,PGR
+Arsenic trioxide,JUN
+Romidepsin,CDKN2D
+Mercaptopurine,NFE2L2
+Etoposide,NCOA3
+Tretinoin,KAT2A
+Hydroxyurea,CYP3A4
+Cyclophosphamide,CYP1A2
+Cisplatin,GSTP1
+Hydroxyurea,EIF4E
+Quinacrine hydrochloride,NPSR1
+Letrozole,ERBB2
+Thioguanine,NFE2L2
+Megestrol acetate,ABCB1
+Doxorubicin hydrochloride,NR1H4
+Methotrexate,CYP1A2
+Nilotinib,KRAS
+Gefitinib,NRAS
+Vandetanib,MAP4K5
+Gefitinib,CHEK2
+Exemestane,BGLAP
+Bortezomib,CTSB
+Melphalan,RORC
+Tamoxifen citrate,F5
+Methotrexate,CYP2D6
+Etoposide,MAPK1
+Thioguanine,GGH
+Etoposide,TNFSF13B
+Azacitidine,IDH1
+Vinblastine sulfate,PTHLH
+Tretinoin,HAS3
+Gefitinib,SMO
+Carboplatin,USP1
+Etoposide,DDIT3
+Sirolimus,PRKAA1
+Cisplatin,E2F1
+Chlorambucil,BAZ2B
+Chlorambucil,BRCA1
+Cisplatin,RECQL
+Thioguanine,ABCC4
+Cytarabine hydrochloride,FCGR3A
+Vorinostat,NR0B1
+Doxorubicin hydrochloride,PIK3CG
+Docetaxel,KRAS
+Carmustine,CYP3A4
+Topotecan hydrochloride,USP1
+Gefitinib,SIK2
+Idarubicin hydrochloride,PPARD
+Thiotepa,AR
+Sunitinib,ERBB2
+Romidepsin,CDKN1A
+Fulvestrant,PGR
+Imatinib mesylate,RUNX1
+Idarubicin hydrochloride,POLI
+Tretinoin,ADH1C
+Erlotinib hydrochloride,LYN
+Ruxolitinib,JAK1
+Streptozocin,SLC2A4
+Etoposide,TP53
+Vandetanib,ATM
+Bortezomib,PRSS2
+Mitoxantrone,CYP3A4
+Sorafenib tosylate,PTEN
+Temozolomide,NOTCH1
+Gemcitabine hydrochloride,SRC
+Ifosfamide,HSPA4
+Raloxifene hydrochloride,PLAT
+Daunorubicin hydrochloride,S100A4
+Sorafenib tosylate,NTSR1
+Mercaptopurine,ALDH1A1
+Methotrexate,ADA
+Streptozocin,CYP7B1
+Streptozocin,CDKN1B
+Sorafenib tosylate,BLK
+Carboplatin,VDR
+Vincristine sulfate,TUBA3D
+Docetaxel,TUBB1
+Everolimus,AKT2
+Topotecan hydrochloride,PAX8
+Dasatinib,IRAK4
+Vinblastine sulfate,TBXA2R
+Thalidomide,CTLA4
+Etoposide,SLC2A4
+Azacitidine,AFP
+Mitoxantrone,FEN1
+Dacarbazine,CXCL8
+Mitoxantrone,RECQL
+Sorafenib tosylate,NFE2L2
+Mitoxantrone,ARSA
+Methotrexate,EHMT2
+Doxorubicin hydrochloride,USP1
+Vorinostat,PTEN
+Etoposide,BCL2
+Imatinib mesylate,PVT1
+Mitoxantrone,ATAD5
+Streptozocin,VWF
+Fulvestrant,ERBB2
+Vorinostat,TUBA1A
+Doxorubicin hydrochloride,PPM1D
+Daunorubicin hydrochloride,BAZ2B
+Vinblastine sulfate,TUBB1
+Vincristine sulfate,TOP2A
+Carboplatin,BRCA2
+Gefitinib,PLAU
+Etoposide,ACTR2
+Dactinomycin,ALOX15
+Capecitabine,CDH1
+Carboplatin,PIK3CA
+Tretinoin,TSPYL2
+Daunorubicin hydrochloride,HTT
+Doxorubicin hydrochloride,FCGR3B
+Lapatinib ditosylate,MET
+Bortezomib,FGFR3
+Paclitaxel,BDNF
+Mitomycin,CYP2C19
+Raloxifene hydrochloride,HSD17B10
+Vorinostat,NPM1
+Mitomycin,LGALS2
+Letrozole,CYP3A4
+Vincristine sulfate,PIK3CG
+Etoposide,TGFB1
+Vincristine sulfate,TUBA1B
+Sirolimus,APC
+Doxorubicin hydrochloride,MAPK1
+Oxaliplatin,BCL2
+Sirolimus,IL17A
+Streptozocin,SI
+Cyclophosphamide,GSTP1
+Paclitaxel,TUBB8
+Bortezomib,NFKB1
+Dasatinib,ERBB4
+Tretinoin,SFTPA1
+Cisplatin,MT1F
+Tamoxifen citrate,F2
+Raloxifene hydrochloride,IDH1
+Tamoxifen citrate,ALDH1A1
+Fluorouracil,PTPRC
+Bortezomib,PSMB11
+Vincristine sulfate,PIK3CA
+Vinblastine sulfate,TUBA3E
+Streptozocin,SULT1A2
+Cisplatin,FXN
+Sirolimus,FGFR1
+Celecoxib,COL18A1
+Dasatinib,GMNN
+Lenalidomide,VEGFC
+Gefitinib,YES1
+Fluorouracil,KRAS
+Dasatinib,HCK
+Mitoxantrone,THPO
+Cisplatin,ANPEP
+Busulfan,SHBG
+Zoledronic acid,PLAU
+Busulfan,CYP2D6
+Streptozocin,OGA
+Tamoxifen citrate,CCND1
+Bortezomib,PSMF1
+Paclitaxel,NOTCH1
+Chlorambucil,NFKB1
+Vincristine sulfate,TUBB3
+Doxorubicin hydrochloride,CKM
+Vinorelbine tartrate,BRCA2
+Thioguanine,AR
+Sirolimus,IL15
+Quinacrine hydrochloride,RGS4
+Cisplatin,FGFR1
+Vinblastine sulfate,TUBB8
+Hydroxyurea,ABL1
+Fludarabine,NFE2L2
+Tretinoin,BAX
+Cisplatin,GRP
+Floxuridine,PIK3CA
+Mitoxantrone,CBX1
+Dacarbazine,CYP1A2
+Everolimus,GNA11
+Bortezomib,PSMD4
+Mitoxantrone,POLK
+Paclitaxel,CYP3A5
+Carboplatin,BRCA1
+Sirolimus,RPS6KB1
+Mitoxantrone,BAX
+Busulfan,CYP2C9
+Daunorubicin hydrochloride,HDAC2
+Carmustine,CYP2D6
+Erlotinib hydrochloride,SYK
+Celecoxib,NFE2L2
+Gefitinib,LIMK1
+Cytarabine hydrochloride,KDM4E
+Dasatinib,IDH1
+Bortezomib,AR
+Topotecan hydrochloride,AR
+Topotecan hydrochloride,KMT2A
+Paclitaxel,CXCL8
+Raloxifene hydrochloride,MPHOSPH8
+Daunorubicin hydrochloride,HDAC5
+Tretinoin,RET
+Etoposide,PAPOLA
+Floxuridine,FAS
+Erlotinib hydrochloride,CYP2D6
+Exemestane,CYP1B1
+Streptozocin,RAMP3
+Arsenic trioxide,SMO
+Erlotinib hydrochloride,SLK
+Tretinoin,CYP2C9
+Bortezomib,PIPSL
+Dactinomycin,THRB
+Dasatinib,KRAS
+Vandetanib,AURKB
+Doxorubicin hydrochloride,AGT
+Cisplatin,ERBB2
+Etoposide,CYP3A4
+Bortezomib,PSMD10P1
+Busulfan,GSTP1
+Methotrexate,SLAMF1
+Vorinostat,TUBB4A
+Erlotinib hydrochloride,APC
+Methotrexate,E2F1
+Methotrexate,POLB
+Imatinib mesylate,IRAK1
+Tretinoin,TBP
+Vandetanib,LCK
+Dasatinib,JAK2
+Tamoxifen citrate,VDR
+Bortezomib,F2
+Vincristine sulfate,ABL1
+Tretinoin,WT1
+Gefitinib,PTEN
+Paclitaxel,TUBA1C
+Cisplatin,HEXB
+Raloxifene hydrochloride,THPO
+Idarubicin hydrochloride,POLH
+Vorinostat,TUBB4B
+Idarubicin hydrochloride,IDH1
+Tretinoin,VDR
+Tretinoin,SMARCA4
+Methotrexate,APEX1
+Quinacrine hydrochloride,RECQL
+Cyclophosphamide,CYP2D6
+Etoposide,NR4A1
+Topotecan hydrochloride,TP53
+Dactinomycin,EHMT2
+Arsenic trioxide,BIRC5
+Doxorubicin hydrochloride,EZH2
+Cisplatin,APEX1
+Vincristine sulfate,TYMS
+Arsenic trioxide,FGFR1
+Floxuridine,CYP2C9
+Vincristine sulfate,TUBA1A
+Dasatinib,MAP4K5
+Mitomycin,CYP3A4
+Paclitaxel,TUBA3E
+Vincristine sulfate,SRI
+Mitoxantrone,DNMT1
+Vorinostat,PAX8
+Vincristine sulfate,AR
+Fluorouracil,CDKN1A
+Vorinostat,BIRC5
+Allopurinol,CYP1A2
+Celecoxib,BGLAP
+Gefitinib,AXL
+Fluorouracil,IL6R
+Cyclophosphamide,BAX
+Bortezomib,GATA2
+Tretinoin,RARRES1
+Docetaxel,NOTCH1
+Mercaptopurine,SLC29A2
+Arsenic trioxide,IKBKB
+Vandetanib,AXL
+Tamoxifen citrate,BGLAP
+Quinacrine hydrochloride,DRD1
+Cisplatin,TOP1
+Paclitaxel,TUBB2A
+Vinblastine sulfate,TUBB3
+Dasatinib,FES
+Everolimus,AR
+Tretinoin,FLT3
+Methotrexate,CYP2C9
+Vinblastine sulfate,TRH
+Oxaliplatin,ATP7B
+Vorinostat,TUBB6
+Tamoxifen citrate,MUC16
+Dacarbazine,BAX
+Celecoxib,PDPK1
+Paclitaxel,JAK2
+Tamoxifen citrate,CYP3A4
+Cyclophosphamide,CBX1
+Fulvestrant,FGF2
+Everolimus,KRAS
+Tretinoin,XIAP
+Decitabine,GMNN
+Fluorouracil,ERCC1
+Vemurafenib,PIK3CA
+Dasatinib,TAOK1
+Celecoxib,ABL1
+Tamoxifen citrate,PIP
+Cisplatin,CDH17
+Capecitabine,PIK3CA
+Thioguanine,TPM3
+Carboplatin,MET
+Cisplatin,CBX1
+Everolimus,PIK3CA
+Vorinostat,TUBB2A
+Daunorubicin hydrochloride,ABCC1
+Daunorubicin hydrochloride,BRCA1
+Fluorouracil,CBLB
+Celecoxib,HSPA4
+Dacarbazine,CYP2D6
+Erlotinib hydrochloride,FLT1
+Methotrexate,ALOX5
+Arsenic trioxide,TXNRD2
+Oxaliplatin,ERBB2
+Methotrexate,IL2
+Gefitinib,EMP1
+Tretinoin,NR2C1
+Carboplatin,HSD17B10
+Sorafenib tosylate,TAOK1
+Paclitaxel,E2F1
+Imatinib mesylate,TAOK1
+Doxorubicin hydrochloride,XIAP
+Sirolimus,DCN
+Celecoxib,PLAU
+Exemestane,AR
+Paclitaxel,CDK2
+Methotrexate,ICAM3
+Lapatinib ditosylate,CYP3A4
+Oxaliplatin,DPYD
+Dasatinib,SYK
+Dasatinib,MAP3K20
+Dactinomycin,HTT
+Gemcitabine hydrochloride,TGM2
+Vincristine sulfate,TUBB4A
+Thioguanine,GDA
+Cladribine,DCK
+Dacarbazine,CYP2C19
+Raloxifene hydrochloride,PTGS2
+Methotrexate,NFE2L2
+Imatinib mesylate,BIRC5
+Exemestane,ERBB2
+Cladribine,DIABLO
+Daunorubicin hydrochloride,VDR
+Doxorubicin hydrochloride,GGT1
+Arsenic trioxide,FLT3
+Cisplatin,H2AW
+Doxorubicin hydrochloride,CYP2C9
+Cisplatin,BAX
+Doxorubicin hydrochloride,AR
+Cladribine,NFE2L2
+Doxorubicin hydrochloride,NTRK2
+Sirolimus,MMP1
+Cyclophosphamide,TOP1
+Streptozocin,GALP
+Cisplatin,KAT2A
+Melphalan,ABL1
+Vemurafenib,STAG2
+Imatinib mesylate,SMAD4
+Vorinostat,CFTR
+Cisplatin,MAPT
+Bortezomib,NFE2L2
+Sorafenib tosylate,NRAS
+Gefitinib,BRSK1
+Axitinib,YES1
+Thalidomide,ITGB2
+Doxorubicin hydrochloride,RECQL
+Methotrexate,IL1RN
+Vincristine sulfate,TUBB6
+Doxorubicin hydrochloride,APEX1
+Doxorubicin hydrochloride,IL11
+Ixabepilone,ERBB2
+Sorafenib tosylate,KRAS
+Bortezomib,DDIT3
+Methotrexate,POLI
+Dactinomycin,CYP2D6
+Tretinoin,BHLHE40
+Dactinomycin,BIRC5
+Methoxsalen,FEN1
+Etoposide,HSPB2
+Azacitidine,NR3C1
+Cytarabine hydrochloride,CDA
+Mitoxantrone,BRCA1
+Tretinoin,ALDH1A2
+Tamoxifen citrate,NRG1
+Dasatinib,ERBB2
+Daunorubicin hydrochloride,CBFB
+Ixabepilone,ESR1
+Vorinostat,TUBA3C
+Methotrexate,FLT3
+Vismodegib,SHH
+Dactinomycin,CD5
+Crizotinib,KRAS
+Mitotane,ATM
+Arsenic trioxide,CCND1
+Mercaptopurine,MTHFR
+Daunorubicin hydrochloride,APP
+Mercaptopurine,TDP1
+Mitoxantrone,UGT1A5
+Busulfan,BCR
+Erlotinib hydrochloride,DDR2
+Fluorouracil,TSHB
+Azacitidine,ABL1
+Letrozole,CYP1B1
+Docetaxel,ERBB2
+Dasatinib,AR
+Mitoxantrone,RGS4
+Bortezomib,E2F1
+Cisplatin,TP73
+Everolimus,BRCA1
+Sirolimus,ITGAL
+Cytarabine hydrochloride,RUNX1
+Allopurinol,CYP3A4
+Carmustine,ALDH1A1
+Daunorubicin hydrochloride,POLI
+Lapatinib ditosylate,ESR1
+Bortezomib,PIK3CA
+Teniposide,BCL2
+Chlorambucil,RORC
+Fluorouracil,ERBB2
+Doxorubicin hydrochloride,BAZ2B
+Dactinomycin,NR3C1
+Decitabine,ASXL1
+Fluorouracil,BIRC5
+Etoposide,MUC16
+Tretinoin,TGFBR3
+Tamoxifen citrate,GAPDH
+Etoposide,TBP
+Crizotinib,SRC
+Fludarabine,SLC29A1
+Gemcitabine hydrochloride,CDKN2A
+Anastrozole,PGR
+Lenalidomide,VEGFB
+Tretinoin,KLK3
+4'-Epiadriamycin,SERPINE1
+Clofarabine,FLT3
+Fluorouracil,BDNF
+Docetaxel,BRD4
+Methotrexate,NR3C1
+Lapatinib ditosylate,CDH1
+Melphalan,NR1H4
+Doxorubicin hydrochloride,CYP1A1
+Topotecan hydrochloride,PIK3CA
+Azacitidine,RORC
+Axitinib,PDGFRA
+Thioguanine,IDH1
+Everolimus,RB1
+Bortezomib,PRSS3
+Fludarabine,CD40
+Vemurafenib,YES1
+Cladribine,RRM1
+Cladribine,RRM2
+Cladribine,RRM2B
+Cladribine,POLA1
+Cladribine,POLE
+Cladribine,POLE2
+Cladribine,POLE3
+Cladribine,POLE4
+Cladribine,PNP
+Bleomycin sulfate,LIG3
+Megestrol acetate,PGR
+Megestrol acetate,NR3C1
+Vinorelbine tartrate,TUBB
+Streptozocin,SLC2A2
+Gemcitabine hydrochloride,TYMS
+Gemcitabine hydrochloride,CMPK1
+Lenalidomide,CRBN
+Lenalidomide,CDH5
+Lenalidomide,PTGS2
+Raloxifene hydrochloride,SERPINB9
+Raloxifene hydrochloride,TFF1
+Celecoxib,CA3
+Celecoxib,CDH11
+Cisplatin,MPG
+Cisplatin,A2M
+Cisplatin,TF
+Cisplatin,ATOX1
+Erlotinib hydrochloride,NR1I2
+Cyclophosphamide,NR1I2
+Vinblastine sulfate,TUBD1
+Vinblastine sulfate,TUBG1
+Vinblastine sulfate,TUBE1
+Mitotane,FDX1
+Mitotane,CYP11B1
+Mitotane,ESR1
+Mitotane,PGR
+Mitotane,AR
+Tamoxifen citrate,EBP
+Tamoxifen citrate,PRKCA
+Tamoxifen citrate,PRKCB
+Tamoxifen citrate,PRKCD
+Tamoxifen citrate,PRKCE
+Tamoxifen citrate,PRKCG
+Tamoxifen citrate,PRKCI
+Tamoxifen citrate,PRKCQ
+Tamoxifen citrate,PRKCZ
+Tamoxifen citrate,NR1I2
+Tamoxifen citrate,ESRRG
+Tamoxifen citrate,SHBG
+Tamoxifen citrate,MAPK8
+Tretinoin,ALDH1A1
+Tretinoin,GPRC5A
+Tretinoin,LCN1
+Tretinoin,OBP2A
+Tretinoin,RBP4
+Tretinoin,PDK4
+Tretinoin,CYP26A1
+Tretinoin,CYP26B1
+Tretinoin,CYP26C1
+Tretinoin,HPGDS
+Dacarbazine,PGD
+Dactinomycin,TOP2B
+Doxorubicin hydrochloride,NOLC1
+Mercaptopurine,PPAT
+Mercaptopurine,IMPDH1
+Mercaptopurine,IMPDH2
+Thalidomide,CRBN
+Thalidomide,ORM1
+Thalidomide,ORM2
+Quinacrine hydrochloride,PLA2G6
+Quinacrine hydrochloride,PLA2G4A
+Quinacrine hydrochloride,PLCL1
+Arsenic trioxide,AKT1
+Arsenic trioxide,HDAC1
+Arsenic trioxide,PML
+Ifosfamide,NR1I2
+Paclitaxel,MAP4
+Paclitaxel,MAP2
+Paclitaxel,MAPT
+Paclitaxel,NR1I2
+Docetaxel,MAP2
+Docetaxel,MAP4
+Docetaxel,MAPT
+Docetaxel,NR1I2
+Dasatinib,NR4A3
+Dasatinib,EPHB4
+Dasatinib,FGR
+Dasatinib,FRK
+Dasatinib,HSPA8
+Dasatinib,PPAT
+Decitabine,DNMT3B
+Vandetanib,VEGFA
+7-Ethyl-10-hydroxycamptothecin,TOP1
+Romidepsin,ABCC1
+Ruxolitinib,TYK2
+Bortezomib,CYP3A4
+Bortezomib,CYP2C19
+Bortezomib,CYP2D6
+Bortezomib,CYP1A2
+Bortezomib,CYP2C9
+Bleomycin sulfate,BLMH
+Chlorambucil,GSTP1
+Mitomycin,POR
+Gefitinib,CYP3A4
+Gefitinib,CYP1A1
+Gefitinib,CYP2C9
+Gefitinib,CYP2C19
+Floxuridine,TYMP
+Megestrol acetate,CYP3A4
+Thioguanine,HPRT1
+Vinorelbine tartrate,CYP3A4
+Vinorelbine tartrate,CYP2D6
+Sorafenib tosylate,CYP2C9
+Sorafenib tosylate,CYP3A5
+Sorafenib tosylate,CYP3A7
+Sorafenib tosylate,CYP3A4
+Sorafenib tosylate,CYP2B6
+Sorafenib tosylate,CYP2C8
+Sorafenib tosylate,CYP1A2
+Sorafenib tosylate,CYP2C19
+Sorafenib tosylate,CYP2D6
+Sorafenib tosylate,UGT1A9
+Sorafenib tosylate,UGT1A1
+Streptozocin,CYP1A1
+Streptozocin,CYP1A2
+Streptozocin,CYP2E1
+Allopurinol,AOX1
+Gemcitabine hydrochloride,DCK
+Gemcitabine hydrochloride,TK2
+Gemcitabine hydrochloride,NME1
+Teniposide,CYP3A4
+Teniposide,CYP2C9
+Teniposide,CYP2C19
+Teniposide,CYP3A5
+4'-Epiadriamycin,UGT2B7
+4'-Epiadriamycin,PLA2G4A
+Raloxifene hydrochloride,CYP2B6
+Raloxifene hydrochloride,CYP2C8
+Raloxifene hydrochloride,CYP19A1
+Raloxifene hydrochloride,UGT1A1
+Raloxifene hydrochloride,UGT1A10
+Raloxifene hydrochloride,UGT1A8
+Celecoxib,CYP2D6
+Celecoxib,CYP2C8
+Cisplatin,MPO
+Cisplatin,XDH
+Cisplatin,CYP4A11
+Cisplatin,PTGS2
+Cisplatin,CYP2C9
+Cisplatin,CYP2B6
+Cisplatin,BCHE
+Cisplatin,MT1A
+Cisplatin,MT2A
+Cisplatin,SOD1
+Cisplatin,NQO1
+Cisplatin,GSTM1
+Oxaliplatin,MT1A
+Oxaliplatin,MT2A
+Oxaliplatin,MPO
+Oxaliplatin,SOD1
+Oxaliplatin,GSTM1
+Oxaliplatin,NQO1
+Erlotinib hydrochloride,CYP3A4
+Erlotinib hydrochloride,CYP3A5
+Erlotinib hydrochloride,CYP1A2
+Erlotinib hydrochloride,CYP1A1
+Erlotinib hydrochloride,CYP2C8
+Erlotinib hydrochloride,CYP1B1
+Erlotinib hydrochloride,UGT1A1
+Cyclophosphamide,CYP2A6
+Cyclophosphamide,CYP2C18
+Cyclophosphamide,CYP3A5
+Cyclophosphamide,CYP2C8
+Vincristine sulfate,CYP3A5
+Vincristine sulfate,CYP3A7
+Vincristine sulfate,CYP3A4
+Fluorouracil,CYP2C9
+Fluorouracil,CYP1A2
+Fluorouracil,UPP1
+Fluorouracil,UPP2
+Fluorouracil,CYP2A6
+Fluorouracil,CYP2C8
+Fluorouracil,MTHFR
+Fluorouracil,UMPS
+Fluorouracil,PPAT
+Methoxsalen,CYP1A1
+Methotrexate,AOX1
+Methotrexate,MTHFR
+Methotrexate,PGD
+Methotrexate,GGH
+Vinblastine sulfate,CYP3A4
+Vinblastine sulfate,CYP2D6
+Imatinib mesylate,CYP3A5
+Imatinib mesylate,CYP3A7
+Imatinib mesylate,CYP1A2
+Imatinib mesylate,CYP2C9
+Imatinib mesylate,CYP2D6
+Imatinib mesylate,CYP2C19
+Imatinib mesylate,PTGS1
+Imatinib mesylate,CYP2C8
+Clofarabine,DCK
+Pemetrexed Disodium,DCK
+Pemetrexed Disodium,SLC29A1
+Mitotane,CYP3A4
+Tamoxifen citrate,CYP3A5
+Tamoxifen citrate,CYP3A7
+Tamoxifen citrate,CYP1A1
+Tamoxifen citrate,CYP1B1
+Tamoxifen citrate,FMO1
+Tamoxifen citrate,FMO3
+Tamoxifen citrate,CYP2C8
+Tamoxifen citrate,CES1
+Tamoxifen citrate,CYP19A1
+Tamoxifen citrate,CYP2A6
+Tamoxifen citrate,CYP2E1
+Tamoxifen citrate,UGT1A10
+Tamoxifen citrate,SULT1A1
+Tamoxifen citrate,SULT2A1
+Tamoxifen citrate,UGT2B7
+Tamoxifen citrate,UGT2B17
+Tamoxifen citrate,SULT1E1
+Daunorubicin hydrochloride,CYP3A4
+Daunorubicin hydrochloride,CYP3A5
+Daunorubicin hydrochloride,POR
+Daunorubicin hydrochloride,CYP1B1
+Daunorubicin hydrochloride,AKR1B1
+Daunorubicin hydrochloride,CBR1
+Daunorubicin hydrochloride,CBR3
+Tretinoin,CYP3A7
+Tretinoin,CYP2B6
+Tretinoin,CYP2C8
+Tretinoin,CYP3A4
+Tretinoin,CYP3A5
+Tretinoin,CYP2A6
+Tretinoin,CYP2C18
+Tretinoin,CYP1A1
+Tretinoin,CYP4A11
+Etoposide,CYP2E1
+Etoposide,CYP3A5
+Etoposide,UGT1A1
+Etoposide,GSTP1
+Etoposide,PTGS2
+Etoposide,PTGS1
+Dacarbazine,CYP1A1
+Dacarbazine,CYP2E1
+Sirolimus,CYP3A4
+Sirolimus,CYP3A5
+Sirolimus,CYP3A7
+Azacitidine,CDA
+Fulvestrant,CYP3A4
+Fulvestrant,UGT1A1
+Carboplatin,XDH
+Carboplatin,MPO
+Carboplatin,MT1A
+Carboplatin,MT2A
+Carboplatin,SOD1
+Carboplatin,GSTM1
+Carboplatin,NQO1
+Exemestane,CYP3A4
+Doxorubicin hydrochloride,CYP2B6
+Doxorubicin hydrochloride,CYP1B1
+Doxorubicin hydrochloride,CBR1
+Doxorubicin hydrochloride,CBR3
+Doxorubicin hydrochloride,AKR1A1
+Doxorubicin hydrochloride,AKR1C3
+Doxorubicin hydrochloride,NQO1
+Doxorubicin hydrochloride,XDH
+Doxorubicin hydrochloride,NOS1
+Doxorubicin hydrochloride,NOS2
+Doxorubicin hydrochloride,NOS3
+Doxorubicin hydrochloride,NDUFS2
+Doxorubicin hydrochloride,NDUFS3
+Doxorubicin hydrochloride,NDUFS7
+Doxorubicin hydrochloride,POR
+Hydroxyurea,CYP2D6
+Letrozole,CYP2A6
+Letrozole,CYP2C19
+Letrozole,UGT2B7
+Busulfan,GSTA2
+Busulfan,GSTA1
+Busulfan,GSTM1
+Busulfan,MGST2
+Mercaptopurine,XDH
+Mercaptopurine,AOX1
+Thalidomide,CYP2C19
+Thalidomide,CYP2C9
+Thalidomide,PTGS1
+Thalidomide,CYP3A5
+Capecitabine,TYMP
+Capecitabine,CES1
+Capecitabine,CDA
+Capecitabine,CYP2C9
+Quinacrine hydrochloride,HNMT
+Quinacrine hydrochloride,CYP3A5
+Arsenic trioxide,CYP3A4
+Ifosfamide,CYP2B6
+Ifosfamide,CYP3A4
+Ifosfamide,CYP3A5
+Ifosfamide,CYP2C19
+Ifosfamide,CYP2C9
+Ifosfamide,CYP2C8
+Ifosfamide,CYP2A6
+Ifosfamide,CYP2C18
+Ifosfamide,PTGS1
+Mitoxantrone,CYP2E1
+Mitoxantrone,CYP1B1
+Anastrozole,CYP3A4
+Anastrozole,CYP3A5
+Anastrozole,CYP2C8
+Anastrozole,UGT1A4
+Anastrozole,UGT1A3
+Anastrozole,UGT2B7
+Anastrozole,CYP1A2
+Anastrozole,CYP2C9
+Paclitaxel,CYP3A4
+Paclitaxel,CYP3A7
+Paclitaxel,CYP19A1
+Paclitaxel,CYP1B1
+Paclitaxel,CYP2C8
+Docetaxel,CYP3A4
+Docetaxel,CYP3A5
+Docetaxel,CYP3A7
+Docetaxel,CYP1B1
+Dasatinib,CYP3A4
+Dasatinib,CYP1A1
+Dasatinib,CYP1A2
+Dasatinib,CYP1B1
+Dasatinib,CYP3A5
+Dasatinib,FMO3
+Lapatinib ditosylate,CYP2C8
+Lapatinib ditosylate,CYP2C19
+Decitabine,DCK
+Decitabine,CMPK1
+Decitabine,NME1
+Decitabine,NME2
+Decitabine,CDA
+Sunitinib,CYP3A5
+Sunitinib,CYP3A7
+Sunitinib,CYP3A4
+Everolimus,CYP3A4
+Everolimus,CYP2D6
+Thiotepa,CYP2B6
+Thiotepa,CYP3A4
+Thiotepa,BCHE
+Nilotinib,CYP3A4
+Nilotinib,CYP2C8
+Nilotinib,CYP2C9
+Nilotinib,CYP2D6
+Nilotinib,CYP2B6
+Vandetanib,FMO1
+Vandetanib,FMO3
+Vandetanib,CYP3A4
+7-Ethyl-10-hydroxycamptothecin,CYP3A4
+Abiraterone,SULT2A1
+Abiraterone,CYP2D6
+Abiraterone,CYP2C8
+Abiraterone,CYP1A2
+Abiraterone,CYP2C19
+Abiraterone,CYP2C9
+Romidepsin,CYP3A4
+Romidepsin,CYP3A5
+Romidepsin,CYP1A1
+Romidepsin,CYP2B6
+Romidepsin,CYP2C19
+Axitinib,CYP3A4
+Axitinib,CYP3A5
+Axitinib,CYP1A2
+Axitinib,CYP2C19
+Axitinib,UGT1A1
+Cabazitaxel,CYP3A4
+Cabazitaxel,CYP3A5
+Cabazitaxel,CYP2C8
+Vismodegib,CYP2C9
+Vismodegib,CYP3A4
+Vismodegib,CYP2C8
+Vismodegib,CYP2C19
+Crizotinib,CYP3A4
+Crizotinib,CYP3A5
+Crizotinib,CYP2B6
+Crizotinib,CYP3A43
+Crizotinib,CYP3A7
+Ruxolitinib,CYP3A4
+Ruxolitinib,CYP2C9
+Vemurafenib,CYP1A2
+Vemurafenib,CYP2D6
+Vemurafenib,CYP3A4
+Vemurafenib,CYP2C9
+Vemurafenib,CYP2C8
+Vemurafenib,CYP2B6
+Gefitinib,ALB
+Gefitinib,ORM1
+Floxuridine,SERPINA7
+Raloxifene hydrochloride,ALB
+Raloxifene hydrochloride,ORM1
+Cisplatin,ALB
+Erlotinib hydrochloride,ALB
+Erlotinib hydrochloride,ORM1
+Fluorouracil,ALB
+Fluorouracil,SERPINA7
+Methotrexate,ALB
+Imatinib mesylate,ALB
+Imatinib mesylate,ORM1
+Mitotane,SHBG
+Mitotane,SERPINA6
+Mitotane,SERPINA7
+Tamoxifen citrate,ALB
+Tamoxifen citrate,SERPINA7
+Tretinoin,ALB
+Temozolomide,ALB
+Temozolomide,ORM1
+Sirolimus,ALB
+Sirolimus,ORM1
+Sirolimus,APOA1
+Sirolimus,APOA2
+Sirolimus,APOA4
+Sirolimus,APOB
+Sirolimus,APOC2
+Sirolimus,APOC3
+Sirolimus,APOD
+Sirolimus,APOE
+Sirolimus,APOL1
+Sirolimus,APOM
+Sirolimus,LPA
+Doxorubicin hydrochloride,ALB
+Letrozole,ALB
+Arsenic trioxide,ALB
+Vandetanib,ORM1
+Vandetanib,ALB
+Abiraterone,ALB
+Abiraterone,ORM1
+Vismodegib,ALB
+Vismodegib,ORM1
+Ruxolitinib,ALB
+Vemurafenib,ALB
+Vemurafenib,ORM1
+Bortezomib,ABCB1
+Bortezomib,SLCO1B3
+Cladribine,ABCG2
+Cladribine,SLC28A3
+Chlorambucil,SLCO1A2
+Sorafenib tosylate,ABCG2
+Sorafenib tosylate,ABCC4
+Sorafenib tosylate,ABCC2
+Sorafenib tosylate,ABCB1
+Sorafenib tosylate,RALBP1
+Sorafenib tosylate,SLCO1B1
+Zoledronic acid,ABCC1
+Streptozocin,ABCB1
+Allopurinol,SLC22A8
+Allopurinol,SLC22A7
+Allopurinol,ABCG2
+Allopurinol,SLC22A2
+Gemcitabine hydrochloride,ABCB1
+Gemcitabine hydrochloride,ABCC10
+Gemcitabine hydrochloride,SLC29A1
+Gemcitabine hydrochloride,SLC28A1
+Gemcitabine hydrochloride,SLC29A2
+Gemcitabine hydrochloride,SLC28A3
+Teniposide,ABCC6
+Teniposide,ABCG2
+4'-Epiadriamycin,ABCC1
+Lenalidomide,ABCB1
+Raloxifene hydrochloride,SLCO1B1
+Raloxifene hydrochloride,SLCO1B3
+Raloxifene hydrochloride,ABCB1
+Raloxifene hydrochloride,ABCG2
+Raloxifene hydrochloride,ABCC2
+Raloxifene hydrochloride,ABCC3
+Raloxifene hydrochloride,ABCC4
+Celecoxib,ABCC4
+Celecoxib,ABCB11
+Celecoxib,ABCB1
+Celecoxib,ABCG2
+Cisplatin,ABCC3
+Cisplatin,ABCC5
+Cisplatin,ABCC2
+Cisplatin,SLC22A2
+Cisplatin,SLC31A1
+Cisplatin,SLC31A2
+Cisplatin,ABCC6
+Cisplatin,ATP7A
+Cisplatin,ABCG2
+Oxaliplatin,SLC22A2
+Oxaliplatin,SLC31A1
+Oxaliplatin,SLC22A3
+Oxaliplatin,ABCG2
+Oxaliplatin,ABCC2
+Erlotinib hydrochloride,ABCG2
+Erlotinib hydrochloride,ABCB1
+Erlotinib hydrochloride,SLCO2B1
+Vincristine sulfate,ABCB1
+Vincristine sulfate,ABCC3
+Vincristine sulfate,SLC22A3
+Vincristine sulfate,ABCC1
+Vincristine sulfate,ABCC10
+Vincristine sulfate,ABCC2
+Vincristine sulfate,ABCB11
+Vincristine sulfate,ABCG2
+Vincristine sulfate,RALBP1
+Vincristine sulfate,SLCO1B1
+Vincristine sulfate,SLCO1B3
+Fluorouracil,SLC22A7
+Fluorouracil,SLC29A1
+Fluorouracil,ABCG2
+Fluorouracil,ABCC3
+Fluorouracil,ABCC4
+Fluorouracil,ABCC5
+Methotrexate,ABCC3
+Methotrexate,ABCC1
+Methotrexate,SLC22A6
+Methotrexate,ABCC10
+Methotrexate,SLC22A8
+Methotrexate,ABCC2
+Methotrexate,ABCB1
+Methotrexate,SLCO1A2
+Methotrexate,SLC16A1
+Methotrexate,ABCC11
+Methotrexate,SLCO1B3
+Methotrexate,SLC22A11
+Methotrexate,SLCO1C1
+Methotrexate,SLCO3A1
+Methotrexate,ABCG2
+Methotrexate,SLC22A7
+Methotrexate,SLC46A1
+Methotrexate,SLCO1B1
+Methotrexate,SLCO4C1
+Methotrexate,SLC19A1
+Methotrexate,SLC15A1
+Methotrexate,SLC36A1
+Vinblastine sulfate,ABCC1
+Vinblastine sulfate,ABCC2
+Vinblastine sulfate,ABCC6
+Vinblastine sulfate,ABCB11
+Vinblastine sulfate,SLCO1B1
+Imatinib mesylate,SLC22A1
+Imatinib mesylate,SLC22A2
+Imatinib mesylate,ABCA3
+Imatinib mesylate,ABCB11
+Clofarabine,ABCG2
+Pemetrexed Disodium,SLC22A8
+Mitotane,ABCB1
+Tamoxifen citrate,ABCB1
+Tamoxifen citrate,ABCG2
+Tamoxifen citrate,ABCC2
+Tamoxifen citrate,ABCB11
+Tamoxifen citrate,ABCA1
+Daunorubicin hydrochloride,ABCC10
+Daunorubicin hydrochloride,ABCG2
+Daunorubicin hydrochloride,ABCC6
+Tretinoin,CRABP1
+Tretinoin,CRABP2
+Etoposide,ABCC3
+Etoposide,ABCC6
+Etoposide,ABCB1
+Etoposide,ABCC10
+Etoposide,ABCC2
+Etoposide,ABCG2
+Temozolomide,ABCB1
+Temozolomide,ABCG2
+Sirolimus,SLCO1B1
+Sirolimus,SLC47A1
+Carboplatin,SLC31A1
+Carboplatin,SLC31A2
+Carboplatin,ABCG2
+Carboplatin,ABCC2
+Dactinomycin,SLC22A5
+Dactinomycin,ABCB1
+Dactinomycin,ABCC6
+Dactinomycin,ABCC1
+Dactinomycin,ABCG2
+Doxorubicin hydrochloride,ABCC6
+Doxorubicin hydrochloride,ABCG2
+Doxorubicin hydrochloride,SLC22A16
+Doxorubicin hydrochloride,ABCC10
+Doxorubicin hydrochloride,ABCB8
+Doxorubicin hydrochloride,ABCB11
+Doxorubicin hydrochloride,RALBP1
+Doxorubicin hydrochloride,ABCC2
+Letrozole,ABCB1
+Topotecan hydrochloride,ABCG2
+Topotecan hydrochloride,ABCB1
+Topotecan hydrochloride,SLC47A1
+Topotecan hydrochloride,SLC47A2
+Mercaptopurine,SLC22A8
+Mercaptopurine,ABCC4
+Mercaptopurine,ABCC5
+Mercaptopurine,SLC28A2
+Mercaptopurine,SLC28A3
+Mercaptopurine,SLC29A1
+Melphalan,SLC22A3
+Melphalan,SLC7A5
+Fludarabine,SLC28A3
+Quinacrine hydrochloride,SLC22A2
+Quinacrine hydrochloride,ABCB1
+Arsenic trioxide,ABCC2
+Arsenic trioxide,ABCB1
+Mitoxantrone,ABCB1
+Mitoxantrone,ABCC1
+Anastrozole,ABCB1
+Paclitaxel,ABCB11
+Paclitaxel,ABCC1
+Paclitaxel,ABCC10
+Paclitaxel,SLCO1B3
+Paclitaxel,ABCC2
+Docetaxel,ABCB1
+Docetaxel,ABCC10
+Docetaxel,SLCO1B3
+Docetaxel,SLC22A7
+Docetaxel,ABCG2
+Docetaxel,ABCC2
+Docetaxel,ABCC1
+Dasatinib,ABCB1
+Dasatinib,ABCG2
+Lapatinib ditosylate,ABCB1
+Lapatinib ditosylate,TAP1
+Decitabine,SLC28A1
+Sunitinib,ABCC4
+Sunitinib,ABCB1
+Sunitinib,ABCC2
+Sunitinib,ABCG2
+Everolimus,SLCO1B1
+Everolimus,SLCO1B3
+Everolimus,SLCO1A2
+Everolimus,ABCB1
+Ixabepilone,ABCB1
+Nilotinib,ABCB1
+Nilotinib,ABCG2
+Nilotinib,SLCO1B1
+Vandetanib,ABCC1
+Vandetanib,ABCG2
+Vandetanib,SLC22A2
+Vandetanib,ABCB1
+Abiraterone,ABCC1
+Romidepsin,ABCB1
+Romidepsin,SLCO1B3
+Romidepsin,ABCB11
+Romidepsin,SLCO1B1
+Romidepsin,SLC22A6
+Romidepsin,SLC22A2
+Axitinib,ABCB1
+Axitinib,SLCO1B1
+Cabazitaxel,ABCB1
+Cabazitaxel,ABCG2
+Cabazitaxel,SLCO1B1
+Cabazitaxel,SLCO1B3
+Vismodegib,ABCB1
+Vismodegib,ABCG2
+Crizotinib,ABCB1
+Vemurafenib,ABCC1
+Vemurafenib,ABCG2
+Vemurafenib,ABCB1
+Celecoxib,PTGS1
+Hydroxyurea,RRM2
+Mitotane,CYP11A1
+Raloxifene hydrochloride,GPER1
+Fulvestrant,GPER1
+Clofarabine,RRM2
+Docetaxel,TUBB
+Tretinoin,PPARD
+Tretinoin,NR2C2
+Tretinoin,NR2E1
+Fludarabine,RRM2
+Thioguanine,IMPDH1
+Thioguanine,IMPDH2
+Tamoxifen citrate,GPER1
+Dasatinib,SIK3
+Ixabepilone,TUBB
+Cabazitaxel,TUBB
+Cyclophosphamide,MIR2053
+Daunorubicin hydrochloride,MIR2053
+Mercaptopurine,MIR2053
+Methotrexate,MIR2053
+Vincristine sulfate,MIR2053
+Imatinib mesylate,NQO1
+Fluorouracil,NQO1
+Cyclophosphamide,NQO1
+4'-Epiadriamycin,NQO1
+Etoposide,NQO1
+Methotrexate,NQO1
+Fluorouracil,CDA
+Oxaliplatin,CDA
+Cisplatin,CDA
+Docetaxel,CDA
+4'-Epiadriamycin,CDA
+Paclitaxel,CDA
+Docetaxel,CHST3
+Thalidomide,CHST3
+Fluorouracil,WRN
+Cyclophosphamide,FBXO21
+Doxorubicin hydrochloride,FBXO21
+Carboplatin,ERBB2
+Imatinib mesylate,ABCC2
+Pemetrexed Disodium,ABCC2
+Fluorouracil,ABCC2
+Cyclophosphamide,ABCC2
+4'-Epiadriamycin,ABCC2
+Gemcitabine hydrochloride,ABCC2
+Temozolomide,HDAC4
+Vincristine sulfate,SLC5A7
+Busulfan,ABCC3
+Cyclophosphamide,ABCC3
+Imatinib mesylate,POR
+Sunitinib,POR
+Sirolimus,POR
+Cyclophosphamide,ABCC4
+Doxorubicin hydrochloride,ABCC4
+Fluorouracil,PARD3B
+Oxaliplatin,PARD3B
+Daunorubicin hydrochloride,ABCC9
+Doxorubicin hydrochloride,ABCC9
+Vincristine sulfate,MIR202
+Vinorelbine tartrate,STMN1
+Pemetrexed Disodium,ERCC1
+Oxaliplatin,ERCC1
+Bleomycin sulfate,ERCC1
+Capecitabine,ERCC1
+Carboplatin,ERCC1
+Cyclophosphamide,ERCC1
+Docetaxel,ERCC1
+Doxorubicin hydrochloride,ERCC1
+4'-Epiadriamycin,ERCC1
+Etoposide,ERCC1
+Gemcitabine hydrochloride,ERCC1
+Paclitaxel,ERCC1
+Thalidomide,ERCC1
+Daunorubicin hydrochloride,CYP2J2
+Doxorubicin hydrochloride,CYP2J2
+Capecitabine,SLC28A1
+Daunorubicin hydrochloride,SLC28A1
+Doxorubicin hydrochloride,SLC28A1
+Celecoxib,CACNA1H
+Celecoxib,CACNA2D1
+Carboplatin,ATAT1
+Gemcitabine hydrochloride,ATAT1
+Fluorouracil,NR1I2
+Sunitinib,NR1I2
+Carboplatin,NR1I2
+Cisplatin,NR1I2
+Doxorubicin hydrochloride,NR1I2
+Methotrexate,NR1I2
+Sirolimus,NR1I2
+Vinblastine sulfate,NR1I2
+Vincristine sulfate,NR1I2
+Sorafenib tosylate,NR1I2
+Daunorubicin hydrochloride,SETD4
+Doxorubicin hydrochloride,SETD4
+Cisplatin,CLCN6
+Doxorubicin hydrochloride,CLCN6
+Methotrexate,CLCN6
+Cyclophosphamide,TUBB2A
+4'-Epiadriamycin,TUBB2A
+Capecitabine,PHC1
+Cisplatin,REV1
+Gemcitabine hydrochloride,CAMK4
+Celecoxib,KCNQ2
+Cyclophosphamide,XPO5
+Daunorubicin hydrochloride,XPO5
+Mercaptopurine,XPO5
+Methotrexate,XPO5
+Vincristine sulfate,XPO5
+Cisplatin,CSNK2A3
+Axitinib,UGT1A10
+Allopurinol,UGT1A10
+Methotrexate,UGT1A10
+Gemcitabine hydrochloride,HELB
+Cyclophosphamide,SLC28A3
+Daunorubicin hydrochloride,SLC28A3
+Doxorubicin hydrochloride,SLC28A3
+Methotrexate,SLC28A3
+Paclitaxel,SLC28A3
+Thioguanine,SLC28A3
+Vincristine sulfate,SLC28A3
+Daunorubicin hydrochloride,ADH7
+Doxorubicin hydrochloride,ADH7
+Fluorouracil,LGR5
+Imatinib mesylate,SLC19A1
+Fluorouracil,SLC19A1
+Capecitabine,SLC19A1
+Carboplatin,SLC19A1
+Cisplatin,SLC19A1
+Mercaptopurine,SLC19A1
+Arsenic trioxide,MT1A
+Fluorouracil,HNF4A
+Docetaxel,HNF4A
+Paclitaxel,FGD4
+Vincristine sulfate,BPHL
+Paclitaxel,EPHA5
+Oxaliplatin,ARHGEF4
+Capecitabine,ARHGEF4
+Axitinib,ABCG2
+Capecitabine,ABCG2
+Cyclophosphamide,ABCG2
+4'-Epiadriamycin,ABCG2
+Gemcitabine hydrochloride,ABCG2
+Paclitaxel,ABCG2
+Daunorubicin hydrochloride,GPX3
+Doxorubicin hydrochloride,GPX3
+Cisplatin,GSTA1
+Cyclophosphamide,GSTA1
+Doxorubicin hydrochloride,GSTA1
+Vincristine sulfate,GSTA1
+Sirolimus,TCF7L2
+Gemcitabine hydrochloride,NT5C
+Fluorouracil,NT5C1A
+Cladribine,NT5C1A
+Gemcitabine hydrochloride,NT5C1A
+Imatinib mesylate,RUNDC3B
+Hydroxyurea,SIN3A
+Nilotinib,SLC22A1
+Cisplatin,SLC22A1
+Sorafenib tosylate,SLC22A1
+Fluorouracil,RAB27A
+Cyclophosphamide,RAB27A
+Docetaxel,RAB27A
+4'-Epiadriamycin,RAB27A
+Methotrexate,KLRD1
+Allopurinol,SLC22A11
+Methotrexate,ATP5F1E
+Vincristine sulfate,ATP5F1E
+Fluorouracil,PTEN
+Capecitabine,PTEN
+Carboplatin,PTEN
+Cisplatin,PTEN
+Paclitaxel,EPHA8
+Fluorouracil,RRM2B
+Cyclophosphamide,RRM2B
+Docetaxel,RRM2B
+4'-Epiadriamycin,RRM2B
+Anastrozole,CLDN11
+Fluorouracil,WWOX
+Cisplatin,WWOX
+Gemcitabine hydrochloride,WWOX
+Mitoxantrone,WWOX
+Carboplatin,AKT1
+Methotrexate,COL18A1
+Fluorouracil,ABCG1
+Paclitaxel,ABCG1
+Carboplatin,MUCL3
+Gemcitabine hydrochloride,MUCL3
+Anastrozole,PRKG1
+Exemestane,PRKG1
+Vincristine sulfate,CAPG
+Fluorouracil,FEN1
+Fluorouracil,IL6
+Allopurinol,CYCSP5
+Gemcitabine hydrochloride,PRB2
+Daunorubicin hydrochloride,AKR7A2
+Doxorubicin hydrochloride,AKR7A2
+Exemestane,AKR7A2
+Fluorouracil,CCND1
+Lapatinib ditosylate,CCND1
+Cisplatin,CCND1
+Doxorubicin hydrochloride,CCND1
+Capecitabine,TP53
+Methotrexate,AMPD1
+Daunorubicin hydrochloride,SERPINA6
+Doxorubicin hydrochloride,SERPINA6
+Capecitabine,CD96
+Fluorouracil,RBX1
+Cyclophosphamide,RBX1
+4'-Epiadriamycin,RBX1
+Sunitinib,IL13
+Celecoxib,MMP9
+Letrozole,HLA-DQA1
+Mercaptopurine,HLA-DQA1
+Abiraterone,TSPYL1
+Fluorouracil,ERCC5
+Cisplatin,ERCC5
+Cyclophosphamide,ERCC5
+Raloxifene hydrochloride,ZNF423
+Tamoxifen citrate,ZNF423
+Docetaxel,RPL13
+Thalidomide,RPL13
+Fluorouracil,KDR
+Oxaliplatin,KDR
+Lenalidomide,KDR
+Cisplatin,KDR
+Capecitabine,SMARCAD1
+Cyclophosphamide,CXCR2
+Celecoxib,CACNA1G
+Celecoxib,CACNA1F
+Vincristine sulfate,NKAIN3
+Hydroxyurea,KLF4
+Cyclophosphamide,MIR146A
+Daunorubicin hydrochloride,MIR146A
+Mercaptopurine,MIR146A
+Methotrexate,MIR146A
+Vincristine sulfate,MIR146A
+Tamoxifen citrate,E2F7
+Methotrexate,CNOT4
+Oxaliplatin,ABCB1
+Bleomycin sulfate,ABCB1
+Capecitabine,ABCB1
+Cisplatin,ABCB1
+Cyclophosphamide,ABCB1
+Melphalan,ABCB1
+Mitomycin,ABCB1
+Teniposide,ABCB1
+Fluorouracil,IRS1
+Cyclophosphamide,IRS1
+4'-Epiadriamycin,IRS1
+Tamoxifen citrate,IRS1
+Fluorouracil,REV3L
+Capecitabine,REV3L
+Cisplatin,REV3L
+Docetaxel,CYP4B1
+Thalidomide,CYP4B1
+Fluorouracil,NFKB1
+Gefitinib,NFKB1
+Fluorouracil,TP53AIP1
+Cyclophosphamide,TP53AIP1
+4'-Epiadriamycin,TP53AIP1
+Allopurinol,UGT1A3
+Methotrexate,UGT1A3
+Gefitinib,REL
+Capecitabine,UMPS
+Capecitabine,VPS13D
+Pemetrexed Disodium,GGH
+Imatinib mesylate,GSTM1
+Fluorouracil,GSTM1
+Bleomycin sulfate,GSTM1
+Capecitabine,GSTM1
+Cyclophosphamide,GSTM1
+Dacarbazine,GSTM1
+Doxorubicin hydrochloride,GSTM1
+4'-Epiadriamycin,GSTM1
+Etoposide,GSTM1
+Gemcitabine hydrochloride,GSTM1
+Paclitaxel,GSTM1
+Vinblastine sulfate,GSTM1
+Busulfan,GSTA5
+Tamoxifen citrate,IGF1
+Daunorubicin hydrochloride,GSTA2
+Doxorubicin hydrochloride,GSTA2
+Fluorouracil,KLC3
+Oxaliplatin,KLC3
+Cisplatin,KLC3
+Cyclophosphamide,KLC3
+Doxorubicin hydrochloride,KLC3
+Gemcitabine hydrochloride,KLC3
+Ifosfamide,KLC3
+Methotrexate,KLC3
+Fluorouracil,IGF2BP2
+Oxaliplatin,IGF2BP2
+4'-Epiadriamycin,IGF2BP2
+Lapatinib ditosylate,ABCB11
+Daunorubicin hydrochloride,ABCB11
+Docetaxel,ORM2
+Oxaliplatin,ENOSF1
+Capecitabine,ENOSF1
+Cisplatin,ENOSF1
+Docetaxel,ENOSF1
+4'-Epiadriamycin,ENOSF1
+Methotrexate,ENOSF1
+Oxaliplatin,ABCC5
+Doxorubicin hydrochloride,ABCC5
+Fluorouracil,MTR
+Dactinomycin,MTR
+Capecitabine,MTR
+Carboplatin,MTR
+Cisplatin,MTR
+Cyclophosphamide,MTR
+Docetaxel,MTR
+Doxorubicin hydrochloride,MTR
+Gemcitabine hydrochloride,MTR
+Mercaptopurine,MTR
+Methotrexate,MTR
+Paclitaxel,MTR
+Vincristine sulfate,MTR
+Vinorelbine tartrate,MTR
+Anastrozole,DLGAP1
+Exemestane,DLGAP1
+Anastrozole,TNFSF11
+Letrozole,TNFSF11
+Anastrozole,MAP4K4
+Exemestane,MAP4K4
+Bortezomib,CTLA4
+Melphalan,CTLA4
+Cisplatin,SYNE3
+Daunorubicin hydrochloride,XDH
+Thioguanine,XDH
+Fluorouracil,RAD51
+Gefitinib,UHRF1
+Erlotinib hydrochloride,UHRF1
+Fluorouracil,HMMR
+Cyclophosphamide,HMMR
+4'-Epiadriamycin,HMMR
+Gemcitabine hydrochloride,POLA2
+Mercaptopurine,CNNM2
+Gemcitabine hydrochloride,FHL2
+Cisplatin,GSTM3
+Cyclophosphamide,GSTM3
+Daunorubicin hydrochloride,GSTM3
+Doxorubicin hydrochloride,GSTM3
+Celecoxib,CACNA2D3
+Fluorouracil,CYP19A1
+Capecitabine,CYP19A1
+Celecoxib,KCNQ5
+Fluorouracil,MECP2
+Cisplatin,MECP2
+Mitoxantrone,MECP2
+Cyclophosphamide,ATF5
+Daunorubicin hydrochloride,ATF5
+Methotrexate,ATF5
+Vincristine sulfate,ATF5
+Cisplatin,CYP2E1
+Cyclophosphamide,CYP2E1
+Fludarabine,CYP2E1
+Carboplatin,ACSS2
+Cisplatin,ACSS2
+Docetaxel,ACSS2
+Gemcitabine hydrochloride,ACSS2
+Paclitaxel,ACSS2
+Cisplatin,CYBA
+Cyclophosphamide,CYBA
+Doxorubicin hydrochloride,CYBA
+Vincristine sulfate,CYBA
+Carboplatin,FNTB
+Paclitaxel,FNTB
+Anastrozole,TNFRSF11B
+Letrozole,TNFRSF11B
+Tamoxifen citrate,IGF1R
+Cyclophosphamide,GATA3
+Daunorubicin hydrochloride,GATA3
+Doxorubicin hydrochloride,GATA3
+Mercaptopurine,GATA3
+Methotrexate,GATA3
+Thioguanine,GATA3
+Vincristine sulfate,GATA3
+Fluorouracil,ABCC11
+Capecitabine,ABCC11
+Hydroxyurea,ASS1
+Fluorouracil,KLC1
+Fluorouracil,VDR
+Raloxifene hydrochloride,VDR
+Fluorouracil,TOP2A
+Cyclophosphamide,TOP2A
+Carboplatin,OR4D6
+Gemcitabine hydrochloride,OR4D6
+Oxaliplatin,CYP3A4
+Bleomycin sulfate,CYP3A4
+Capecitabine,CYP3A4
+Cisplatin,CYP3A4
+4'-Epiadriamycin,CYP3A4
+Gemcitabine hydrochloride,CYP3A4
+Carboplatin,NRAS
+Cisplatin,NRAS
+Gemcitabine hydrochloride,NRAS
+Pemetrexed Disodium,TYMSOS
+Fluorouracil,TYMSOS
+Dactinomycin,TYMSOS
+Capecitabine,TYMSOS
+Carboplatin,TYMSOS
+Cisplatin,TYMSOS
+Cyclophosphamide,TYMSOS
+Daunorubicin hydrochloride,TYMSOS
+Doxorubicin hydrochloride,TYMSOS
+4'-Epiadriamycin,TYMSOS
+Etoposide,TYMSOS
+Gemcitabine hydrochloride,TYMSOS
+Mercaptopurine,TYMSOS
+Methotrexate,TYMSOS
+Vincristine sulfate,TYMSOS
+Carboplatin,DDX53
+Gemcitabine hydrochloride,DDX53
+Vemurafenib,HRAS
+Teniposide,NUP50
+Fluorouracil,RXRG
+Anastrozole,DLG2
+Fluorouracil,PPARA
+Sirolimus,PPARA
+Fluorouracil,XPC
+Cisplatin,XPC
+Doxorubicin hydrochloride,XPC
+Vincristine sulfate,MIR6076
+Vincristine sulfate,ACTG1
+Fluorouracil,EGFR
+Carboplatin,EGFR
+Hydroxyurea,MAP3K5
+Capecitabine,SPRY2
+Imatinib mesylate,SLCO1A2
+Allopurinol,PSORS1C3
+Methotrexate,ENG
+Lapatinib ditosylate,HLA-B
+Allopurinol,HLA-B
+Methotrexate,TLR4
+Cisplatin,LARP1B
+Oxaliplatin,CCNH
+Fluorouracil,SCN1A
+Anastrozole,DNAH12
+Exemestane,DNAH12
+Capecitabine,AREG
+Methotrexate,C1orf167
+Imatinib mesylate,CYP2B6
+Dactinomycin,CYP2B6
+Mitotane,CYP2B6
+Busulfan,CYP2B6
+Chlorambucil,CYP2B6
+Fludarabine,CYP2B6
+Methotrexate,CYP2B6
+Vincristine sulfate,CYP2B6
+Vincristine sulfate,CEP72
+Fluorouracil,RGS5
+Gemcitabine hydrochloride,ALOX5AP
+Capecitabine,ADCY2
+Fluorouracil,XRCC3
+Oxaliplatin,XRCC3
+Cisplatin,XRCC3
+Docetaxel,XRCC3
+Cyclophosphamide,MCPH1
+4'-Epiadriamycin,MCPH1
+Capecitabine,ADGRG7
+Celecoxib,CDKN1B
+Methotrexate,SLC16A7
+Tamoxifen citrate,RRAS2
+Gefitinib,IKBKE
+Cyclophosphamide,MIR1206
+Daunorubicin hydrochloride,MIR1206
+Mercaptopurine,MIR1206
+Methotrexate,MIR1206
+Vincristine sulfate,MIR1206
+Allopurinol,PKD2
+Tamoxifen citrate,LRMDA
+Methotrexate,ADORA2A-AS1
+Methotrexate,RFC1
+Vincristine sulfate,MIR4481
+Fluorouracil,ERCC4
+Cyclophosphamide,MIR1307
+Daunorubicin hydrochloride,MIR1307
+Mercaptopurine,MIR1307
+Methotrexate,MIR1307
+Vincristine sulfate,MIR1307
+Gefitinib,ARF1
+Erlotinib hydrochloride,ARF1
+Thioguanine,NAT1
+Docetaxel,ATP7A
+Thalidomide,ATP7A
+Celecoxib,BCAR1
+Mercaptopurine,ITPA
+Methotrexate,ITPA
+Carboplatin,HCP5
+Gemcitabine hydrochloride,HCP5
+Allopurinol,TBL1XR1
+Pemetrexed Disodium,MTHFR
+Dactinomycin,MTHFR
+Busulfan,MTHFR
+Capecitabine,MTHFR
+Carboplatin,MTHFR
+Cisplatin,MTHFR
+Cyclophosphamide,MTHFR
+Daunorubicin hydrochloride,MTHFR
+Docetaxel,MTHFR
+Doxorubicin hydrochloride,MTHFR
+4'-Epiadriamycin,MTHFR
+Gemcitabine hydrochloride,MTHFR
+Paclitaxel,MTHFR
+Vincristine sulfate,MTHFR
+Vinorelbine tartrate,MTHFR
+Azacitidine,MTHFR
+Cyclophosphamide,EGLN3
+Docetaxel,EGLN3
+4'-Epiadriamycin,EGLN3
+Cisplatin,LRP2
+Fluorouracil,NLGN1
+Carboplatin,CDSN
+Gemcitabine hydrochloride,CDSN
+Oxaliplatin,CSMD1
+Anastrozole,CSMD1
+Fluorouracil,OR10AE3P
+Celecoxib,CACNB2
+Gemcitabine hydrochloride,TENT4A
+Capecitabine,CDX2
+Allopurinol,TRIB2
+Cisplatin,CYP24A1
+Docetaxel,CYP24A1
+Allopurinol,HLA-DRB1
+Mercaptopurine,HLA-DRB1
+Fluorouracil,FLT4
+Oxaliplatin,FLT4
+Cisplatin,FLT4
+Fluorouracil,CSPG4
+Fluorouracil,WNT5B
+Imatinib mesylate,CYP1A1
+Sunitinib,CYP1A1
+Capecitabine,CYP1A1
+Docetaxel,CYP1A1
+Exemestane,CYP1A1
+Anastrozole,TUBB1
+Exemestane,TUBB1
+Oxaliplatin,FOXC1
+Gemcitabine hydrochloride,DAPK1
+Paclitaxel,DAPK1
+Gemcitabine hydrochloride,CDC5L
+Gefitinib,SUMO4
+Fluorouracil,PON1
+Oxaliplatin,PON1
+4'-Epiadriamycin,PON1
+Gefitinib,NR1H2
+Daunorubicin hydrochloride,RARG
+Doxorubicin hydrochloride,RARG
+Paclitaxel,RARG
+Fluorouracil,RALBP1
+Methotrexate,NFATC2
+Imatinib mesylate,GSTT1
+Fluorouracil,GSTT1
+Oxaliplatin,GSTT1
+Bleomycin sulfate,GSTT1
+Capecitabine,GSTT1
+Carboplatin,GSTT1
+Cisplatin,GSTT1
+Dacarbazine,GSTT1
+Docetaxel,GSTT1
+Doxorubicin hydrochloride,GSTT1
+4'-Epiadriamycin,GSTT1
+Etoposide,GSTT1
+Methotrexate,GSTT1
+Thalidomide,GSTT1
+Vinblastine sulfate,GSTT1
+Pemetrexed Disodium,MTHFD1
+Fluorouracil,MTHFD1
+Capecitabine,MTHFD1
+Cisplatin,MTHFD1
+Doxorubicin hydrochloride,MTHFD1
+Gemcitabine hydrochloride,MTHFD1
+Methotrexate,MTHFD1
+Mitoxantrone,C10orf67
+Fluorouracil,TNF
+Carboplatin,TNF
+Gemcitabine hydrochloride,TNF
+Sirolimus,TNF
+Sorafenib tosylate,TNF
+Gefitinib,MAP3K1
+Erlotinib hydrochloride,MAP3K1
+Carboplatin,MAP3K1
+Cisplatin,MAP3K1
+Docetaxel,MAP3K1
+Paclitaxel,MAP3K1
+Docetaxel,MDM4
+4'-Epiadriamycin,MDM4
+Carboplatin,PPP1R18
+Gemcitabine hydrochloride,PPP1R18
+Cyclophosphamide,MIR3117
+Daunorubicin hydrochloride,MIR3117
+Methotrexate,MIR3117
+Vincristine sulfate,MIR3117
+Fluorouracil,APEX1
+Methotrexate,MIR5189
+Cyclophosphamide,EPHA6
+4'-Epiadriamycin,EPHA6
+Paclitaxel,EPHA6
+Cyclophosphamide,SPIDR
+4'-Epiadriamycin,SPIDR
+Paclitaxel,SPIDR
+Daunorubicin hydrochloride,SZRD1
+Everolimus,PIK3R1
+Celecoxib,CACNA1E
+Capecitabine,CES2
+Daunorubicin hydrochloride,SLC13A3
+Doxorubicin hydrochloride,SLC13A3
+Tamoxifen citrate,NCOA1
+Carboplatin,BARD1
+Docetaxel,BARD1
+Cyclophosphamide,TNRC6A
+Daunorubicin hydrochloride,TNRC6A
+Mercaptopurine,TNRC6A
+Methotrexate,TNRC6A
+Vincristine sulfate,TNRC6A
+Celecoxib,CACNA1D
+Cyclophosphamide,MIR4268
+Daunorubicin hydrochloride,MIR4268
+Methotrexate,MIR4268
+Vincristine sulfate,MIR4268
+Anastrozole,SLC37A1
+Exemestane,SLC37A1
+Celecoxib,CDKN1A
+Carboplatin,OPRM1
+Docetaxel,OPRM1
+Paclitaxel,OPRM1
+Gefitinib,TAGAP
+Celecoxib,CACNB3
+Carboplatin,ALDH1A1
+Cyclophosphamide,ALDH1A1
+Doxorubicin hydrochloride,ALDH1A1
+Thiotepa,ALDH1A1
+Tamoxifen citrate,UGT2B15
+Fluorouracil,CYP2C19
+Celecoxib,CYP2C19
+Daunorubicin hydrochloride,ATP7B
+Fluorouracil,NOS1
+Cyclophosphamide,NOS1
+4'-Epiadriamycin,NOS1
+Docetaxel,PIK3CA
+Cyclophosphamide,RAC2
+Doxorubicin hydrochloride,RAC2
+Paclitaxel,RAC2
+Vincristine sulfate,RAC2
+Oxaliplatin,PTGS2
+Capecitabine,PTGS2
+Capecitabine,SSU72
+Gemcitabine hydrochloride,NT5C3A
+Celecoxib,IL23R
+Sorafenib tosylate,MAPK7
+Busulfan,SLC7A8
+Methotrexate,HTR3A
+Cyclophosphamide,TNRC6B
+Daunorubicin hydrochloride,TNRC6B
+Mercaptopurine,TNRC6B
+Methotrexate,TNRC6B
+Vincristine sulfate,TNRC6B
+Fluorouracil,MUTYH
+Cisplatin,MUTYH
+Cyclophosphamide,MUTYH
+Capecitabine,NSUN3
+Celecoxib,CACNA2D4
+Hydroxyurea,BCL11A
+Cyclophosphamide,MISP
+4'-Epiadriamycin,MISP
+Paclitaxel,MISP
+Etoposide,YAP1
+Fluorouracil,CXCL8
+Sunitinib,CXCL8
+Cyclophosphamide,CXCL8
+Paclitaxel,ARHGEF10
+Methotrexate,HLA-E
+Anastrozole,DGKI
+Exemestane,DGKI
+Gemcitabine hydrochloride,CTDP1
+Celecoxib,CACNA1B
+Cyclophosphamide,MIR604
+Daunorubicin hydrochloride,MIR604
+Mercaptopurine,MIR604
+Methotrexate,MIR604
+Vincristine sulfate,MIR604
+Fluorouracil,WDR7
+Capecitabine,WDR7
+Abiraterone,YBX1
+Methotrexate,DDRGK1
+Cisplatin,CDH13
+Fluorouracil,TNFSF13B
+Cyclophosphamide,TNFSF13B
+Docetaxel,TNFSF13B
+4'-Epiadriamycin,TNFSF13B
+Gemcitabine hydrochloride,CDH4
+Anastrozole,DOCK4
+Exemestane,DOCK4
+Celecoxib,ATP2A3
+Tamoxifen citrate,CCNA2
+Fluorouracil,COLEC10
+Methotrexate,IL12B
+Cyclophosphamide,FCGR2A
+Doxorubicin hydrochloride,FCGR2A
+Paclitaxel,FCGR2A
+Carboplatin,PRRC2A
+Gemcitabine hydrochloride,PRRC2A
+Gemcitabine hydrochloride,DCTD
+Fluorouracil,OGG1
+Cisplatin,OGG1
+Axitinib,HIF1A
+Sorafenib tosylate,HIF1A
+Daunorubicin hydrochloride,DCK
+Mitoxantrone,DCK
+Paclitaxel,DCK
+Allopurinol,HLA-DQB1
+Etoposide,PLA2G6
+Cyclophosphamide,AGO1
+Daunorubicin hydrochloride,AGO1
+Mercaptopurine,AGO1
+Methotrexate,AGO1
+Vincristine sulfate,AGO1
+Methotrexate,FOXP3
+Gefitinib,TNFAIP3
+Methotrexate,TNFAIP3
+Methotrexate,SLC22A9
+Fluorouracil,PERP
+Cyclophosphamide,PERP
+4'-Epiadriamycin,PERP
+Daunorubicin hydrochloride,SLC22A2
+Doxorubicin hydrochloride,SLC22A2
+Capecitabine,MAN1A1
+Cyclophosphamide,FCGR3A
+Vincristine sulfate,FCGR3A
+Everolimus,CYP2C8
+Carboplatin,CYP2C8
+Docetaxel,CYP2C8
+Doxorubicin hydrochloride,CYP2C8
+4'-Epiadriamycin,CYP2C8
+Gemcitabine hydrochloride,CYP2C8
+Allopurinol,UGT1A4
+Methotrexate,UGT1A4
+Tamoxifen citrate,UGT1A4
+Fluorouracil,OSGEP
+Cisplatin,OSGEP
+Mercaptopurine,PACSIN2
+Methotrexate,PACSIN2
+Celecoxib,ATP2A1
+Gemcitabine hydrochloride,ALG10
+Mercaptopurine,FOLH1
+Carboplatin,EIF3A
+Cisplatin,EIF3A
+Allopurinol,TSHZ2
+Fluorouracil,SPARC
+Capecitabine,SPARC
+Gemcitabine hydrochloride,SPARC
+Celecoxib,CACNA2D2
+Fluorouracil,GALNT14
+Cisplatin,GALNT14
+Doxorubicin hydrochloride,GALNT14
+Mitoxantrone,GALNT14
+Sorafenib tosylate,GALNT14
+Capecitabine,TENM4
+Cisplatin,OTOS
+Fluorouracil,SOD3
+Oxaliplatin,SOD3
+4'-Epiadriamycin,SOD3
+Capecitabine,CES1P1
+Fluorouracil,STAT3
+Cyclophosphamide,DOP1B
+Doxorubicin hydrochloride,DOP1B
+Cisplatin,DPYD
+Cyclophosphamide,DPYD
+Docetaxel,DPYD
+Doxorubicin hydrochloride,DPYD
+4'-Epiadriamycin,DPYD
+Methotrexate,DPYD
+Docetaxel,ABCC6
+Thalidomide,ABCC6
+Capecitabine,ANK3
+Methotrexate,KIR2DS4
+Busulfan,CTH
+Cyclophosphamide,CTH
+Carmustine,G6PD
+Daunorubicin hydrochloride,G6PD
+Doxorubicin hydrochloride,G6PD
+Pemetrexed Disodium,FOLR3
+Cyclophosphamide,BMP7
+Daunorubicin hydrochloride,BMP7
+Doxorubicin hydrochloride,BMP7
+Methotrexate,BMP7
+Thioguanine,BMP7
+Vincristine sulfate,BMP7
+Cyclophosphamide,DOK5
+Daunorubicin hydrochloride,DOK5
+Doxorubicin hydrochloride,DOK5
+Methotrexate,DOK5
+Thioguanine,DOK5
+Vincristine sulfate,DOK5
+Methotrexate,RAVER2
+Cyclophosphamide,IKZF3
+Cisplatin,SLC16A5
+Vincristine sulfate,BAHD1
+Daunorubicin hydrochloride,AKR1C4
+Exemestane,AKR1C4
+Gemcitabine hydrochloride,BTRC
+Lapatinib ditosylate,HLA-C
+Allopurinol,HLA-C
+Carboplatin,HLA-C
+Gemcitabine hydrochloride,HLA-C
+Methotrexate,HLA-C
+Fluorouracil,CYP1B1
+Capecitabine,CYP1B1
+Cisplatin,CYP1B1
+Cyclophosphamide,CYP1B1
+4'-Epiadriamycin,CYP1B1
+Gemcitabine hydrochloride,CYP1B1
+Gemcitabine hydrochloride,UBASH3B
+Carboplatin,TIGD1
+Paclitaxel,TIGD1
+Capecitabine,LMNTD1
+Carboplatin,SCN10A
+Imatinib mesylate,CYP2F1
+Cisplatin,POLR1G
+Gemcitabine hydrochloride,POLR1G
+Melphalan,POLR1G
+Paclitaxel,POLR1G
+Imatinib mesylate,UGT2A1
+Imatinib mesylate,FLT1
+Fluorouracil,FLT1
+Oxaliplatin,FLT1
+Cisplatin,FLT1
+Cyclophosphamide,FLT1
+Docetaxel,FLT1
+4'-Epiadriamycin,FLT1
+Methotrexate,FASTKD3
+Sorafenib tosylate,MAPK10
+Fluorouracil,MSH6
+Oxaliplatin,MSH6
+Allopurinol,POU5F1
+Carboplatin,GSR
+Vorinostat,CHD4
+Gemcitabine hydrochloride,DCP1B
+Allopurinol,SLC17A1
+Fluorouracil,TMEM167A
+Gefitinib,TAB2
+Fluorouracil,IMPDH2
+Methotrexate,IMPDH2
+Allopurinol,MYT1L
+Cyclophosphamide,LINC00251
+Daunorubicin hydrochloride,LINC00251
+Doxorubicin hydrochloride,LINC00251
+Methotrexate,LINC00251
+Thioguanine,LINC00251
+Vincristine sulfate,LINC00251
+Daunorubicin hydrochloride,CYP4F2
+Doxorubicin hydrochloride,CYP4F2
+Carboplatin,DSCAM
+Paclitaxel,DSCAM
+Gemcitabine hydrochloride,SLC29A3
+Celecoxib,CASP3
+Cisplatin,CASP3
+Doxorubicin hydrochloride,CASP3
+Methotrexate,KLRC1
+Methotrexate,GSK3B
+Celecoxib,ATP2A2
+Cisplatin,TMEM43
+Carboplatin,EIF4E2
+Paclitaxel,EIF4E2
+Cisplatin,PPP1R13L
+Gemcitabine hydrochloride,PPP1R13L
+Paclitaxel,PPP1R13L
+Everolimus,RPTOR
+Daunorubicin hydrochloride,SULT2B1
+Doxorubicin hydrochloride,SULT2B1
+Fludarabine,SULT2B1
+Carboplatin,NRG3
+Paclitaxel,NRG3
+Oxaliplatin,FARS2
+Cyclophosphamide,MIR492
+Daunorubicin hydrochloride,MIR492
+Mercaptopurine,MIR492
+Methotrexate,MIR492
+Vincristine sulfate,MIR492
+Gefitinib,SIRT2
+Fluorouracil,UGT1A1
+Oxaliplatin,UGT1A1
+Allopurinol,UGT1A1
+Bleomycin sulfate,UGT1A1
+Capecitabine,UGT1A1
+Carboplatin,UGT1A1
+Cisplatin,UGT1A1
+Cyclophosphamide,UGT1A1
+4'-Epiadriamycin,UGT1A1
+Methotrexate,UGT1A1
+Fluorouracil,CHN2
+Cyclophosphamide,MIR300
+Daunorubicin hydrochloride,MIR300
+Mercaptopurine,MIR300
+Methotrexate,MIR300
+Vincristine sulfate,MIR300
+Daunorubicin hydrochloride,SPG7
+Docetaxel,SPG7
+Doxorubicin hydrochloride,SPG7
+Thalidomide,SPG7
+Sunitinib,IL4R
+Methotrexate,IMPDH1
+Oxaliplatin,TAC1
+Fluorouracil,CYP4X1
+Cyclophosphamide,CYP4X1
+Celecoxib,CACNA1S
+Oxaliplatin,GNA13
+Allopurinol,GREM2
+Daunorubicin hydrochloride,COL1A2
+Doxorubicin hydrochloride,COL1A2
+Fluorouracil,MSH2
+Cisplatin,MSH2
+Doxorubicin hydrochloride,MSH2
+Cisplatin,CMPK1
+Paclitaxel,CMPK1
+Cyclophosphamide,MIR423
+Daunorubicin hydrochloride,MIR423
+Mercaptopurine,MIR423
+Methotrexate,MIR423
+Vincristine sulfate,MIR423
+Capecitabine,CCDC70
+Oxaliplatin,CYP3A5
+Everolimus,CYP3A5
+Capecitabine,CYP3A5
+Carboplatin,CYP3A5
+Celecoxib,CYP3A5
+Cisplatin,CYP3A5
+4'-Epiadriamycin,CYP3A5
+Gemcitabine hydrochloride,CYP3A5
+Vinorelbine tartrate,CYP3A5
+Cyclophosphamide,C5orf22
+Daunorubicin hydrochloride,C5orf22
+Mercaptopurine,C5orf22
+Methotrexate,C5orf22
+Vincristine sulfate,C5orf22
+Daunorubicin hydrochloride,NRP2
+Cisplatin,BLMH
+Etoposide,BLMH
+Daunorubicin hydrochloride,HNMT
+Doxorubicin hydrochloride,HNMT
+Oxaliplatin,PIN1
+Daunorubicin hydrochloride,ABCA1
+Doxorubicin hydrochloride,ABCA1
+Carboplatin,C6orf15
+Gemcitabine hydrochloride,C6orf15
+Cyclophosphamide,MIR577
+Daunorubicin hydrochloride,MIR577
+Mercaptopurine,MIR577
+Methotrexate,MIR577
+Vincristine sulfate,MIR577
+Lapatinib ditosylate,ESR2
+Everolimus,ESR2
+Ixabepilone,ESR2
+Anastrozole,ESR2
+Docetaxel,ESR2
+Exemestane,ESR2
+Gemcitabine hydrochloride,ESR2
+Letrozole,ESR2
+Exemestane,CYP4A11
+Cisplatin,DCBLD1
+Fluorouracil,PIGB
+Cyclophosphamide,PIGB
+Docetaxel,PIGB
+4'-Epiadriamycin,PIGB
+Carboplatin,AKT2
+Cisplatin,AKT2
+Capecitabine,TMEM131L
+Cisplatin,FASLG
+Doxorubicin hydrochloride,FASLG
+Carboplatin,TRIM5
+Paclitaxel,TRIM5
+Sorafenib tosylate,MAPK8
+Methotrexate,SPECC1L
+Methotrexate,CDH2
+Etoposide,SLIT1
+Docetaxel,PRDX4
+Fluorouracil,SLCO1B1
+Capecitabine,SLCO1B1
+Cyclophosphamide,SLCO1B1
+Daunorubicin hydrochloride,SLCO1B1
+Doxorubicin hydrochloride,SLCO1B1
+4'-Epiadriamycin,SLCO1B1
+Etoposide,SLCO1B1
+Fludarabine,SLCO1B1
+Gemcitabine hydrochloride,SLCO1B1
+Mercaptopurine,SLCO1B1
+Mitoxantrone,SLCO1B1
+Paclitaxel,SLCO1B1
+Tamoxifen citrate,SLCO1B1
+Methotrexate,MIR595
+Cisplatin,NAT2
+Docetaxel,NAT2
+Thalidomide,NAT2
+Vincristine sulfate,COCH
+Oxaliplatin,ITGA1
+Vincristine sulfate,KANSL1
+Docetaxel,VAC14
+Axitinib,UGT1A9
+Allopurinol,UGT1A9
+Cisplatin,UGT1A9
+Methotrexate,UGT1A9
+Capecitabine,SIRPA
+Fluorouracil,IGFBP3
+Celecoxib,IGFBP3
+Tamoxifen citrate,IGFBP3
+Fluorouracil,ATM
+Cyclophosphamide,ATM
+Doxorubicin hydrochloride,ATM
+Celecoxib,KCNQ4
+Mercaptopurine,FTO
+Fluorouracil,ALDH3A1
+Carboplatin,ALDH3A1
+Cyclophosphamide,ALDH3A1
+Doxorubicin hydrochloride,ALDH3A1
+Thiotepa,ALDH3A1
+Docetaxel,SNORD68
+Thalidomide,SNORD68
+Docetaxel,RXRA
+Capecitabine,MIR2054
+Gemcitabine hydrochloride,FKBP5
+Carboplatin,DOCK8
+Gemcitabine hydrochloride,DOCK8
+Celecoxib,CASP9
+Daunorubicin hydrochloride,SLC22A17
+Doxorubicin hydrochloride,SLC22A17
+Oxaliplatin,UGT1A6
+Allopurinol,UGT1A6
+Daunorubicin hydrochloride,UGT1A6
+Doxorubicin hydrochloride,UGT1A6
+Methotrexate,UGT1A6
+Paclitaxel,UGT1A6
+Oxaliplatin,MGAT4A
+Capecitabine,MGAT4A
+Oxaliplatin,CYP2A6
+Docetaxel,CYP2A6
+Gemcitabine hydrochloride,POLR2A
+Cisplatin,GSTM4
+Gefitinib,NUP62
+Erlotinib hydrochloride,NUP62
+Sorafenib tosylate,MAPK4
+Gemcitabine hydrochloride,PDE4B
+Paclitaxel,PDE4B
+Imatinib mesylate,BCL2L11
+Vincristine sulfate,SYNE2
+Oxaliplatin,CAMK2N1
+Vincristine sulfate,MAPT
+Carboplatin,ETS2
+Gemcitabine hydrochloride,ETS2
+Paclitaxel,ETS2
+Cisplatin,EPO
+Tamoxifen citrate,WBP2NL
+Arsenic trioxide,RARA
+Allopurinol,NTNG1
+Fluorouracil,DPYS
+Capecitabine,DPYS
+Daunorubicin hydrochloride,AKR1C3
+Docetaxel,AKR1C3
+Exemestane,AKR1C3
+Methotrexate,PYGL
+Oxaliplatin,TYMP
+Cisplatin,TYMP
+Docetaxel,TYMP
+4'-Epiadriamycin,TYMP
+Cyclophosphamide,DDX20
+Daunorubicin hydrochloride,DDX20
+Mercaptopurine,DDX20
+Methotrexate,DDX20
+Vincristine sulfate,DDX20
+Capecitabine,FAT1
+Dacarbazine,EPM2AIP1
+Fluorouracil,XRCC4
+Docetaxel,XRCC4
+Imatinib mesylate,SLC22A5
+Sunitinib,SLC22A5
+Cisplatin,UBE2I
+Celecoxib,PTGER4
+Methotrexate,ADORA2A
+Fluorouracil,ETFRF1
+Vorinostat,UGT2B17
+Exemestane,UGT2B17
+Carboplatin,MSH5
+Gemcitabine hydrochloride,MSH5
+Gefitinib,NFKBIB
+Docetaxel,PPCDC
+Gemcitabine hydrochloride,PPCDC
+Capecitabine,ZMIZ1
+Imatinib mesylate,CHST1
+Fluorouracil,NEIL1
+Pemetrexed Disodium,ERCC2
+Fluorouracil,ERCC2
+Oxaliplatin,ERCC2
+Bleomycin sulfate,ERCC2
+Capecitabine,ERCC2
+Carboplatin,ERCC2
+Cyclophosphamide,ERCC2
+Docetaxel,ERCC2
+Doxorubicin hydrochloride,ERCC2
+4'-Epiadriamycin,ERCC2
+Etoposide,ERCC2
+Gemcitabine hydrochloride,ERCC2
+Ifosfamide,ERCC2
+Methotrexate,ERCC2
+Paclitaxel,ERCC2
+Gefitinib,DVL2
+Erlotinib hydrochloride,DVL2
+Fluorouracil,PPARD
+Cisplatin,PPARD
+Docetaxel,PPARD
+Thalidomide,PPARD
+Gefitinib,NFKB2
+Fluorouracil,SLC22A16
+Cyclophosphamide,SLC22A16
+Fluorouracil,PROM1
+Oxaliplatin,PROM1
+Carboplatin,SERPINC1
+Gemcitabine hydrochloride,SERPINC1
+Capecitabine,MTRR
+Methotrexate,MTRR
+Fluorouracil,CCNK
+Cyclophosphamide,CCNK
+4'-Epiadriamycin,CCNK
+Allopurinol,CFLAR
+Fluorouracil,SMAD7
+Oxaliplatin,SMAD7
+Capecitabine,SMAD7
+Sorafenib tosylate,MAPK13
+Vincristine sulfate,MRPL47
+Chlorambucil,CXCL12
+Cyclophosphamide,CXCL12
+Fludarabine,CXCL12
+Vincristine sulfate,CXCL12
+Celecoxib,CACNA1I
+Capecitabine,SLC22A7
+Daunorubicin hydrochloride,SLC22A7
+Doxorubicin hydrochloride,SLC22A7
+Gemcitabine hydrochloride,NT5C2
+Mercaptopurine,NT5C2
+Allopurinol,NOTCH4
+Imatinib mesylate,ABCB4
+Daunorubicin hydrochloride,ABCB4
+Doxorubicin hydrochloride,ABCB4
+Fluorouracil,SHMT1
+Capecitabine,SHMT1
+Mercaptopurine,SHMT1
+Methotrexate,SHMT1
+Cyclophosphamide,MIR618
+Daunorubicin hydrochloride,MIR618
+Mercaptopurine,MIR618
+Methotrexate,MIR618
+Vincristine sulfate,MIR618
+Allopurinol,PSORS1C2
+Allopurinol,SLC22A12
+Fludarabine,SLC22A12
+Fluorouracil,IFNG
+Gemcitabine hydrochloride,SLC28A2
+Methotrexate,SLC28A2
+Fluorouracil,TWIST1
+Celecoxib,CACNB4
+Fluorouracil,DLG5
+Capecitabine,DLG5
+Cisplatin,GALNT18
+Fluorouracil,INSR
+Cyclophosphamide,INSR
+4'-Epiadriamycin,INSR
+Paclitaxel,FZD3
+Lenalidomide,CTNNB1
+Celecoxib,CTNNB1
+Cyclophosphamide,CTNNB1
+Thalidomide,CTNNB1
+Imatinib mesylate,SLCO1B3
+Sunitinib,SLCO1B3
+Carboplatin,SLCO1B3
+Fluorouracil,AGXT
+Oxaliplatin,AGXT
+Allopurinol,PSORS1C1
+Carboplatin,PSORS1C1
+Gemcitabine hydrochloride,PSORS1C1
+Anastrozole,FLT3
+Exemestane,FLT3
+Carboplatin,GPX5
+Cisplatin,GPX5
+Gemcitabine hydrochloride,GPX5
+Dasatinib,NQO2
+Cyclophosphamide,NQO2
+Doxorubicin hydrochloride,NQO2
+Oxaliplatin,UGT1A7
+Axitinib,UGT1A7
+Allopurinol,UGT1A7
+Methotrexate,UGT1A7
+Cyclophosphamide,NCF4
+Doxorubicin hydrochloride,NCF4
+Paclitaxel,NCF4
+Vincristine sulfate,NCF4
+Fluorouracil,MIR27A
+Capecitabine,MIR27A
+Gemcitabine hydrochloride,IL17F
+Paclitaxel,IL17F
+Anastrozole,TCL1A
+Exemestane,TCL1A
+Methotrexate,HTR3B
+Fluorouracil,TPMT
+Cyclophosphamide,TPMT
+Methotrexate,TPMT
+Capecitabine,CCDC77
+Fluorouracil,PIK3R2
+Cyclophosphamide,PIK3R2
+4'-Epiadriamycin,PIK3R2
+Fluorouracil,CBR1
+Cyclophosphamide,CBR1
+Methotrexate,ADORA3
+Carboplatin,MTOR
+Cisplatin,MTOR
+Fluorouracil,PPP2R5D
+Cyclophosphamide,PPP2R5D
+4'-Epiadriamycin,PPP2R5D
+Fluorouracil,KCNQ1
+Oxaliplatin,KCNQ1
+Celecoxib,KCNQ1
+4'-Epiadriamycin,KCNQ1
+Methotrexate,ARID5B
+Cyclophosphamide,PNPLA3
+Daunorubicin hydrochloride,PNPLA3
+Mercaptopurine,PNPLA3
+Vincristine sulfate,PNPLA3
+Anastrozole,ZNF613
+Letrozole,ZNF613
+Tamoxifen citrate,ZNF613
+Fluorouracil,UPB1
+Capecitabine,UPB1
+Carboplatin,BCL2
+Vincristine sulfate,BCL2
+Axitinib,UGT1A8
+Allopurinol,UGT1A8
+Methotrexate,UGT1A8
+Sirolimus,UGT1A8
+Fluorouracil,GNAS
+Cisplatin,GNAS
+Fludarabine,ADH1A
+Paclitaxel,SPATA5
+Hydroxyurea,IFNL3
+Methotrexate,NALCN
+Oxaliplatin,APOBEC2
+Capecitabine,APOBEC2
+Sorafenib tosylate,SLC15A2
+Sorafenib tosylate,MAPK6
+Daunorubicin hydrochloride,MAN1B1
+Gefitinib,RELA
+Vincristine sulfate,MIR411
+Carboplatin,XYLT2
+Gemcitabine hydrochloride,XYLT2
+Imatinib mesylate,SLC22A4
+Busulfan,SLC22A4
+Docetaxel,CASP7
+Gemcitabine hydrochloride,CASP7
+Paclitaxel,CASP7
+Vinorelbine tartrate,CASP7
+Cisplatin,AQP1
+Celecoxib,CACNB1
+Fluorouracil,FGFR4
+Everolimus,FGFR4
+Cyclophosphamide,FGFR4
+Docetaxel,FGFR4
+Methotrexate,FGFR4
+Paclitaxel,FGFR4
+Lapatinib ditosylate,HLA-A
+Allopurinol,HLA-A
+Cyclophosphamide,MIR449B
+Daunorubicin hydrochloride,MIR449B
+Mercaptopurine,MIR449B
+Methotrexate,MIR449B
+Vincristine sulfate,MIR449B
+Fluorouracil,MSH3
+Methotrexate,MSH3
+Cisplatin,MLLT3
+Mercaptopurine,GNMT
+Allopurinol,SLC2A9
+Pemetrexed Disodium,XRCC1
+Fluorouracil,XRCC1
+Oxaliplatin,XRCC1
+Capecitabine,XRCC1
+Carboplatin,XRCC1
+Cisplatin,XRCC1
+Cyclophosphamide,XRCC1
+Docetaxel,XRCC1
+Doxorubicin hydrochloride,XRCC1
+4'-Epiadriamycin,XRCC1
+Gemcitabine hydrochloride,XRCC1
+Azacitidine,XRCC1
+Fluorouracil,ABCC1
+Oxaliplatin,ABCC1
+Cyclophosphamide,ABCC1
+Sunitinib,ZSCAN25
+Abiraterone,DSE
+Fluorouracil,FOXO1
+Cyclophosphamide,FOXO1
+4'-Epiadriamycin,FOXO1
+Pemetrexed Disodium,RRM1
+Capecitabine,RRM1
+Carboplatin,RRM1
+Docetaxel,RRM1
+4'-Epiadriamycin,RRM1
+Paclitaxel,RRM1
+Daunorubicin hydrochloride,SLCO6A1
+Doxorubicin hydrochloride,SLCO6A1
+Allopurinol,UGT1A5
+Methotrexate,UGT1A5
+Docetaxel,SULT1C4
+Thalidomide,SULT1C4
+Cisplatin,LIG3
+Cyclophosphamide,LIG3
+Fluorouracil,EXO1
+Capecitabine,EXO1
+Oxaliplatin,TYMS
+Dactinomycin,TYMS
+Carboplatin,TYMS
+Cyclophosphamide,TYMS
+Docetaxel,TYMS
+Doxorubicin hydrochloride,TYMS
+4'-Epiadriamycin,TYMS
+Etoposide,TYMS
+Mercaptopurine,TYMS
+Paclitaxel,TYMS
+Vinorelbine tartrate,TYMS
+Azacitidine,TYMS
+Daunorubicin hydrochloride,FMO3
+Doxorubicin hydrochloride,FMO3
+Methotrexate,PTPRM
+Methotrexate,NFATC1
+Celecoxib,CACNA1A
+Cyclophosphamide,GEMIN4
+Daunorubicin hydrochloride,GEMIN4
+Mercaptopurine,GEMIN4
+Methotrexate,GEMIN4
+Vincristine sulfate,GEMIN4
+Lenalidomide,FGF2
+Thalidomide,FGF2
+Cyclophosphamide,CNOT1
+Daunorubicin hydrochloride,CNOT1
+Mercaptopurine,CNOT1
+Methotrexate,CNOT1
+Vincristine sulfate,CNOT1
+Fluorouracil,ZNF215
+Cyclophosphamide,ZNF215
+4'-Epiadriamycin,ZNF215
+Gemcitabine hydrochloride,STIM1
+Cisplatin,COMT
+Mercaptopurine,COMT
+Erlotinib hydrochloride,ERBB3
+Carboplatin,ERBB3
+Docetaxel,ERBB3
+Abiraterone,SRD5A2
+Oxaliplatin,ACYP2
+Cisplatin,ACYP2
+Fluorouracil,PDGFRB
+Etoposide,DYNC2H1
+Daunorubicin hydrochloride,SLC10A2
+Docetaxel,SLC10A2
+Doxorubicin hydrochloride,SLC10A2
+Thalidomide,SLC10A2
+Oxaliplatin,BTG4
+Cisplatin,RAD52
+Cyclophosphamide,RAD52
+Methotrexate,MROH2A
+Cisplatin,ADH1C
+Cyclophosphamide,ADH1C
+Cyclophosphamide,EPAS1
+Docetaxel,EPAS1
+4'-Epiadriamycin,EPAS1
+Cisplatin,ABCB5
+Celecoxib,ALOX12
+Fluorouracil,MEGF11
+Cisplatin,EPHX1
+Cyclophosphamide,EPHX1
+Docetaxel,EPHX1
+Gefitinib,IKBKB
+Gemcitabine hydrochloride,MS4A2
+Fluorouracil,NR1I3
+Sunitinib,NR1I3
+Docetaxel,NR1I3
+Topotecan hydrochloride,DDO
+Fluorouracil,PPARG
+Celecoxib,PPARG
+Imatinib mesylate,ABI1
+Dasatinib,ABI1
+Nilotinib,ABI1
+Imatinib mesylate,VEGFA
+Pemetrexed Disodium,VEGFA
+Fluorouracil,VEGFA
+Oxaliplatin,VEGFA
+Sunitinib,VEGFA
+Capecitabine,VEGFA
+Carboplatin,VEGFA
+Celecoxib,VEGFA
+Cisplatin,VEGFA
+Cyclophosphamide,VEGFA
+Docetaxel,VEGFA
+4'-Epiadriamycin,VEGFA
+Thalidomide,VEGFA
+Celecoxib,PDK1
+Fluorouracil,SELE
+Oxaliplatin,SELE
+Capecitabine,SELE
+Carboplatin,SERPINA5
+Gemcitabine hydrochloride,SERPINA5
+Imatinib mesylate,GSTP1
+Fluorouracil,GSTP1
+Bleomycin sulfate,GSTP1
+Capecitabine,GSTP1
+Daunorubicin hydrochloride,GSTP1
+4'-Epiadriamycin,GSTP1
+Gemcitabine hydrochloride,GSTP1
+Mercaptopurine,GSTP1
+Methotrexate,GSTP1
+Paclitaxel,GSTP1
+Temozolomide,GSTP1
+Thiotepa,GSTP1
+Fluorouracil,SOD2
+Oxaliplatin,SOD2
+Cisplatin,SOD2
+Cyclophosphamide,SOD2
+Daunorubicin hydrochloride,SOD2
+Docetaxel,SOD2
+Doxorubicin hydrochloride,SOD2
+4'-Epiadriamycin,SOD2
+Methotrexate,SOD2
+Paclitaxel,SOD2
+Capecitabine,NCOA7
+Cyclophosphamide,DROSHA
+Daunorubicin hydrochloride,DROSHA
+Mercaptopurine,DROSHA
+Methotrexate,DROSHA
+Vincristine sulfate,DROSHA
+Mercaptopurine,CYP2A7
+Daunorubicin hydrochloride,SLCO4C1
+Doxorubicin hydrochloride,SLCO4C1
+Gemcitabine hydrochloride,SH2D5
+Fluorouracil,TK1
+Capecitabine,TK1
+Gemcitabine hydrochloride,BAZ2B
+Thalidomide,XRCC5
+Celecoxib,CACNA1C
+Fluorouracil,NOS3
+Oxaliplatin,NOS3
+Cyclophosphamide,NOS3
+Daunorubicin hydrochloride,NOS3
+4'-Epiadriamycin,NOS3
+Methotrexate,NOS3
+Vincristine sulfate,NOS3
+Sorafenib tosylate,NOS3
+Cyclophosphamide,UGT2B7
+Fluorouracil,CBR3
+Cyclophosphamide,CBR3
+4'-Epiadriamycin,CBR3
+Paclitaxel,CBR3
+Fluorouracil,HLA-G
+Capecitabine,HLA-G
+Methotrexate,HLA-G
+Celecoxib,KCNQ3
+Axitinib,OR2B11
+Anastrozole,TNFRSF11A
+Letrozole,TNFRSF11A
+Fluorouracil,GCKR
+Oxaliplatin,GCKR
+4'-Epiadriamycin,GCKR
+Methotrexate,SLC29A1
+Paclitaxel,SLC29A1
+Carboplatin,RNF8
+Docetaxel,RNF8
+Gefitinib,DPT
+Hydroxyurea,IFNL4
+Imatinib mesylate,ULK3
+Methotrexate,CDK9
+Methotrexate,PTPN22
+Fluorouracil,GNL3
+Cyclophosphamide,GNL3
+4'-Epiadriamycin,GNL3
+Oxaliplatin,DLEU7
+Gefitinib,NFKBIA
+Cisplatin,ESR1
+Carboplatin,SOX10
+Docetaxel,SOX10
+Paclitaxel,SOX10
+Carboplatin,RAF1
+Cisplatin,RAF1
+Docetaxel,RAF1
+Gemcitabine hydrochloride,RAF1
+Paclitaxel,RAF1
+Carboplatin,MAD1L1
+Paclitaxel,MAD1L1
+Daunorubicin hydrochloride,SLC15A1
+Doxorubicin hydrochloride,SLC15A1
+Gefitinib,ARFGEF3
+Fluorouracil,PSMB3P1
+Cisplatin,RARS1
+Anastrozole,KMT2C
+Anastrozole,ERBB2
+Carmustine,MGMT
+Celecoxib,PIK3CA
+Chlorambucil,FANCC
+Cyclophosphamide,CYP19A1
+Fluorouracil,DKK1
+Fluorouracil,ALCAM
+Fluorouracil,ENOSF1
+Fluorouracil,SMAD4
+Fluorouracil,HSPA5
+Fluorouracil,AURKA
+Hydroxyurea,RRM2B
+Letrozole,CDKN2A
+Letrozole,CTNNB1
+Letrozole,KMT2C
+Mitoxantrone,TOP2B
+Imatinib mesylate,RCSD1
+Imatinib mesylate,NF2
+Imatinib mesylate,XIAP
+Imatinib mesylate,NF1
+Imatinib mesylate,PDGFB
+Imatinib mesylate,IKZF1
+Imatinib mesylate,KRAS
+Vorinostat,GNA11
+Vorinostat,BAP1
+Temozolomide,SLFN11
+Temozolomide,MYC
+Temozolomide,ATR
+Temozolomide,ATRX
+Temozolomide,ATM
+Temozolomide,BRCA2
+Thalidomide,RBX1
+Thalidomide,CUL4A
+Thalidomide,DDB1
+Mitomycin,FANCC
+Mitomycin,TP53
+Mitomycin,PALB2
+Vincristine sulfate,ATRX
+Azacitidine,IL11
+Azacitidine,PLAU
+Azacitidine,LIF
+Azacitidine,DNMT3A
+Vinblastine sulfate,NF1
+Cladribine,IL2RA
+Cladribine,BCL2L2
+Cladribine,CDKN1A
+Cladribine,TGFB1
+Cladribine,ADA
+Daunorubicin hydrochloride,DNMT3A
+Daunorubicin hydrochloride,IKZF1
+Daunorubicin hydrochloride,NPM1
+Daunorubicin hydrochloride,WT1
+Doxorubicin hydrochloride,CYP19A1
+Doxorubicin hydrochloride,ZEB1
+Doxorubicin hydrochloride,LRP1B
+Paclitaxel,AURKA
+Paclitaxel,SYK
+Paclitaxel,PGP
+Paclitaxel,TLE3
+Paclitaxel,ABCC3
+Paclitaxel,PDCD4
+Paclitaxel,STMN1
+Paclitaxel,NRG1
+Etoposide,PGP
+4'-Epiadriamycin,TOP2B
+4'-Epiadriamycin,CYP19A1
+4'-Epiadriamycin,FOXP3
+Mitoxantrone,PAX8
+Mitoxantrone,PPARD
+Mitoxantrone,L3MBTL1
+Mitoxantrone,IDH1
+Mitoxantrone,KDM4E
+Mitoxantrone,POLB
+Mitoxantrone,APEX1
+Mitoxantrone,BAZ2B
+Mitoxantrone,VDR
+Mitoxantrone,NPSR1
+Mitoxantrone,KAT2A
+Mitoxantrone,MAPT
+Mitoxantrone,AR
+Exemestane,KMT2C
+Gemcitabine hydrochloride,POLD1
+Gemcitabine hydrochloride,POLE
+Gemcitabine hydrochloride,POLA1
+Gemcitabine hydrochloride,CIP2A
+Gemcitabine hydrochloride,NRG1
+Gemcitabine hydrochloride,FGFR3
+Gemcitabine hydrochloride,WEE1
+Gemcitabine hydrochloride,EGFR
+Gemcitabine hydrochloride,BRCA2
+Gemcitabine hydrochloride,FANCC
+Gemcitabine hydrochloride,IGF2
+Capecitabine,BRAF
+Zoledronic acid,CYP2C8
+Zoledronic acid,PPCDC
+Zoledronic acid,PPARG
+Fulvestrant,CDK6
+Fulvestrant,CCNE1
+Fulvestrant,FGFR2
+7-Ethyl-10-hydroxycamptothecin,UGT1A9
+7-Ethyl-10-hydroxycamptothecin,HDAC3
+7-Ethyl-10-hydroxycamptothecin,ABCC2
+7-Ethyl-10-hydroxycamptothecin,CES2
+7-Ethyl-10-hydroxycamptothecin,HDAC1
+7-Ethyl-10-hydroxycamptothecin,ABCB1
+7-Ethyl-10-hydroxycamptothecin,SLCO1B1
+7-Ethyl-10-hydroxycamptothecin,HDAC8
+7-Ethyl-10-hydroxycamptothecin,HDAC2
+7-Ethyl-10-hydroxycamptothecin,UGT1A8
+7-Ethyl-10-hydroxycamptothecin,HDAC7
+7-Ethyl-10-hydroxycamptothecin,UGT1A4
+7-Ethyl-10-hydroxycamptothecin,HDAC10
+7-Ethyl-10-hydroxycamptothecin,BCHE
+7-Ethyl-10-hydroxycamptothecin,UGT1A6
+7-Ethyl-10-hydroxycamptothecin,HDAC5
+7-Ethyl-10-hydroxycamptothecin,HDAC4
+7-Ethyl-10-hydroxycamptothecin,UGT1A3
+7-Ethyl-10-hydroxycamptothecin,HDAC9
+7-Ethyl-10-hydroxycamptothecin,ABCC1
+7-Ethyl-10-hydroxycamptothecin,UGT1A1
+7-Ethyl-10-hydroxycamptothecin,HDAC11
+7-Ethyl-10-hydroxycamptothecin,HDAC6
+7-Ethyl-10-hydroxycamptothecin,ABCG2
+7-Ethyl-10-hydroxycamptothecin,UGT1A10
+7-Ethyl-10-hydroxycamptothecin,CES1
+Clofarabine,POLE
+Clofarabine,APBB1
+Clofarabine,RRM2B
+Clofarabine,POLD1
+Gefitinib,PBK
+Gefitinib,CRKL
+Gefitinib,TNK2
+Methotrexate,IKZF1
+Methotrexate,TARDBP
+Abiraterone,AR
+Docetaxel,EGFR
+Docetaxel,TLE3
+Docetaxel,CYP19A1
+Docetaxel,TUB
+Docetaxel,PGP
+Docetaxel,STK11
+Docetaxel,FGFR1
+Docetaxel,TUBB3
+Docetaxel,GAS6
+Docetaxel,BIRC5
+Docetaxel,IGF2
+Erlotinib hydrochloride,MAPK1
+Erlotinib hydrochloride,FGFR4
+Erlotinib hydrochloride,PTEN
+Erlotinib hydrochloride,NF2
+Erlotinib hydrochloride,PIK3CA
+Erlotinib hydrochloride,NRG1
+Erlotinib hydrochloride,NF1
+Erlotinib hydrochloride,ERRFI1
+Erlotinib hydrochloride,IGF1R
+Lapatinib ditosylate,EEF2K
+Lapatinib ditosylate,NRG1
+Lapatinib ditosylate,BIRC5
+Lapatinib ditosylate,NF2
+Lapatinib ditosylate,CDKN1B
+Sorafenib tosylate,FGF3
+Sorafenib tosylate,ARID1A
+Sorafenib tosylate,HMOX1
+Sorafenib tosylate,VHL
+Sorafenib tosylate,NF1
+Lenalidomide,CUL4A
+Lenalidomide,DDB1
+Lenalidomide,RBX1
+Bortezomib,CCND1
+Bortezomib,KLK4
+Bortezomib,PRB2
+Tretinoin,NPM1
+Decitabine,TP53
+Decitabine,GSTP1
+Decitabine,MUC2
+Decitabine,KRAS
+Decitabine,IL2RA
+Teniposide,TOP2B
+Teniposide,ABCC1
+Teniposide,H2AW
+Melphalan,FANCC
+Idarubicin hydrochloride,TOP2A
+Nilotinib,NF1
+Fludarabine,IKZF1
+Fludarabine,ADA
+Mercaptopurine,PRPS1
+Thioguanine,PRPS1
+Thioguanine,NT5C2
+Thioguanine,MYC
+Tamoxifen citrate,TFF3
+Tamoxifen citrate,NF1
+Tamoxifen citrate,AURKA
+Dasatinib,ARID1A
+Dasatinib,NF1
+Dasatinib,CRKL
+Dasatinib,CSF3R
+Vandetanib,SRC
+Vandetanib,EPHB3
+Vandetanib,ERBB3
+Vandetanib,EPHA1
+Vandetanib,ERBB2
+Vandetanib,EPHA10
+Vandetanib,KRAS
+Vandetanib,EPHB6
+Vandetanib,EPHA7
+Sirolimus,ERBB2
+Sirolimus,FLCN
+Sirolimus,TSC1
+Sirolimus,NF1
+Sirolimus,PTEN
+Sirolimus,JAK2
+Sirolimus,OPRK1
+Sirolimus,RHEB
+Vinorelbine tartrate,RRM1
+Vinorelbine tartrate,TUBA3E
+Vinorelbine tartrate,TUBA1C
+Vinorelbine tartrate,TUBA1A
+Vinorelbine tartrate,TUBB1
+Vinorelbine tartrate,TUBA4A
+Vinorelbine tartrate,TUBB4B
+Vinorelbine tartrate,TUBA3D
+Vinorelbine tartrate,TUBB3
+Vinorelbine tartrate,TUBA3C
+Vinorelbine tartrate,TUB
+Vinorelbine tartrate,TUBB6
+Vinorelbine tartrate,SMARCA4
+Vinorelbine tartrate,TUBB4A
+Vinorelbine tartrate,TUBB2B
+Vinorelbine tartrate,XRCC1
+Vinorelbine tartrate,TUBB8
+Vinorelbine tartrate,TUBA1B
+Sunitinib,HIF1A
+Sunitinib,CA9
+Sunitinib,EWSR1
+Sunitinib,BAP1
+Sunitinib,MKI67
+Sunitinib,PTPN12
+Sunitinib,PBRM1
+Sunitinib,HMOX1
+Sunitinib,KDM5C
+Sunitinib,VEGFC
+Sunitinib,PTPRB
+Romidepsin,BIRC5
+Romidepsin,CTAG1B
+Everolimus,TSC2
+Everolimus,CTNNB1
+Everolimus,NF1
+Everolimus,FLCN
+Everolimus,KDM5C
+Everolimus,PBRM1
+Everolimus,NF2
+Everolimus,TSC1
+Everolimus,BAP1
+Ixabepilone,TUBB6
+Ixabepilone,TUBB2B
+Ixabepilone,TUBA1A
+Ixabepilone,TUBA1B
+Ixabepilone,TUBB4B
+Ixabepilone,TUBA1C
+Ixabepilone,TUB
+Ixabepilone,TUBA3E
+Ixabepilone,TUBB8
+Ixabepilone,TUBA3D
+Ixabepilone,TUBA4A
+Axitinib,VHL
+Cabazitaxel,TUBA3D
+Cabazitaxel,TUBA1B
+Cabazitaxel,TUBA1A
+Cabazitaxel,TUBB8
+Cabazitaxel,TUBB4B
+Cabazitaxel,TUBA1C
+Cabazitaxel,TUBB2A
+Cabazitaxel,TUBB3
+Cabazitaxel,TUBB6
+Cabazitaxel,TUBA3E
+Cabazitaxel,TUB
+Cabazitaxel,TUBB2B
+Cabazitaxel,IGF2
+Pazopanib hydrochloride,LCK
+Pazopanib hydrochloride,KIT
+Pazopanib hydrochloride,FGFR1
+Pazopanib hydrochloride,ITK
+Pazopanib hydrochloride,KDR
+Pazopanib hydrochloride,FGFR3
+Pazopanib hydrochloride,CSF1R
+Pazopanib hydrochloride,FLT1
+Pazopanib hydrochloride,FLT4
+Pazopanib hydrochloride,PDGFRB
+Pazopanib hydrochloride,PDGFRA
+Crizotinib,AREG
+Crizotinib,NTRK1
+Crizotinib,PTPN12
+Vinorelbine tartrate,AR
+Vinorelbine tartrate,JUN
+Eribulin mesylate,TUBA3E
+Eribulin mesylate,TUBA3D
+Eribulin mesylate,TUBB3
+Eribulin mesylate,TUBB1
+Eribulin mesylate,TUBB2A
+Eribulin mesylate,TUBA1C
+Eribulin mesylate,TUBA4A
+Eribulin mesylate,TUBB4B
+Eribulin mesylate,TUBA1A
+Eribulin mesylate,TUBB8
+Eribulin mesylate,CYP3A4
+Eribulin mesylate,TUBB6
+Eribulin mesylate,TUBB
+Eribulin mesylate,TUBB2B
+Eribulin mesylate,TUBA1B
+Ruxolitinib,IL7R
+Ruxolitinib,VHL
+Ruxolitinib,SH2B3
+Ruxolitinib,CRLF2
+Ruxolitinib,PLAUR
+Vemurafenib,RAC1
+Vemurafenib,NF1
+Vemurafenib,MET
+Vemurafenib,CDKN2A
+Vemurafenib,SOX10
+Vemurafenib,MITF
+Vemurafenib,ATXN1L
+Vemurafenib,PREX2
+Vemurafenib,MAP2K2
+Vemurafenib,AKT3
+Vemurafenib,PIK3R2
+Vemurafenib,STAG3
+Vemurafenib,CIC
+Pemetrexed Disodium,EGFR
+Pemetrexed Disodium,ALK
+Quinacrine hydrochloride,PLA2G1B
+Cisplatin,TERT
+Fluorouracil,TERT
+Imatinib mesylate,MCL1
+Zoledronic acid,MMP2
+Zoledronic acid,COL1A1
+Zoledronic acid,TNFRSF11B
+Zoledronic acid,VDR
+Zoledronic acid,SPP1
+Zoledronic acid,TNFRSF11A
+Oxaliplatin,ERN1
+Oxaliplatin,DKK1
+Oxaliplatin,FOXC2
+Oxaliplatin,ZEB1
+Paclitaxel,PON1
+Paclitaxel,FGFR1
+Paclitaxel,ITGB3
+Paclitaxel,ABL1
+Docetaxel,TUBB2B
+Docetaxel,TUBB4B
+Docetaxel,TUBB8
+Docetaxel,TUBA1A
+Docetaxel,TUBA1B
+Docetaxel,TUBA1C
+Docetaxel,TUBA3D
+Docetaxel,TUBB6
+Docetaxel,TUBA4A
+Docetaxel,TUBB2A
+Docetaxel,TUBA3E
+Erlotinib hydrochloride,PTPRF
+Crizotinib,AURKAIP1
+Tamoxifen citrate,EBPL
+Cisplatin,MIR21
+Dasatinib,MYT1
+Fluorouracil,PSMB3P
+Cisplatin,RARS
+Bendamustine hydrochloride,BIRC2
+Bendamustine hydrochloride,BIRC3
+Bendamustine hydrochloride,CASP3
+Bendamustine hydrochloride,CASP6
+Bendamustine hydrochloride,CASP7
+Bendamustine hydrochloride,CASP8
+Bendamustine hydrochloride,CASP9
+Bendamustine hydrochloride,DAXX
+Bendamustine hydrochloride,DIABLO
+Bendamustine hydrochloride,GLB1
+Bendamustine hydrochloride,PARP1
+Bendamustine hydrochloride,PAWR
+Bendamustine hydrochloride,TP53
+Bendamustine hydrochloride,XIAP
